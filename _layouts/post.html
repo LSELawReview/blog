@@ -6,18 +6,20 @@ layout: default
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
 		<div class="h-100 tofront">
 			<div class="row justify-content-center">
-				<div class="col-md-8 pr-0 pr-md-4 pt-4 pb-4 align-self-center" style="text-align:center">
-					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
-					<p class="text-uppercase font-weight-bold">
-                        <span class="catlist">
-						{% for category in page.categories %}
-                          <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>
-					</p>
-					<div class="d-flex align-items-center">
+				<div class="col-md-8 pr-0 pr-md-4 pt-4 pb-4 align-self-center">
+					<div class="d-flex align-items-center" style="text-align:center">
+                        <h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
+						<p class="text-uppercase font-weight-bold">
+	                        <span class="catlist">
+							{% for category in page.categories %}
+	                          <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
+	                        {% endfor %}
+	                        </span>
+						</p>
+					</div>
+					<div class="d-flex align-items-left">
                         {% if author.avatar %}
-                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
+                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="60"/>
                         {% endif %}
 						<small class="ml-3"> {{ author.name }} <span>
                             <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }}</span>
