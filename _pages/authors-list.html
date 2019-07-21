@@ -26,6 +26,7 @@ permalink: "/authors"
     </div>
     
     {% for author in site.authors %}
+    <br>
     <div class="col-md-8"> 
         <h4 class="font-weight-bold spanborder"><span>Posts by {{ author[1].name }}</span></h4>
       {% assign posts = site.posts | where:"author","jane" %}
