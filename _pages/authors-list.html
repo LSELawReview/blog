@@ -18,47 +18,20 @@ permalink: "/authors"
             <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
             <div class="excerpt">{{ author[1].bio }}</div>
             </a>
-            <div class="icon-block mt-3 d-flex justify-content-between">  
-            <div>
-            <a target="_blank" href="{{ author[1].twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
-            <a target="_blank" href="{{ author[1].site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
-            </div>
-            </div>
             </div>
             </div>
             </div>
         </div>
     {% endfor %}
     </div>
-</div>
-
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
-            
-        {% for category in site.categories %} 
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
-            
-        {% assign pages_list = category[1] %}
-        {% for post in pages_list %}
-        {% if post.title != null %}
-          {% if group == null or group == post.group %}
-         
-            {% include main-loop-card.html %}
-          {% endif %}
-        {% endif %}
-        {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
-
-        {% endfor %}
-
-        </div>
-        
-            <div class="col-md-4">
-        {% include sidebar-featured.html %}    
+    
+    {% for author in site.authors %}
+    <div class="col-md-8"> 
+        <h4 class="font-weight-bold spanborder"><span>Posts by {{ author[1].name }}</span></h4>
+      {% assign posts = site.posts | where:"author","jane" %}
+      {% for post in posts %}
+      {% include main-loop-card.html %}
+      {% endfor %}
     </div>
-        
-    </div>
+    {% endfor %}
 </div>
