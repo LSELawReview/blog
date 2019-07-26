@@ -6,18 +6,25 @@ favicon: 'assets/images/favicon.ico'
 baseurl: '/blog'
 disqus: 'demowebsite'
 email: 'lselawreview@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+## Find Old References:
+# \[([^\[]+)\] (.+\n)*
+
+## Replace with:
+# <div class="reference" id="$1">[$1]: $2</div>\n
+
 
 include: ["_pages"]
-permalink: /:title/
+permalink: /:year/:month/:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
 authors:
     gloria:
       name:           "Gloria Schiavo"
@@ -26,11 +33,17 @@ authors:
       email:          g.schiavo@lse.ac.uk
 
     thomas:
-      name:           Thomas
+      name:           Thomas Yeon
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Anything's better than Gloria!"
+      bio:            "LLM (Human Rights Law) (LSE) ‘19"
       email:          fakemail@gmail.com
- 
+
+    claudia:
+      name:           Claudia Tam
+      avatar:         /assets/images/avatar3.jpg
+      bio:            "LLB (HKU) ‘19"
+      email:          tcook@apple.com
+
 # Defaults
 defaults:
 
@@ -41,13 +54,13 @@ defaults:
       layout: post
       author: gloria
       avatar: /assets/images/avatar1.jpg
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge

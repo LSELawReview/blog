@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
+author: tim
+categories: [ "Public Law" ]
 image: assets/images/4.jpg
 tags: [featured]
 ---

@@ -1,25 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-categories: [ Jekyll ]
+title:  "Intersectionality at 30: Mapping the Margins of Anti-Essentialism, Intersectionality, and Dominance Theory"
+categories: [ "International Law" ]
 image: assets/images/demo1.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+2019 marks thirty years since the publication of Kimberlé Crenshaw’s groundbreaking article, Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.
 
-Jekyll also offers powerful support for code snippets:
+While scholars across the disciplines have engaged intersectionality from a range of theoretical and normative vantage points, there has been little effort to analyze intersectionality in relation to two other enormously influential theoretical frameworks: Angela Harris’s critique of gender essentialism and Catharine MacKinnon’s dominance theory.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+This Essay endeavors to fill that gap. Broadly articulated, our project is to map how anti-essentialism, dominance theory, and intersectionality converge and to articulate the places where they do not. In the context of doing so, we advance three core claims. First, scholars erroneously conflate intersectionality with anti-essentialism and thus erroneously perceive a strong opposition between intersectionality and dominance theory on the view that dominance theory is essentialist and that intersectionality is not.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+In the context of disaggregating intersectionality from anti-essentialism, we contest the view that feminism and critical theory must always avoid essentialism to achieve normative commitments to social transformation. Second, we argue that scholars have largely overlooked the fact that dominance theory and intersectionality share a critique of conceptions of equality structured around sameness and difference. Third, we contend that while there is an affiliation between dominance theory and intersectionality, there is also at least some tension between their respective framings of race and gender. We explore this tension by examining how intersectionality potentially stages a “soft” critique of MacKinnon’s defense of dominance theory against charges of essentialism in her provocatively titled essay, From Practice to Theory, or What Is a White Woman, Anyway?
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Our hope is that the Essay will both challenge the prevailing ways in which many scholars, including some feminists and critical race theorists, frame anti-essentialism, intersectionality, and dominance theory, and underscore the critical importance of attending to how racial power is gendered and gender subordination is racialized. Much is at stake with respect to the theoretical terrain we mean to cover. In addition to taking women’s theorizing seriously and facilitating the production of knowledge in historically marginalized areas of legal scholarship, we believe that engagements with anti-essentialism, intersectionality, and dominance theory have profound implications for the substantive form and content of political organizing, civil rights advocacy, and legal reform initiatives. Indeed, underwriting our effort in this Essay is the view that how we theorize social problems, including the subordination of women, necessarily shapes the scope and content of our social justice imaginary — which is to say, our freedom dreams.
+
+
+
+
+
+* Honorable Harry Pregerson Professor of Law, UCLA School of Law.
+
+** Rosalinde and Arthur Gilbert Foundation Chair in Civil Rights and Civil Liberties, UCLA School of Law. We thank the participants at the Intersectionality Workshop at UCLA and the African American Policy Forum’s Social Justice Writers Retreat for feedback on this paper. The Essay benefited enormously from engagements with our students in our Critical Race Theory classes over the past several years. We thank the UCLA Dean’s Fund and the Ameri-can Bar Foundation for providing funding for the project. Alison Korgan and Jennifer Jones provided invaluable research assistance. All errors are our own.

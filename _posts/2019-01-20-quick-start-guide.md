@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Quick Start Guide"
-author: sal
-categories: [ Jekyll, tutorial ]
+author: tim
+categories: [ "Tech Law" ]
 image: assets/images/12.jpg
 ---
 
