@@ -3,10 +3,20 @@
  */
 :root {
   --main-theme-color: rgb(78, 44, 120);
+  --secondary-theme-color: rgb(131, 107, 160);
 }
 
 .brand-color {
   color: var(--main-theme-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, Times, "Times New Roman", serif !important;
+  font-weight: 450 !important;
+}
+
+body {
+  /* font-family: Lora, Georgia, Times, "Times New Roman", serif; */
 }
 
 .inline-reference {
@@ -65,7 +75,19 @@ a {
   color: var(--main-theme-color);
 }
 
+a:hover {
+  color: var(--secondary-theme-color) !important;
+}
+
+a.text-muted:hover {
+  color: var(--secondary-theme-color) !important;
+}
+
 a.text-dark:hover {
+  color: var(--main-theme-color) !important;
+}
+
+.page-link {
   color: var(--main-theme-color) !important;
 }
 
@@ -266,6 +288,7 @@ a.text-dark:hover {
 .navbar .container {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  border-bottom: var(--main-theme-color) solid 2px;
 }
 
 .navbar .highlight .nav-link {
@@ -577,8 +600,9 @@ a.text-dark:hover {
   border-color: var(--main-theme-color);
 }
 
-hr .brand-color {
-  border-top-color: var(--main-theme-color);
+hr.brand-color {
+  height: 2px;
+  border-color: var(--main-theme-color);
 }
 
 .alert-primary hr {
@@ -820,7 +844,7 @@ ol.list-featured li:before {
   font-weight: bold;
   font-size: 2rem;
   margin-right: 0.5rem;
-  font-family: Arial;
+  font-family: Georgia, Times, "Times New Roman", serif;
   line-height: 1;
   opacity: .1;
 }
@@ -919,12 +943,12 @@ article h1, article h2, article h3, article h4, article h5, article h6, article 
 }
 
 .spanborder {
-  border-bottom: 1px solid #e8f3ec;
+  border-bottom: 1px solid var(--main-theme-color);
   margin-bottom: 2rem;
 }
 
 .spanborder span {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.44);
+  border-bottom: 1px solid var(--main-theme-color);
   display: inline-block;
   padding-bottom: 20px;
   margin-bottom: -1px;
