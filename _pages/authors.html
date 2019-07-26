@@ -32,7 +32,15 @@ permalink: "/authors"
       {% for author in site.authors %}
         <br id="{{ author[0] | slugify }}">
         <h3 class="font-weight-bold title h6 text-uppercase mb-4 brand-color"><span>Posts by {{ author[1].name }}</span></h3>
-        {% assign posts = site.posts | where:"author",author[0] %}
+
+        {% assign posts = "" | split: "" %}
+
+        {% for post in site.posts %}
+        {% if post.author == author[0] or post.authors contains author[0] %}
+        {% assign posts = posts | push: post %}
+        {% endif %}
+        {% endfor %}
+
         {% for post in posts %}
           {% if post.title != null %}
             {% if group == null or group == post.group %}

@@ -11,7 +11,7 @@ permalink: "/categories"
         <h4 class="font-weight-bold spanborder text-capitalize"><span>Categories</span></h4>
 
         {% for category in site.categories %}
-        <br id="{{ category[0] | downcase }}">
+        <br id="{{ category[0] | slugify }}">
             <h3 class="font-weight-bold title h6 text-uppercase mb-4 brand-color"><span>{{ category[0] }}</span></h3>
             {% assign pages_list = category[1] %}
             {% for post in pages_list %}

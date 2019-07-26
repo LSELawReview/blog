@@ -577,6 +577,10 @@ a.text-dark:hover {
   border-color: var(--main-theme-color);
 }
 
+hr .brand-color {
+  border-top-color: var(--main-theme-color);
+}
+
 .alert-primary hr {
   border-top-color: #038f6a;
 }
