@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  /* font-family: Lora, Georgia, Times, "Times New Roman", serif; */
+  font-family: Lora, Georgia, Times, "Times New Roman", serif;
 }
 
 .inline-reference {
@@ -874,6 +874,7 @@ footer {
 .excerpt {
   color: rgba(0, 0, 0, 0.59);
   margin-top: 10px;
+  line-height: 1.7 !important;
 }
 
 article {
