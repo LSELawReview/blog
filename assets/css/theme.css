@@ -303,7 +303,7 @@ a.text-dark:hover {
   color: var(--main-theme-color) !important;
   margin-right: 2rem;
   font-size: 1.8rem;
-  font-family: "Noto Serif", "Georgia", "Times New Roman", serif;
+  font-family: "Georgia", "Times New Roman", serif;
 }
 
 .dropdown-item {
@@ -949,6 +949,7 @@ article h1, article h2, article h3, article h4, article h5, article h6, article 
   display: inline-block;
   padding-bottom: 20px;
   margin-bottom: -1px;
+  font-family: "Georgia", "Times New Roman", serif !important;
 }
 
 .a2a_default_style .a2a_svg {
