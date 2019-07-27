@@ -20,6 +20,7 @@
 
     <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif&display=swap" rel="stylesheet">
 
     <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
     <script
@@ -32,6 +33,14 @@
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
+
+{% if page.url != "/" %}
+<style>
+.navbar .container {
+  border-bottom: var(--main-theme-color) solid 2px;
+}
+</style>
+{% endif %}
 
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">

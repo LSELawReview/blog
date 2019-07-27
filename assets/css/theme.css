@@ -11,12 +11,8 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Georgia, Times, "Times New Roman", serif !important;
+  font-family: "Noto Serif", Georgia, Times, "Times New Roman", serif !important;
   font-weight: 450 !important;
-}
-
-body {
-  font-family: Lora, Georgia, Times, "Times New Roman", serif;
 }
 
 .inline-reference {
@@ -288,7 +284,6 @@ a.text-dark:hover {
 .navbar .container {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  border-bottom: var(--main-theme-color) solid 2px;
 }
 
 .navbar .highlight .nav-link {
@@ -307,8 +302,8 @@ a.text-dark:hover {
 .navbar-brand {
   color: var(--main-theme-color) !important;
   margin-right: 2rem;
-  font-size: 1.55rem;
-  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 1.8rem;
+  font-family: "Noto Serif", "Georgia", "Times New Roman", serif;
 }
 
 .dropdown-item {
@@ -382,7 +377,7 @@ a.text-dark:hover {
   border-radius: 5px;
   padding: .5rem .5rem;
   height: 35px;
-  width: 300px;
+  width: 250px;
   border: 1px solid #eee;
   font-family: 'Segoe UI', 'Helvetica Neue', 'Arial', 'Font Awesome 5 Free'
 }
@@ -875,6 +870,7 @@ footer {
   color: rgba(0, 0, 0, 0.59);
   margin-top: 10px;
   line-height: 1.7 !important;
+  font-family: Lora, Georgia, Times, "Times New Roman", serif;
 }
 
 article {
