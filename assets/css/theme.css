@@ -16,6 +16,10 @@
   background-color: var(--main-theme-color);
 }
 
+.form-control:focus {
+  box-shadow: 0 0 0 0.2rem rgba(131, 107, 160, 0.25);
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Noto Serif", Georgia, Times, "Times New Roman", serif !important;
   font-weight: 450 !important;
