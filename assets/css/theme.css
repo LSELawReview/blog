@@ -11,6 +11,7 @@
 }
 
 .btn-brand-color {
+  color: #ffffff;
   border-color: var(--main-theme-color);
   background-color: var(--main-theme-color);
 }
