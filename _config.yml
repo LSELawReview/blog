@@ -1,8 +1,8 @@
 # Site
 name: 'LSE Law Review Blog'
 description: 'A student-run law journal seeking to provide a platform for high quality legal scholarship.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/favicon.ico'
 baseurl: '/'
 disqus: 'lse-law-review'
 email: 'lselawreview@gmail.com'
