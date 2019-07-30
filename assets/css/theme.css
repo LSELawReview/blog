@@ -10,6 +10,11 @@
   color: var(--main-theme-color);
 }
 
+.btn-brand-color {
+  border-color: var(--main-theme-color);
+  background-color: var(--main-theme-color);
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Noto Serif", Georgia, Times, "Times New Roman", serif !important;
   font-weight: 450 !important;
