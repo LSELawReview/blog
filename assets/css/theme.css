@@ -17,7 +17,8 @@
 }
 
 .form-control:focus {
-  box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.55);
+  border-color: var(--secondary-theme-color);
+  box-shadow: 0 0 0 0.2rem var(--secondary-theme-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
