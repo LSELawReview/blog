@@ -5,7 +5,7 @@ author: thomas
 categories: [ "Public Law"]
 ---
 
--- Case note: *R (on the application of Conway) v Secretary of State for Justice* (27 November 2018)[2]
+**Case note: *R (on the application of Conway) v Secretary of State for Justice* (27 November 2018)[2]**
 
 The topical issue of assisted dying ("AD") has shadowed over medical law and human rights law with numerous considerations, including the need to respect the patient's right to family life and safeguarding the sanctity of life.[3] Since the Supreme Court's seminal decision in *R (on the application of Nicklinson) v Secretary of State of Justice,*[4] the spotlight is placed on the respective institutional appropriateness of the courts and Parliament in addressing AD. The recent *Conway* litigation (since 2017) has reignited optimism of a right for terminally ill patients to AD. However, the Supreme Court's rejection of permission to appeal[5] has unsatisfactorily extinguished the optimism. This Note analyses the Supreme Court's approach to the contentions underlying the right to AD and its balancing exercise, arguing that it is incoherent and fails to articulate succinctly its own approach. The Note will also briefly examine the wider human rights law implications of the rejection in the medical law context. It will be argued that the Supreme Court's rejection is an unfortunate submission to the authority of the Parliament, and fails to live up to the optimism given by *Nicklinson*.
 
