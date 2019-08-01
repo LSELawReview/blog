@@ -26,23 +26,22 @@ plugins:
   - jekyll-seo-tag
 
 authors:
+
+    claudia:
+      name:           Claudia Tam
+      bio:            "LLB (University of Hong Kong) '19"
+      
     gloria:
       name:           "Gloria Schiavo"
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "I am a very annoying sister!"
+      avatar:         /assets/images/gloriaschiavo.jpg
+      bio:            "LLB (London School of Economics and Political Science) '20 and Editor-in-Chief of the LSE Law Review 2019-2020"
       email:          g.schiavo@lse.ac.uk
 
     thomas:
       name:           Thomas Yeon
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "LLM (Human Rights Law) (LSE) ‘19"
-      email:          fakemail@gmail.com
-
-    claudia:
-      name:           Claudia Tam
-      avatar:         /assets/images/avatar3.jpg
-      bio:            "LLB (HKU) ‘19"
-      email:          tcook@apple.com
+      avatar:         /assets/images/thomasyeon.jpg
+      bio:            "LLM (Human Rights Law) (London School of Economics and Political Science) ‘19 and Public Law Notes Editor of LSE Law Review 2018-2019"
+      email:          k.y.yeon@lse.ac.uk
 
 # Defaults
 defaults:
