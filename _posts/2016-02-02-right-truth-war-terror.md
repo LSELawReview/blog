@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Right to "Truth" on the War on Terror"
+title: "A Right to "Truth" on the War on Terror"
 author: narjis
 categories: [ "International Law"]
 ---
