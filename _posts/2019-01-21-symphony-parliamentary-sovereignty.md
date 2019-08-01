@@ -5,7 +5,7 @@ author: thomas
 categories: [ "Public Law" ]
 ---
 
-**Case note: Case C-621/18 Wightman v Secretary of State for Exiting the European Union**
+**-- Case note: Case C-621/18 Wightman v Secretary of State for Exiting the European Union**
 
 Since the Supreme Court's ("SC") landmark judgement in R (on the application of Gina Miller) v Secretary of State for Exiting the European Union,[1] the legal position and powers of the Westminster Parliament have been at the epicentre of the Brexit legal conundrum. The recent preliminary ruling given by the European Court of Wightman v Secretary of State for Exiting the European Union[2] has added an extra layer of complexity to it by holding that te Parliament can unilaterally revoke the notification to withdraw from the European Union ("EU") under Article 50 of the Treaty of Lisbon ("TEU"). Agreeing with Advocate General Sánchez-Bordona's ("AG") opinion,[3] the ECJ held that certain constitutional requirements have to be satisfied for a member state to revoke the notification unilaterally. This Note analyses the AG's opinion and ECJ's judgement, suggesting that it is a prudent manifestation of the doctrine of parliamentary sovereignty. It will also briefly examine the constitutional implications of the judgement on the Brexit process in terms of any requirements for revocation. It will be argued that Wightman offers, in line with Miller, a second opportunity to shape and influence the Brexit process.
 
