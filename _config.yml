@@ -28,9 +28,14 @@ plugins:
 authors:
 
     claudia:
-      name:           Claudia Tam
+      name:           "Claudia Tam"
       bio:            "LLB (University of Hong Kong) '19"
-      
+
+    floris:
+      name:           "Floris de Witte"
+      bio:            "Assistant Professor of Law at the London School of Economics and Political Science"
+      email:          f.e.de-witte@lse.ac.uk      
+
     gloria:
       name:           "Gloria Schiavo"
       avatar:         /assets/images/gloriaschiavo.jpg
@@ -38,11 +43,23 @@ authors:
       email:          g.schiavo@lse.ac.uk
 
     thomas:
-      name:           Thomas Yeon
+      name:           "Thomas Yeon"
       avatar:         /assets/images/thomasyeon.jpg
       bio:            "LLM (Human Rights Law) (London School of Economics and Political Science) ‘19 and Public Law Notes Editor of LSE Law Review 2018-2019"
       email:          k.y.yeon@lse.ac.uk
 
+    narjis:
+      name:           "Narjis Khan"
+      bio:            "LLM (Public International Law) (London School of Economics and Political Science) ‘16"
+
+    simon:
+      name:           "Simon Witney"
+      bio:            "PhD Candidate at the London School of Economics and Political Science"
+      email:          s.r.witney@lse.ac.uk
+      
+
+
+      
 # Defaults
 defaults:
 
