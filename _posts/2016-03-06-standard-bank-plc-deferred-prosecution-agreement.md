@@ -31,7 +31,7 @@ Against this background, whilst the DPA made between the SFO and Standard Bank m
 
 ###### Jonathan Fisher QC,
 
-Visitng Professor in Practice
+Visiting Professor in Practice
 
 LSE
 
