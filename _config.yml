@@ -27,12 +27,18 @@ plugins:
 
 authors:
 
+    austin:
+      name:           "Austin Chan"
+      avatar:         /assets/images/austinchan.jpg
+      bio:            "LLB (London School of Economics and Political Science) '20 and Management Editor of the LSE Law Review 2018-2019"
+      email:          h.chan21@lse.ac.uk       
+
     claudia:
       name:           "Claudia Tam"
       bio:            "LLB (University of Hong Kong) '19"
 
     floris:
-      name:           "Floris de Witte"
+      name:           "Dr. Floris de Witte"
       bio:            "Assistant Professor of Law at the London School of Economics and Political Science"
       email:          f.e.de-witte@lse.ac.uk      
 
@@ -42,21 +48,53 @@ authors:
       bio:            "LLB (London School of Economics and Political Science) '20 and Editor-in-Chief of the LSE Law Review 2019-2020"
       email:          g.schiavo@lse.ac.uk
 
-    thomas:
-      name:           "Thomas Yeon"
-      avatar:         /assets/images/thomasyeon.jpg
-      bio:            "LLM (Human Rights Law) (London School of Economics and Political Science) ‘19 and Public Law Notes Editor of LSE Law Review 2018-2019"
-      email:          k.y.yeon@lse.ac.uk
+    isabel:
+      name:           "Isabel Hahn"
+      avatar:         /assets/images/isabelhahn.jpg
+      bio:            "LLB (London School of Economics and Political Science) '20 and Articles Editor of the LSE Law Review Summer Board 2018"
+      email:          i.hahn@lse.ac.uk
+
+    josias:
+      name:           "Josias Senu"
+      bio:            "LLB (London School of Economics and Political Science) '19 and Articles Editor of the LSE Law Review Summer Board 2018"
+      email:          j.s.fisher@lse.ac.uk
+
+    jonathan:
+      name:           "Jonathan Fisher QC"
+      bio:            "Visiting Professor in Practice at the London School of Economics and Political Science"
+      email:          j.s.fisher@lse.ac.uk
+
+    lora:
+      name:           "Lora Izvorova"
+      avatar:         /assets/images/loraizvorova.jpg
+      bio:            "LLM (University of Cambridge) '19 and Management Editor at the LSE Law Review 2017-2018"
+      email:          lora.izvorova@gmail.com
+
+    mahmoud:
+      name:           "Mahmoud Serewel"
+      bio:            "LLB (London School of Economics and Political Science) '19 and International Law Notes Editor of the LSE Law Review 2018-2019"
+      email:          m.s.serewel@lse.ac.uk
 
     narjis:
       name:           "Narjis Khan"
       bio:            "LLM (Public International Law) (London School of Economics and Political Science) ‘16"
 
+    thomas:
+      name:           "Thomas Yeon"
+      avatar:         /assets/images/thomasyeon.jpg
+      bio:            "LLM (Human Rights Law) (London School of Economics and Political Science) ‘19 and Public Law Notes Editor of LSE Law Review 2018-2019"
+      email:          yeonky1997@gmail.com
+
     simon:
       name:           "Simon Witney"
       bio:            "PhD Candidate at the London School of Economics and Political Science"
       email:          s.r.witney@lse.ac.uk
-      
+
+    william:
+      name:           "William Wong"
+      avatar:         /assets/images/williamwong.jpg
+      bio:            "LLB (London School of Economics and Political Science) '20 and Private Law Notes Editor of the LSE Law Review 2018-2019"
+      email:          williamwuilong@gmail.com
 
 
       
