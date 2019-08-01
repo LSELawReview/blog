@@ -23,7 +23,7 @@ layout: default
 
 						{% if page.authors %}
 						{% for author in page.authors %}
-						<a href="{{site.baseurl}}/authors#{{ site.authors[author] }}"> {{ site.authors[author].name }}</a><span class="sep"> &</span>
+						<a href="{{site.baseurl}}/authors#{{ author }}"> {{ site.authors[author].name }}</a><span class="sep"> &</span>
 						{% endfor %}
 						{% endif %}
 					</span>
