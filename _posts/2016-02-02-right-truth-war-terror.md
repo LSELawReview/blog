@@ -46,5 +46,3 @@ LSE
 [9]González ("Cotton Field") v. Mexico (2010) 49 ILM 637 para 454.
 
 [10]'Abdul-Hakim Belhaj and Fatima Boudchar' (Reprieve) <<http://www.reprieve.org.uk/case-study/abdul-hakim-belhaj>> accessed on 20 January 2016.
-
-x
