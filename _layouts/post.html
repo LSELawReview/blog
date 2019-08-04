@@ -19,7 +19,7 @@ layout: default
 					<span class="authorlist">
 						By
 
-						{% if page.author %}<a href="{{site.baseurl}}/authors#{{ author }}"> {{ site.authors[author].name }}</a>{% endif %}
+						{% if page.author %}<a href="{{site.baseurl}}/authors#{{ page.author }}"> {{ site.authors[page.author].name }}</a>{% endif %}
 
 						{% if page.authors %}
 						{% for author in page.authors %}
@@ -122,13 +122,13 @@ layout: default
 			{% if page.author %}
 			<div class="row mt-5">
 				<div class="col-md-2 align-self-center">
-					{% if site.authors[author].avatar %}
-					<img class="rounded-circle" src="{{site.baseurl}}/{{site.authors[author].avatar}}" alt="{{site.authors[author].name}}" width="80" />
+					{% if site.authors[page.author].avatar %}
+					<img class="rounded-circle" src="{{site.baseurl}}/{{site.authors[page.author].avatar}}" alt="{{site.authors[page.author].name}}" width="80" />
 					{% endif %}
 				</div>
 				<div class="col-md-10">
-					<h5 class="font-weight-bold">Article by {{ site.authors[author].name }}</h5>
-					{{ site.authors[author].bio }}
+					<h5 class="font-weight-bold">Article by {{ site.authors[page.author].name }}</h5>
+					{{ site.authors[page.author].bio }}
 				</div>
 			</div>
 			{% endif %}
