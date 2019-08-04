@@ -3,6 +3,7 @@ layout: post
 title:  "The illegality of Russian intervention in Syria"
 author: mahmoud
 categories: [ "International Law" ]
+tags: [ "featured" ]
 ---
 
 ##### Introduction
