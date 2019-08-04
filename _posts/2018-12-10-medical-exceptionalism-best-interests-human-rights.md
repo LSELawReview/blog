@@ -5,7 +5,7 @@ author: thomas
 categories: [ "Public Law"]
 ---
 
--- *Case note: Y v An NHS Trust and others [2018] UKSC 46* [1]
+**Case note: *Y v An NHS Trust and others [2018] UKSC 46*** [1]
 
 The question over the necessity of obtaining court order for terminating clinically assisted nutrition and hydration ("CANH") for patients with minimal prospects of recovery reflects  two competing  concerns: (i) the right to respect the private and family life of the patient and his/her family, [2] and (ii) the necessity to ensure that the decision to terminate life support is one which is thoroughly considered by all relevant stakeholders. The Supreme Court decision in Y v An NHS Trust and others [3] has provided an insightful analysis of the non-necessity of obtaining a court order and the logic behind this. This note will analyse the decision from a human rights perspective on two levels. Firstly, it will examine Lady Black's observations on English and Strasbourg jurisprudence. Secondly, it will examine the decision's broader impact on the law's respect for the concerns of the patient and family's decisions in treatment withdrawal decisions, and the doctor's role therein. It will come to the conclusion that the commendable decision has offered a desirable degree of autonomy for patients and their families  in making decisions to terminate medical treatment.
 
