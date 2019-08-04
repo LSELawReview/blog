@@ -4,8 +4,7 @@ title:  "Creating easements with ease: Re Ellenborough Park test revisited"
 author: william
 categories: [ "Private Law" ]
 ---
-
--- Case note: Regency Villas Title Ltd v Diamond Resorts (Europe) Ltd [2018] UKSC 57*
+**Case note: *Regency Villas Title Ltd v Diamond Resorts (Europe) Ltd* [2018] UKSC 57**
 
 ##### A. Introduction
 
