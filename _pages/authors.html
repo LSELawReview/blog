@@ -38,7 +38,7 @@ permalink: "/authors"
                   <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}" src="{{ site.url }}{{ site.baseurl }}/{{ author[1].avatar }}" class="rounded-circle" style="display: block; width: 100%; height: auto; max-width: 100px"></div>
                 {% endif %}
                 <div class="col-md-{% if author[1].avatar %}9{% else %}12{% endif %}">
-                  <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
+                  <a href="{{ site.baseurl }}/authors#{{ author[0] | slugify }}">
                     <h4 class="text-dark mb-0">{{ author[1].name }}</h4>
                     <small class="d-inline-block mt-1 mb-1 font-weight-normal">View Posts</small>
                     <div class="excerpt">{{ author[1].bio }}</div>
