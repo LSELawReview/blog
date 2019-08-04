@@ -31,7 +31,7 @@ permalink: "/authors"
 
       {% for authorcategory in site.authorcategories %}
       {% assign authors = site.authors | where: "category", authorcategory[1].id %}
-      <h3 class="font-weight-bold title h6 text-uppercase mb-4 brand-color"><span>{{ authorcategory[1].name }}</span></h3>
+      <h3 class="font-weight-bold title h6 text-uppercase mb-4 brand-color"><span>{{ authorcategory[1].name }}{{ authors }}</span></h3>
       <div class="row gap-y listrecent listrecent listauthor">
         {% for author in authors %}
           <div class="col-lg-4 mb-1">
