@@ -28,6 +28,8 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
+authorcategories: [ "editor" ]
+
 authors:
 
     austin:
@@ -50,6 +52,7 @@ authors:
       avatar:         /assets/images/gloriaschiavo.jpg
       bio:            "LLB (London School of Economics and Political Science) '20 and Editor-in-Chief of the LSE Law Review 2019-2020"
       email:          g.schiavo@lse.ac.uk
+      category:       editor
 
     isabel:
       name:           "Isabel Hahn"
