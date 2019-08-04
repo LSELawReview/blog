@@ -3,6 +3,7 @@ layout: post
 title:  "A symphony of parliamentary sovereignty"
 author: thomas
 categories: [ "Public Law" ]
+tags: [ "featured" ]
 ---
 
 **-- Case note: *Case C-621/18 Wightman v Secretary of State for Exiting the European Union***
