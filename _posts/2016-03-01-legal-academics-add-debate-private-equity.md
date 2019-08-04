@@ -37,7 +37,10 @@ In the end Fairline Boats (now renamed Fairline Yachts) seems to have been saved
 
 PhD Candidate
 
-London School of Economics
+LSE
+
+---
+<br>
 
 [1] http://www.unitetheunion.org/news/call-for-probe-into-private-equity-firms-as-northamptonshire-boat-builder-goes-into-administration/ [Accessed 9 February 2016]
 
