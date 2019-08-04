@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating easements with ease: Re Ellenborough Park test revisited"
+title:  "Creating easements with ease: *Re Ellenborough Park* test revisited"
 author: william
 categories: [ "Private Law" ]
 ---
