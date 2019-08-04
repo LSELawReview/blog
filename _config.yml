@@ -10,10 +10,13 @@ email: 'lselawreview@gmail.com'
 
 ## Find Old References:
 # \[([^\[]+)\] (.+\n)*
-
 ## Replace with:
-# <div class="reference" id="$1">[$1]: $2</div>\n
+# <a class="reference" id="$1" href="#inline$1">[$1]</a>\n$2
 
+## Find Old Inline References
+# \[([^\[]+)\]
+## Replace with:
+# <a class="inline-reference" id="inline$1" href="#$1">$1</a>
 
 include: ["_pages"]
 permalink: /:year/:month/:title/
@@ -31,7 +34,7 @@ authors:
       name:           "Austin Chan"
       avatar:         /assets/images/austinchan.jpg
       bio:            "LLB (London School of Economics and Political Science) '20 and Management Editor of the LSE Law Review 2018-2019"
-      email:          h.chan21@lse.ac.uk       
+      email:          h.chan21@lse.ac.uk
 
     claudia:
       name:           "Claudia Tam"
@@ -40,7 +43,7 @@ authors:
     floris:
       name:           "Dr. Floris de Witte"
       bio:            "Assistant Professor of Law at the London School of Economics and Political Science"
-      email:          f.e.de-witte@lse.ac.uk      
+      email:          f.e.de-witte@lse.ac.uk
 
     gloria:
       name:           "Gloria Schiavo"
@@ -97,7 +100,7 @@ authors:
       email:          williamwuilong@gmail.com
 
 
-      
+
 # Defaults
 defaults:
 
