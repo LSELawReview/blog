@@ -6,7 +6,7 @@ categories: [ "Private Law" ]
 tags: [ "featured" ]
 ---
 
--- Case Note: *Darnley v Croydon Health Service NHS Trust [2018] UKSC 50, [2018] 3 WLR 1153*
+**Case Note: *Darnley v Croydon Health Service NHS Trust [2018] UKSC 50, [2018] 3 WLR 1153***
 
 ##### A. Introduction [1]
 
