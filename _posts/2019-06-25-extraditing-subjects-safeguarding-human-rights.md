@@ -2,7 +2,7 @@
 layout: post
 title:  "Extraditing suspects and safeguarding human rights - a tangled tale"
 authors: [ thomas, claudia ]
-categories: [ "Public Law", "Human Rights Law" ]
+categories: [ "Public Law"]
 tags: [ "featured" ]
 ---
 
