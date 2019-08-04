@@ -2,7 +2,7 @@
 layout: post
 title:  "Coherence and consistency: the need to avoid judicial confusion and its consequences under the Human Rights Act 1998"
 author: thomas
-categories: [ "Public Law", "Human Rights Law" ]
+categories: [ "Public Law"]
 ---
 
 **Case Note: *In re Siobhan McLaughlin *[2018] UKSC 48[1]**
