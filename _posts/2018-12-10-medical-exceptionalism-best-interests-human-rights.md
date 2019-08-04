@@ -47,7 +47,7 @@ _________________\
 [1] Many thanks to Mythili Mishra for her research assistance.\
 [2] Article 8, European Convention on Human Rights ("ECHR").\
 [3] [2018] UKSC 46, [8].\
-[4] [2017] EWHC 2866, [52].\
+[4] [2017] EWHC 2866, [52].
 [5] *Y* (n 3)  [126].\
 [6] ibid, [93]-[94].\
 [7] [1993] 1 All ER 281.\
