@@ -28,13 +28,12 @@ permalink: "/authors"
         </div>
         {% endfor %}
       </div> -->
-      
+
       {% for authorcategory in site.authorcategories %}
-      {% assign authors = site.authors | where: "category", authorcategory[0] %}
+      {% assign authors = site.authors | where: "category", authorcategory[1].id %}
       <h3 class="font-weight-bold title h6 text-uppercase mb-4 brand-color"><span>{{ authorcategory[1].name }}</span></h3>
       <div class="row gap-y listrecent listrecent listauthor">
-        {% for authorid in authors %}
-          {% assign author = site.authors[authorid] %}
+        {% for author in authors %}
           <div class="col-lg-4 mb-1">
             <div class="p-3 border rounded">
               <div class="row">
