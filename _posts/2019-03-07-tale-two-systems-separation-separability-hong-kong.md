@@ -73,8 +73,6 @@ Finally, a point should be made about the status of the Decision as "post-enactm
 
 [1] Many thanks to William Wong and Ines Chu on their insights on issues of constitutional interpretation under the Hong Kong Basic Law. Any errors or omissions remain my own.
 
-x
-
 [2] This is especially notable after the 2016 Legislative Council elections, when two successful candidates were "disqualified" as a result of their failure (which were adjudged to violate the BL: *Chief Executive of the Hong Kong Special Administrative Region and Others v Leung Chung Hang and Yau Wai Ching *HCAL 185/2016) to adhere to the rules of the oath-taking ceremony. The NPCSC has, unprecedented then, issued an interpretation of the BL in the absence of a request for interpretation from the Court of Final Appeal.
 
 [3] HCAl 1160, 1164, 1165, 1171 and 1178/2018.
