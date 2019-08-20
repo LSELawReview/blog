@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Privacy International: a constitutional barometer"
+title:  "*Privacy International*: a constitutional barometer"
 author: vasiliki
 categories: [ "Public Law"]
 ---
