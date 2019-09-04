@@ -59,79 +59,79 @@ The interests of justice determination in the PTC's Afghanistan ruling seemed a 
 <br>
 
 <a class="reference" id="1" href="#inline1">[1]</a>
-*Situation in the Islamic Republic of Afghanistan (Decision on the Authorisation of an Investigation)* ICC-02/17 (12 April 2019)
+*Situation in the Islamic Republic of Afghanistan (Decision on the Authorisation of an Investigation)* ICC-02/17 (12 April 2019).
 
 <a class="reference" id="2" href="#inline2">[2]</a>
-Situation in the *Islamic Republic of Afghanistan (Request for Authorisation of an Investigation)* ICC-02/17 (20 November 2017) [273]
+Situation in the *Islamic Republic of Afghanistan (Request for Authorisation of an Investigation)* ICC-02/17 (20 November 2017) [273].
 
 <a class="reference" id="3" href="#inline3">[3]</a>
-Dov Jacobs, ‘Some extra thoughts on why the ICC Pre-Trial Chamber acted ultra vires in using the “interests of justice” to not open an investigation in Afghanistan’ (Spreading the Jam, 12 April 2019) <https://dovjacobs.com/2019/04/12/some-extra-thoughts-on-why-the-icc-pre-trial-chamber-acted-ultra-vires-in-using-the-interests-of-justice-to-not-open-an-investigation-in-afghanistan/> accessed 12 August 2019
+Dov Jacobs, ‘Some extra thoughts on why the ICC Pre-Trial Chamber acted ultra vires in using the “interests of justice” to not open an investigation in Afghanistan’ (Spreading the Jam, 12 April 2019) <https://dovjacobs.com/2019/04/12/some-extra-thoughts-on-why-the-icc-pre-trial-chamber-acted-ultra-vires-in-using-the-interests-of-justice-to-not-open-an-investigation-in-afghanistan/> accessed 12 August 2019.
 
 <a class="reference" id="4" href="#inline4">[4]</a>
-Rome Statute of the International Criminal Court (Rome Statute), art 17
+Rome Statute of the International Criminal Court (Rome Statute), art 17.
 
 <a class="reference" id="5" href="#inline5">[5]</a>
-Rome Statute, art 15(3)
+Rome Statute, art 15(3).
 
 <a class="reference" id="6" href="#inline6">[6]</a>
-Rome Statute, art 53
+Rome Statute, art 53.
 
 <a class="reference" id="7" href="#inline7">[7]</a>
-*Afghanistan* (n 1) [87]
+*Afghanistan* (n 1) [87].
 
 <a class="reference" id="8" href="#inline8">[8]</a>
-ibid [91]
+ibid [91].
 
 <a class="reference" id="9" href="#inline9">[9]</a>
-ibid [92]-[93]
+ibid [92]-[93].
 
 <a class="reference" id="10" href="#inline10">[10]</a>
-ibid [94]
+ibid [94].
 
 <a class="reference" id="11" href="#inline11">[11]</a>
-ibid [95]
+ibid [95].
 
 <a class="reference" id="12" href="#inline12">[12]</a>
-ibid [96]
+ibid [96].
 
 <a class="reference" id="13" href="#inline13">[13]</a>
-ibid
+ibid.
 
 <a class="reference" id="14" href="#inline14">[14]</a>
-*Afghanistan* (n 2) [273]
+*Afghanistan* (n 2) [273].
 
 <a class="reference" id="15" href="#inline15">[15]</a>
-The doctrine of superior responsibility as per Rome Statute art 28(b) states that “a superior shall be criminally responsible for crimes within the jurisdiction of the Court committed by subordinates under his or her effective authority and control, as a result of his or her failure to exercise control properly over such subordinates” 
+The doctrine of superior responsibility as per Rome Statute art 28(b) states that “a superior shall be criminally responsible for crimes within the jurisdiction of the Court committed by subordinates under his or her effective authority and control, as a result of his or her failure to exercise control properly over such subordinates”.
 
 <a class="reference" id="16" href="#inline16">[16]</a>
-*Afghanistan* (n 1) [277]-[278]
+*Afghanistan* (n 1) [277]-[278].
 
 <a class="reference" id="17" href="#inline17">[17]</a>
-Committee against Torture ‘Concluding observations on the second periodic report of Afghanistan’ CAT/C/AFG/CO/2 (12 June 2017) AFG-OTP-0006-3144, 3
+Committee against Torture ‘Concluding observations on the second periodic report of Afghanistan’ CAT/C/AFG/CO/2 (12 June 2017) AFG-OTP-0006-3144, 3.
 
 <a class="reference" id="18" href="#inline18">[18]</a>
-UNAMA/OHCHR ‘Treatment of Conflict-Related Detainees in Afghanistan: Preventing Torture and Ill-treatment under the Anti-Torture Law’ (April 2019) 26
+UNAMA/OHCHR ‘Treatment of Conflict-Related Detainees in Afghanistan: Preventing Torture and Ill-treatment under the Anti-Torture Law’ (April 2019) 26.
 
 <a class="reference" id="19" href="#inline19">[19]</a>
-*Afghanistan* (n 2) [290]
+*Afghanistan* (n 2) [290].
 
 <a class="reference" id="20" href="#inline20">[20]</a>
-ibid [296]
+ibid [296].
 
 <a class="reference" id="21" href="#inline21">[21]</a>
-ibid [305]
+ibid [305].
 
 <a class="reference" id="22" href="#inline22">[22]</a>
-ibid [330]
+ibid [330].
 
 <a class="reference" id="23" href="#inline23">[23]</a>
-*Afghanistan* (n 1) [94]
+*Afghanistan* (n 1) [94].
 
 <a class="reference" id="24" href="#inline24">[24]</a>
-See the discussion on the wide construction of the interests of justice determination later in this paper, and its relation to the non-derogatory nature of *jus cogens* norms
+See the discussion on the wide construction of the interests of justice determination later in this paper, and its relation to the non-derogatory nature of *jus cogens* norms.
 
 <a class="reference" id="25" href="#inline25">[25]</a>
-Sharon A Williams, ‘Article 17: Issues of Admissibility’ in Otto Triffterer (ed) *Commentary on the Rome Statute of the International Criminal Court: Observers’ Notes, Article by Article* (Baden-Baden: Nomos Verlagsgesellschaft, 1999) 383, 384
+Sharon A Williams, ‘Article 17: Issues of Admissibility’ in Otto Triffterer (ed) *Commentary on the Rome Statute of the International Criminal Court: Observers’ Notes, Article by Article* (Baden-Baden: Nomos Verlagsgesellschaft, 1999) 383, 384.
 
 <a class="reference" id="26" href="#inline26">[26]</a>
 M Bergsmo, O Bekou & A Jones, ‘Complementarity after Kampala: Capacity Building and the ICC’s Legal Tools’ (2010) 2 GoJIL 791
@@ -140,55 +140,55 @@ M Bergsmo, O Bekou & A Jones, ‘Complementarity after Kampala: Capacity Buildin
 UNSC Res 1593 (31 March 2005) UN Doc S/RES/1593 (Resolution 1593) & UNSC Res 1970 (26 February 2011) UN Doc S/RES/1970 (Resolution 1970) pertained to the situations in Sudan and Libya respectively. Both situations were referred to the ICC by the UN Security Council (SC) pursuant to Rome Statute art 13(b). The SC resolutions imposed cooperating obligations on the state at issue, despite neither state having been party to the Rome Statute.
 
 <a class="reference" id="28" href="#inline28">[28]</a>
-Rome Statute, art 27(2)
+Rome Statute, art 27(2).
 
 <a class="reference" id="29" href="#inline29">[29]</a>
-Will Colish, ‘The International Criminal Court in Guinea: A Case Study of Complementarity’ (2013) Revue québécoise de droit international 23
+Will Colish, ‘The International Criminal Court in Guinea: A Case Study of Complementarity’ (2013) Revue québécoise de droit international 23.
 
 <a class="reference" id="30" href="#inline30">[30]</a>
-Frédéric Mégret and Marika Giles Samson, ‘Holding the Line on Complementarity in Libya: the Case for Tolerating Flawed Domestic Trials’ (2013) 11 Journal of International Criminal Justice 571
+Frédéric Mégret and Marika Giles Samson, ‘Holding the Line on Complementarity in Libya: the Case for Tolerating Flawed Domestic Trials’ (2013) 11 Journal of International Criminal Justice 571.
 
 <a class="reference" id="31" href="#inline31">[31]</a>
-Such as in Guinea. Colish (n 24)
+Such as in Guinea. Colish (n 24).
 
 <a class="reference" id="32" href="#inline32">[32]</a>
-Mohamed M El Zeidy, *The Principle of Complementarity in International Criminal Law* (Martinus Nijhogg 2008) 158
+Mohamed M El Zeidy, *The Principle of Complementarity in International Criminal Law* (Martinus Nijhogg 2008) 158.
 
 <a class="reference" id="33" href="#inline33">[33]</a>
-Previous investigations in Kenya and Georgia faced similarly dismal prospects of state cooperation
+Previous investigations in Kenya and Georgia faced similarly dismal prospects of state cooperation.
 
 <a class="reference" id="34" href="#inline34">[34]</a>
-Hekelina Verrijn Stuart & Marlise Simons, *The Prosecutor and the Judge: Benjamin Ferencz and Antonio Cassese - Interviews and Writings* (Amsterdam University Press 2009) 53
+Hekelina Verrijn Stuart & Marlise Simons, *The Prosecutor and the Judge: Benjamin Ferencz and Antonio Cassese - Interviews and Writings* (Amsterdam University Press 2009) 53.
 
 <a class="reference" id="35" href="#inline35">[35]</a>
 It was only after Slobodan Milošević was overthrown as President of Serbia in 2000 that the ICTY began to receive tangible cooperation. Despite having been established in 1993, its efforts in the region until then proved modest. 
 
 <a class="reference" id="36" href="#inline36">[36]</a>
-Patryk I. Labuda, ‘A Neo-Colonial Court for Weak States? Not Quite. Making Sense of the International Criminal Court’s Afghanistan Decision.’ (*EJIL: Talk!*, 13 April 2019) < https://www.ejiltalk.org/a-neo-colonial-court-for-weak-states-not-quite-making-sense-of-the-international-criminal-courts-afghanistan-decision/> accessed 10 August 2019
+Patryk I. Labuda, ‘A Neo-Colonial Court for Weak States? Not Quite. Making Sense of the International Criminal Court’s Afghanistan Decision.’ (*EJIL: Talk!*, 13 April 2019) < https://www.ejiltalk.org/a-neo-colonial-court-for-weak-states-not-quite-making-sense-of-the-international-criminal-courts-afghanistan-decision/> accessed 10 August 2019.
 
 <a class="reference" id="37" href="#inline37">[37]</a>
-James Goldston, ‘Don’t Give Up on the ICC’ (*Foreign Policy*, 8 August 2019) <https://foreignpolicy.com/2019/08/08/dont-give-up-on-the-icc-hague-war-crimes/> accessed 13 August 2019
+James Goldston, ‘Don’t Give Up on the ICC’ (*Foreign Policy*, 8 August 2019) <https://foreignpolicy.com/2019/08/08/dont-give-up-on-the-icc-hague-war-crimes/> accessed 13 August 2019.
 
 <a class="reference" id="38" href="#inline38">[38]</a>
-Steve Holland, ‘Trump administration takes aim at International Criminal Court, PLO’ (*Reuters*, 10 September 2018) <https://www.reuters.com/article/us-usa-trump-icc/trump-administration-takes-aim-at-international-criminal-court-plo-idUSKCN1LQ076> accessed 13 August 2019
+Steve Holland, ‘Trump administration takes aim at International Criminal Court, PLO’ (*Reuters*, 10 September 2018) <https://www.reuters.com/article/us-usa-trump-icc/trump-administration-takes-aim-at-international-criminal-court-plo-idUSKCN1LQ076> accessed 13 August 2019.
 
 <a class="reference" id="39" href="#inline39">[39]</a>
-*Afghanistan* (n 1) [90]
+*Afghanistan* (n 1) [90].
 
 <a class="reference" id="40" href="#inline40">[40]</a>
-M. Cherif Bassiouni, ‘International Crimes: Jus Cogens and Obligatio Erga Omnes’ (1996) 59 L. & Contemp. Probs. 63, 69
+M. Cherif Bassiouni, ‘International Crimes: Jus Cogens and Obligatio Erga Omnes’ (1996) 59 L. & Contemp. Probs. 63, 69.
 
 <a class="reference" id="41" href="#inline41">[41]</a>
-Deputy Prosecutor’s Remarks, ‘Introduction to the Rome Statute Establishing the ICC and Africa’s Involvement with the ICC’ (14 April 2009)
+Deputy Prosecutor’s Remarks, ‘Introduction to the Rome Statute Establishing the ICC and Africa’s Involvement with the ICC’ (14 April 2009).
 
 <a class="reference" id="42" href="#inline42">[42]</a>
-Martti Koskenniemi, ‘Between Impunity and Show Trials’ (2002) Max Planck UNYB 6, 1
+Martti Koskenniemi, ‘Between Impunity and Show Trials’ (2002) Max Planck UNYB 6, 1.
 
 <a class="reference" id="43" href="#inline43">[43]</a>
-*Afghanistan* (n 1) [89]
+*Afghanistan* (n 1) [89].
 
 <a class="reference" id="44" href="#inline44">[44]</a>
-Laurence R. Helfer & Anne-Marie Slaughter, ‘Why States Create International Tribunals: A Response to Professors Posner and Yoo’ (2005) 93 Calif. Law Review 899
+Laurence R. Helfer & Anne-Marie Slaughter, ‘Why States Create International Tribunals: A Response to Professors Posner and Yoo’ (2005) 93 Calif. Law Review 899.
 
 <a class="reference" id="45" href="#inline45">[45]</a>
-Luis Moreno-Ocampo, ICC Prosecutor, ‘Statement Made at the Ceremony for the Solemn Undertaking of the Chief Prosecutor of the International Criminal Court’ (16 June 2003)
+Luis Moreno-Ocampo, ICC Prosecutor, ‘Statement Made at the Ceremony for the Solemn Undertaking of the Chief Prosecutor of the International Criminal Court’ (16 June 2003).
