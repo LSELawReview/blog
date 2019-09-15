@@ -1061,3 +1061,65 @@ div.a2a_full_footer {
     height: 280px !Important;
   }
 }
+
+/* MailChimp */
+#mc_embed_signup {
+  background-color: #f6f6f6 !important;
+  color: #212121 !important;
+  clear: left;
+  font-family: "Noto Serif", Georgia, Times, "Times New Roman", serif !important;
+  width: 100%;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+#mc_embed_signup .button {
+  background-color: var(--main-theme-color) !important;
+}
+
+#mc_embed_signup_scroll {
+  @include media-query($on-small) {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+  }
+}
+
+label[for*="mce-EMAIL"], label[htmlfor*="mce-EMAIL"] {
+  font-size: 22px !important;
+  font-weight: 700 !important;
+}
+
+#mce-EMAIL {
+  border-radius: 5px !important;
+  color: darken(#828282, 30%) !important;
+  background: lighten(#828282, 45%) !important;
+  border-color: var(--secondary-theme-color) !important;
+}
+
+#mc-embedded-subscribe {
+  border-radius: 5px !important;
+  color: lighten(#828282, 40%) !important;
+  background: lighten(#828282, 40%) !important;
+}
+
+.small {
+  #mc_embed_signup {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  label[for*="mce-EMAIL"], label[htmlfor*="mce-EMAIL"] {
+    font-size: 18px !important;
+    display: inline-block !important;
+    padding-top: 5px !important;
+    padding-bottom: 0 !important;
+    margin-right: 10px !important;
+
+    @include media-query($on-small) {
+      margin-right: 0 !important;
+      margin-bottom: 10px !important;
+    }
+  }
+}

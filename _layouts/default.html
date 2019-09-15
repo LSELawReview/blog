@@ -7,23 +7,23 @@
 
     {% seo %}
 
-    <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/assets/images/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl }}/assets/images/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl }}/assets/images/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.baseurl }}/assets/images/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl }}/assets/images/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.baseurl }}/assets/images/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}/assets/images/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl }}/assets/images/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/images/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="{{ site.baseurl }}/assets/images/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="{{ site.baseurl }}/assets/images/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/images/favicon-16x16.png">
-    <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/assets/images/favicon-16x16.png"/>
-    <link rel="manifest" href="{{ site.baseurl }}/assets/images/manifest.json">
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ site.url }}{{ site.baseurl }}/assets/images/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ site.url }}{{ site.baseurl }}/assets/images/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}{{ site.baseurl }}/assets/images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}{{ site.baseurl }}/assets/images/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}{{ site.baseurl }}/assets/images/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}{{ site.baseurl }}/assets/images/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}{{ site.baseurl }}/assets/images/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}{{ site.baseurl }}/assets/images/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}{{ site.baseurl }}/assets/images/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="{{ site.url }}{{ site.baseurl }}/assets/images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}{{ site.baseurl }}/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ site.url }}{{ site.baseurl }}/assets/images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}{{ site.baseurl }}/assets/images/favicon-16x16.png">
+    <link rel="shortcut icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}/assets/images/favicon-16x16.png"/>
+    <link rel="manifest" href="{{ site.url }}{{ site.baseurl }}/assets/images/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="{{ site.baseurl }}/assets/images/ms-icon-144x144.png">
+    <meta name="msapplication-TileImage" content="{{ site.url }}{{ site.baseurl }}/assets/images/ms-icon-144x144.png">
 
     <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
 
@@ -34,16 +34,19 @@
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700" rel="stylesheet">
 
     <!-- Bootstrap Modified -->
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/main.css">
 
     <!-- Theme Stylesheet -->
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/theme.css">
     <link href="https://fonts.googleapis.com/css?family=Noto+Serif&display=swap" rel="stylesheet">
 
     <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
     <script
     src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"
     crossorigin="anonymous"></script>
+
+    <!-- Mailchimp Form Stylesheet -->
+    <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 
     {% include tracking-header.html %}
 
@@ -63,7 +66,7 @@
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><strong>LSE Law Review Blog</strong></a>
+        <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/index.html"><strong>LSE Law Review Blog</strong></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
@@ -95,7 +98,7 @@
 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 
-    <script src="{{site.baseurl}}/assets/js/theme.js"></script>
+    <script src="{{ site.url }}{{site.baseurl}}/assets/js/theme.js"></script>
 
 
     <!-- Footer -->
