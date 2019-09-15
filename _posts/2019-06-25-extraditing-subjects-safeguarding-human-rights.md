@@ -3,7 +3,6 @@ layout: post
 title:  "Extraditing suspects and safeguarding human rights - a tangled tale"
 authors: [ thomas, claudia ]
 categories: [ "Public Law"]
-tags: [ "featured" ]
 ---
 
 **Commentary on *Kyung Yip Kim v Ministry of Justice of New Zealand and another [2019] NZCA 209 *and insights on the *Fugitive Offenders and Mutual Legal Assistance in Criminal Matters Legislation (Amendment) Bill 2019***<a class="inline-reference" id="inline1" href="#1">1</a>
