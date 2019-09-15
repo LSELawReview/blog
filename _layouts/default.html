@@ -48,7 +48,7 @@
     <!-- Mailchimp Form Stylesheet -->
     <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 
-    {% include tracking-header.html %}
+    {% include_cached tracking-header.html %}
 
 
 </head>
@@ -75,7 +75,7 @@
                {% include menu-header.html %}
             </ul>
             <ul class="navbar-nav ml-auto d-flex align-items-center">
-                {% include search-lunr.html %}
+                {% include_cached search-lunr.html %}
             </ul>
         </div>
     </div>
@@ -115,7 +115,7 @@
         </div>
     </footer>
 
-    {% include tracking-footer.html %}
+    {% include_cached tracking-footer.html %}
 
 </body>
 
