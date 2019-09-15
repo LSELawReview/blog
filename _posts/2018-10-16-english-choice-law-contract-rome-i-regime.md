@@ -3,7 +3,6 @@ layout: post
 title:  "English Choice of Law in Contract Under the Rome I Regime: Is Flexibility Giving Way to Predictability?"
 author: lora
 categories: [ "Private Law" ]
-tags: [ "featured" ]
 ---
 
 The Rome I Regulation (593/2008/EC) is the EU regulation which governs the choice of law applicable to contractual obligations in civil and commercial matters. It replaces the 1980 Rome Convention and effects important structural changes to the rules for determining the applicable law, as well as the exceptions to those rules (the 'choice of law gateways'). The English courts' application of the gateways in the Rome Convention has been criticised as excessively flexible. While this view may be justified in relation to earlier cases decided on the Convention, there has been a gradual movement towards a more cautious judicial approach to both implied choice (Article 3) and the escape clause (Article 4), which was partly crystallised and partly precipitated by the changed architecture of these two provisions in the Rome I Regulation.
