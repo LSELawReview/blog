@@ -123,4 +123,4 @@ ibid section 2(1).
 (n 26) section 2(3).
 
 <a class="reference" id="29" href="#inline29">[29]</a>
-(n 26) section 2(4).
+(n 26) section 2(4). 
