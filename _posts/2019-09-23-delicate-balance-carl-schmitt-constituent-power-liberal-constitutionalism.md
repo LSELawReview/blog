@@ -34,6 +34,7 @@ Section 2(3) provides the only statutory method for terminating a regulation ena
 **Conclusion**
 
 Constituent power is a powerful concept in illustrating the ultimate authority of the state and justifying the ruler's authority to act. Schmitt's wickedly ingenious illustration of the unlimitedness of the exception and its authority to respond to emergencies, whilst compelling, risks unnecessarily dichotomising the relationship between constituent power and liberal constitutionalism. Although a thorough examination of Schmitt's conception and critique against it cannot be examined in the limited space of this article, it is clear that the concept of constituent power is not anathema to a theory of liberal constitutionalism: they can work together to uphold the liberal constitutional order, and safeguard it from falling into a permanent state of emergency.
+
 ---
 <br>
 
