@@ -57,6 +57,7 @@ The identification of proper forum also raises concerns about the future of liti
 ##### Conclusion
 
 The need to protect the human rights of stakeholders in the context of the business operations of multinational corporations presents a delicate challenge for the courts. Tasked with balancing the need for robust human rights protection and restraint from excessive judicial intervention in corporate practices and possible hearings in foreign forums, *Lungowe* has struck a commendable balance between the two. It has also presented a breath of fresh air on important questions of corporate accountability in private law, which has considerable implications on human rights protection indirectly offered by the court. Although a full assessment of Lord Briggs's judgement cannot be conducted in the limited space of this commentary, it is clear that it represents an important step in enhancing human rights protection for stakeholders in business operations of multinational corporations across an increasingly globalised business environment.
+
 ---
 <br>
 
