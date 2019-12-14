@@ -4,9 +4,8 @@ title:  "The Grossly Undefined Threshold for Establishing Medical Manslaughter"
 author: skye
 categories: [ "Criminal Law" ]
 ---
-**The Grossly Undefined Threshold for Establishing Medical Manslaughter**<a class="inline-reference" id="inline1" href="#1">1</a>
 
-##### Abstract:
+##### Abstract:<a class="inline-reference" id="inline1" href="#1">1</a>
 
 The English Law on "medical manslaughter", manifested through the common law offence of gross negligence manslaughter, may be broadly defined as the defendant's grossly negligent act  or omission, when acting within the terms of their duty of care, which results in the victim's death. With the current crisis facing the NHS, prosecution of medical practitioners for medical negligence is growing in prominence as a controversial issue, one of which commentators and medical professionals alike are critical of. In the recent case of *R v Bawa-Garba ('Bawa-Garba')*, these criticisms of the current regime concerning gross medical negligence have reached the breaking point. Following a controversial High Court conviction of an NHS junior doctor of gross negligence manslaughter, the Court of Appeal's refusal the doctor's leave to appeal sparked a public debate on both legal and political grounds. This case note will begin by providing an account of the *Bawa-Garba* case. Furthermore, it will consider the problems with the arbitrary standard of gross negligence in the offence of gross negligence manslaughter, and potential incompatibilities with Article 7 of the Human Rights Act (1998). Following that, the legal issues in establishing causation will be examined in light of complications created by existing systemic issues of the NHS, eliciting concern for the "blame culture"<a class="inline-reference" id="inline2" href="#2">2</a> in the medical profession. Lastly, the argument that the legal uncertainty in this area warrants the re-assessment of the case and the law will be advanced.
 
