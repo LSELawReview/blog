@@ -124,7 +124,3 @@ In conclusion, this case highlights the incompatibility of criminal justice syst
 [[31]](#_ftnref31) *Bawa-Garba v General Medical Council* [2018] EWCA Civ 1879, [2018] Med LR 561 p74
 
 [[32]](#_ftnref32) Donaldson Liam J, Lemer Claire and Titcombe James, 'In harm's way' (2019) BMJ
-
-* * * * *
-
-Should there be a reference?
