@@ -1,0 +1,130 @@
+---
+layout: post
+title:  "The Grossly Undefined Threshold for Establishing Medical Manslaughter"
+author: skye
+categories: [ "Criminal Law" ]
+---
+**The Grossly Undefined Threshold for Establishing Medical Manslaughter**[*^**^[1]^**^*](#_ftn1)
+
+The English Law on "medical manslaughter", manifested through the common law offence of gross negligence manslaughter, may be broadly defined as the defendant's grossly negligent act  or omission, when acting within the terms of their duty of care, which results in the victim's death. With the current crisis facing the NHS, prosecution of medical practitioners for medical negligence is growing in prominence as a controversial issue, one of which commentators and medical professionals alike are critical of. In the recent case of *R v Bawa-Garba ('Bawa-Garba')*, these criticisms of the current regime concerning gross medical negligence have reached the breaking point. Following a controversial High Court conviction of an NHS junior doctor of gross negligence manslaughter, the Court of Appeal's refusal the doctor's leave to appeal sparked a public debate on both legal and political grounds. This case note will begin by providing an account of the *Bawa-Garba* case. Furthermore, it will consider the problems with the arbitrary standard of gross negligence in the offence of gross negligence manslaughter, and potential incompatibilities with Article 7 of the Human Rights Act (1998). Following that, the legal issues in establishing causation will be examined in light of complications created by existing systemic issues of the NHS, eliciting concern for the "blame culture"[^^[2]^^](#_ftn2) in the medical profession. Lastly, the argument that the legal uncertainty in this area warrants the re-assessment of the case and the law will be advanced.
+
+##### Part I: Case Digest
+
+###### <u>Key facts[^**^[3]^**^](#_ftn3)**</u>
+
+A junior doctor, Dr Bawa-Garba applied for permission to appeal against her jury conviction for gross negligence manslaughter for the death of Jack Adcock, a six-year-old boy with Down's syndrome. In the Crown Court, the jury found Dr Bawa-Garba guilty by a majority of 10 to 2. She was initially sentenced to 24 months imprisonment and suspended for 24 months. Her application for leave to appeal against the conviction was dismissed by the Court of Appeal in December 2016.
+
+Dr Bawa-Garba was the most senior junior doctor on duty at the time when the victim was admitted to the hospital. Jack Adcock was initially treated for acute gastro-enteritis and dehydration and subsequently pneumonia after an x-ray had been taken. The reality was that upon admission to the hospital, the victim's pneumonia had caused him to go into septic shock, resulting in heart failure. Efforts to resuscitate him were to no avail.
+
+The prosecution's case was that Dr Bawa-Garba's serious neglect "had contributed to or caused the boy's death", includingfailing to recognise the significance of the victim's blood test results and to detect sepsis; failing to ask her consultant to review the victim's condition, and failing to notify Jack's mother not to administer enalapril (one of the victim's long-term medications) to Jack, which would precipitously drop blood pressure. The Crown contended that Dr Bawa-Garba's repeated mistakes over a protracted period amounted to conduct and fell so far below the standard of care expected of a competent professional that it amounted to gross negligence, warranting a criminal conviction.[^^[4]^^](#_ftn4)
+
+###### <u>Issues</u>
+
+On appeal, the defendant contended that there had been a misdirection of the jury in determining the question of causation. The trial judge (Nicol J) had directed the jury to consider whether the victim had "died significantly sooner"[^^[5]^^](#_ftn5) due to the defendant's negligence for the prosecution to prove their case. The defendant averred that the right test would have been for the jury to "be sure that there would have been significant prolongation of Jack's life"[^^[6]^^](#_ftn6) had the right treatment been given.
+
+##### Part II: Case Debate
+
+###### <u>(a) The ambiguities of gross negligence</u>
+
+*R v Adomako ('Adomako')*,[^^[7]^^](#_ftn7) the leading authority on gross negligence manslaughter, defined a five-step test for the offence. Firstly, there must have been a duty of care; secondly, that duty must have been breached; thirdly, the defendant's breach must have caused the victim's death; fourthly, there must have been an obvious risk of death, and fifthly, the defendant's conduct must have been grossly negligent enough to warrant a criminal conviction. The case of *Bawa-Garba* subjects the third and fifth limbs of the test to scrutiny.
+
+To begin with, *Bawa-Garba* highlights the lack of clarity in the law with regards to the threshold requirement for the establishment of gross negligence. Since merely causing or allowing death to occur through negligence will not incur a charge of manslaughter, criminal liability for the offence requires an extreme deviation from a reasonable standard of care. Academics such as Kazarian, Griffifths and Brazier have identified the main issue with English Law on gross negligence manslaughter as the "elusive concept of grossness"[^^[8]^^](#_ftn8). Such elusiveness can be seen in the differing legal tests that have been developed following *Adomako*. The threshold for establishing gross negligence was prescribed in *Adomako* as a "breach of duty (that was) so bad, so obviously wrong, that, having regard to the risk of death involved in it, it can properly be condemned as criminal".[^^[9]^^](#_ftn9) The tone of certitude masks the reality of an ill-defined threshold for gross negligence that fails to adequately distinguish between flagrant negligence and fleeting error.[^^[10]^^](#_ftn10)
+
+On principle, the Adomako test has often been criticised to be circular[^^[11]^^](#_ftn11), with the level of negligence required to hold the defendant culpable being defined as sufficiently negligent to deserve a criminal conviction for manslaughter.[^^[12]^^](#_ftn12) Furthermore, the inability of the *Adomako* test to meet the test of certainty required by Article 7 of the Human Rights Act 1998 was challenged in *R v* *Misra ('Misra').* Article 7 stipulates that one should not be held guilty for an action that was not a criminal offence when it was committed[^^[13]^^](#_ftn13), meaning that clarity on the law is required for doctors to know if their actions are grossly negligent and liable to criminalisation. However, this was quashed in *Misra* by Lord Justice Judge's assertion that the question was "not whether the defendant's negligence was gross, and whether, additionally, it was a crime, but whether his behaviour was grossly negligent and consequently criminal".[^^[14]^^](#_ftn14) This clarification, unsatisfactory at best, has been characterised by Horder as a "distinction without difference",[^^[15]^^](#_ftn15) exposing just how manifestly undefined the threshold for "gross" conduct remains today. Given that the medical profession is already fraught with unpredictability and precariousness, such added uncertainty evokes great unease with the current state of law.
+
+In practice, subsequent case law has departed slightly from this definition. More significantly, differing court interpretations have created a degree of legal uncertainty across different cases, demonstrating the elusive aspect of Kazarian's observation. While the requirement for negligent conduct to be "gross" was "truly exceptionally bad" in *Bawa-Garba*, it was defined as "reprehensible conduct" in *Misra*. The use of judicial epithets for gross negligence reflects what Quick terms the "definitional difficulty" of gross negligence manslaughter in the medical context, with no standardised and objective method of categorising episodes as "gross" or "not gross".[^^[16]^^](#_ftn16)  Empirical evidence has shown the lack of a clear distinction to create an ambivalent definition, generating "inconsistencies in the verdicts".[^^[17]^^](#_ftn17) For Dr Bawa-Garba, the repercussions of this meant that her impeccable track record was instantly invalidated by a momentary blunder made after a twelve-hour understaffed shift. Moreover, the fact that there is no statutory footing for gross negligence manslaughter means that the parameters of the crime are defined through case law developments only, despite the severity of the crime. This is further complicated by the fact that *Adomako* leaves the jury with a wide discretion to decide whether the accused should be convicted.[^^[18]^^](#_ftn18) As Lord Mackay's statement essentially asserts that the jury is deliberating a question of law when deciding whether to convict a defendant.[^^[19]^^](#_ftn19) Such discretion produces difficulty in predicting jury decisions by creating a margin to make moral decisions. Despite generating a criminal label upon conviction, gross negligence manslaughter remains an issue in flux.
+
+###### <u>(b) Systemic v Individual failures</u>
+
+However, the legal uncertainty created by the ambiguous threshold for establishing grossly negligent conduct is but a preface to the wider debate concerning individual failure in relation to systemic failures within the NHS.
+
+The defendant's innocence found rapport in the medical profession's strong dissent against the court's judgement. Many felt the charge for gross negligence manslaughter was unjustified in light of the wider systemic failings of the NHS, contending that Dr Bawa-Garba had been scapegoated for the system's shortcomings, such as chronic understaffing, a faulty IT system, and poor rotational shift planning[[1]](#_msocom_1) . Dr Bawa-Garba's personal mistakes were to an extent induced by her pressured situation, and, therefore, should not be separated in assessing her overall culpability.
+
+Moreover, failure to factor system problems into the trial process has led to a narrowed scope of understanding causation. By failing to couch individual failures in wider systemic issues, the law on causation has fostered a "blame culture".[^^[20]^^](#_ftn20) Such a public reaction can be reasonably construed as reflective of how the law of causation falls short of accounting for the complexities of healthcare. The courtroom dissection of hospital tragedies can and may unfairly attribute the blame to the defendant, failing to consider the unpredictable reality of medical practice particularly within the context of NHS burgeoning problem of overstretched resources.[^^[21]^^](#_ftn21)
+
+As Anthony Harvey contends, individual acts of negligence are often identifiable as the product of some larger collective process.[^^[22]^^](#_ftn22) If it is accepted that criminal responsibility should not start and end with the doctor on trial, then perhaps a widening of the individualistic paradigm currently adopted by the judiciary should follow.
+
+###### <u>(c) Causation and culpability</u>
+
+To what extent, if any, should context be factored into the legal issue of establishing causation remains contentious and unclear. In *Bawa-Garba*, it was sufficient for the prosecution to prove causation by showing that death "occurred significantly sooner"[^^[23]^^](#_ftn23) when the necessary treatment was not administered, despite it being unclear if the right treatment would have saved the victim's life. The fact that the victim died significantly sooner due to the defendant's negligence was held to be an "inescapable corollary"[^^[24]^^](#_ftn24) of certainty that "competent treatment would have saved or significantly prolonged life",[^^[25]^^](#_ftn25) effectively quashing the defendant's leave to appeal.
+
+There has been difficulty in the law in definitively apportioning the extent to which causation is a question of law rather than a question of fact. Theorists such as Brudner[^^[26]^^](#_ftn26) consider the fairness of imputing the consequence on the defendant, whereas others such as Moore[^^[27]^^](#_ftn27) would argue that causation should be decided independently of culpability. Such a polarised opinion on whether causation is ultimately a question of fact or law has compromised on the coherence of the law's approach to causation. Given the complex factual matrix of *Bawa-Garba* and the nuances typical of the medical environment, it lends credence to Herring's argument that it is simply impossible for any guiding rules on causation to be established.[^^[28]^^](#_ftn28) Rather, the judge simply considers the common-sense answer to the question of causation and declares that to be the legal position.[^^[29]^^](#_ftn29)
+
+Another key issue with this approach is that it focusses on causal attribution of individual blame, arguably failing to adequately consider the contextual concerns of the case. At the time of the tragedy, Dr Bawa-Garba's circumstances were clearly fraught with system pressures, including a twelve-hour double-shift during which she was the only junior doctor present, and an IT failure that delayed the victim's blood test results for six hours.[^^[30]^^](#_ftn30) These circumstantial factors, having caused Dr Bawa-Garba's mistakes, were not sufficiently considered. Given that the offence of gross negligence manslaughter seeks to assess individual culpability, such systemic failings were only considered to be "of peripheral relevance"[^^[31]^^](#_ftn31) to the trial, and only taken as mitigating factors during the sentencing stage.
+
+Donaldson postulates that "avoidable harm is at its most contentious when the focus is on accountability".[^^[32]^^](#_ftn32) By demanding individual accountability, the judicial approach taken to causation seeks to apportion blame to the prosecuted individual in a vulnerable position. The scope for determining causation is narrowed down to the actions of the individual being judged in the courtroom, rather than a holistic consideration of systemic failures. Unfortunately, this seemed to be the case in *Bawa-Garba*. In response to the case, the Minister of Health ordered an official review of medical manslaughter prosecutions attempting to ensure that "systemic issues and human factors" are taken into account, suggesting that the frame for identifying causation has to be reworked.
+
+##### Concluding thoughts
+
+In conclusion, this case highlights the incompatibility of criminal justice system with the complex nature of healthcare, illustrating the limits of criminal law in administering justice in the field of medical error. *Bawa-Garba* evidences that the problem with the law on gross negligence manslaughter lies in its inherent state of unclarity in the areas of causation establishment and the threshold for grossly negligent treatment. Inaccuracies remain both in principle and in practice given the systemic failings of the NHS. As such, this case should have been successfully appealed, and the conviction for manslaughter quashed. The defendant was a victim in her own right, having been ensnared by the ambiguity in the present law on gross negligence manslaughter. Reforms are much needed to rectify the implications of such uncertainty on personal accountability. In determining the issue of gross negligence and causation, failure to consider the realities of practice and systemic failings has created a highly unfair situation, where the weight of one systemic disaster has fallen onto the shoulders of a single doctor as a personal catastrophe.
+
+---
+<br>
+
+[[1]](#_ftnref1) My sincere thanks to the LSE Law Review editorial board and Mr Mattia Pinto for their comments on an earlier draft. All errors remain my own.
+
+[[2]](#_ftnref2) Hannah Quirk, 'Sentencing white coat crime: the need for guidance in medical manslaughter cases' [2013] CLR, 2
+
+[[3]](#_ftnref3)  * R v Bawa-Garba (Hadiza)* [2016] EWCA Crim 1841
+
+[[4]](#_ftnref4) Ibid p9
+
+[[5]](#_ftnref5)  *R v Bawa-Garba (Hadiza)* [2016] EWCA Crim 1841 p19
+
+[[6]](#_ftnref6) Ibid p23
+
+[[7]](#_ftnref7) *R v Adomako (John Asare)* [1995] 1 AC 171, [1994] 99 Cr App R 362
+
+[[8]](#_ftnref8) M. Kazarian, D. Griffiths and M. Brazier 'Criminal responsibility for medical malpractice in France' (2011) 27 Professional Negligence 185
+
+[[9]](#_ftnref9) *R v Sellu* [2016] EWCA Crim 1716, p151
+
+[[10]](#_ftnref10) <https://www.barcouncil.org.uk/media/627460/_35__law_reform_essay.pdf> accessed 24 November 2019
+
+[[11]](#_ftnref11) Jeremy Horder, *Ashworth's Principles of Criminal Law* (9th edn, OUP 2019) p305
+
+[[12]](#_ftnref12) Ibid
+
+[[13]](#_ftnref13) Human Rights Act 1998, Article 7
+
+[[14]](#_ftnref14)  *R v Misra (Amit) *[2004] EWCA Crim 2375, [2005] 1 Cr App R 21, p62
+
+[[15]](#_ftnref15) Jeremy Horder, *Ashworth's Principles of Criminal Law* (9th edn, OUP 2019) p305
+
+[[16]](#_ftnref16) Oliver Quick, 'Medicine, mistakes and manslaughter: a criminal combination?' [2010] CLJ 69(1)
+
+[[17]](#_ftnref17) B. Mitchell and R.D. MacKay, "Investigating Involuntary Manslaughter: An Empirical Study of 127 Cases" (2011) p165
+
+[[18]](#_ftnref18) Jonathan Herring, *Criminal Law: Text, Cases, and Materials* (8th edn, OUP 2018) p273
+
+[[19]](#_ftnref19) Jeremy Horder, *Ashworth's Principles of Criminal Law* (9th edn, OUP 2019) p305
+
+[[20]](#_ftnref20) Hannah Quirk, 'Sentencing white coat crime: the need for guidance in medical manslaughter cases' [2013] CLR, 2
+
+[[21]](#_ftnref21) Ed Nicol WC 'Targeting Limited NHS Resources to Affect Optimal Care' [2017] CME RCP Journal 17(3), 195-96
+
+[[22]](#_ftnref22) Anthony Harvey, 'Doctors in the Dock: Criminal Liability for Negligent Treatment Resulting in the Death of a Patient' [1994] LLR 16(2)
+
+[[23]](#_ftnref23)  *R v Bawa-Garba (Hadiza)* [2016] EWCA Crim 1841 [19]
+
+[[24]](#_ftnref24) ibid
+
+[[25]](#_ftnref25) ibid
+
+[[26]](#_ftnref26) Jonathan Herring, *Criminal Law: Text, Cases, and Materials* (8th edn, OUP 2018) p114
+
+[[27]](#_ftnref27) Ibid
+
+[[28]](#_ftnref28) Jonathan Herring, *Criminal Law: Text, Cases, and Materials* (8th edn, OUP 2018) p115
+
+[[29]](#_ftnref29) ibid
+
+[[30]](#_ftnref30) Although Dr Bawa-Garba had ordered the blood test results at about 10:45pm, she did not receive them until about 4:15pm.
+
+[[31]](#_ftnref31) *Bawa-Garba v General Medical Council* [2018] EWCA Civ 1879, [2018] Med LR 561 p74
+
+[[32]](#_ftnref32) Donaldson Liam J, Lemer Claire and Titcombe James, 'In harm's way' (2019) BMJ
+
+* * * * *
+
+Should there be a reference?
