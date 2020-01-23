@@ -3,6 +3,7 @@ layout: post
 title:  "R v. Evans: An Uneasy Precedent?"
 author: ann-marie
 categories: [ "Criminal Law" ]
+tags: [ "featured" ]
 ---
 **R v. Evans: An Uneasy Precedent?**
 
