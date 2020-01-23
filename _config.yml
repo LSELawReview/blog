@@ -42,12 +42,12 @@ authors:
       avatar:         /assets/images/austinchan.jpg
       bio:            "LLB (London School of Economics and Political Science) '20 and Management Editor of the LSE Law Review 2018-2019"
       email:          h.chan21@lse.ac.uk
-      category:       contributor
+      category:       editor
       
     ann-marie:
       name:           "Ann-Marie Sous"      
       bio:            "LLB (London School of Economics and Political Science) '20 and Notes Editor (Criminal) at the LSE Law Review 2019-2020"
-      category:       contributor
+      category:       editor
 
     claudia:
       name:           "Claudia Tam"
@@ -57,7 +57,7 @@ authors:
     ching:
       name:           "Ching Suen"
       bio:            "LLB (London School of Economics and Political Science) '21 and Private Notes Editor of the LSE Law Review Summer Board 2019"
-      category:       editor
+      category:       contributor
 
     floris:
       name:           "Dr. Floris de Witte"
@@ -71,7 +71,12 @@ authors:
       bio:            "LLB (London School of Economics and Political Science) '20 and Editor-in-Chief of the LSE Law Review 2019-2020"
       email:          g.schiavo@lse.ac.uk
       category:       contributor
-
+      
+    himmy:
+      name:           "Himmy Lui"
+      bio:            "LLM (London School of Economics and Political Science) '20 and Notes Editor of the LSE Law Review 2019-2020"
+      category:       editor
+      
     isabel:
       name:           "Isabel Hahn"
       avatar:         /assets/images/isabelhahn.jpg
@@ -82,7 +87,7 @@ authors:
     jason:
       name:           "Jason Lin"
       bio:            "LLB (London School of Economics and Political Science) '21 and Criminal Law Notes Editor of the LSE Law Review Summer Board 2019"
-      category:       editor
+      category:       contributor
 
     josias:
       name:           "Josias Senu"
@@ -119,7 +124,7 @@ authors:
       avatar:         /assets/images/thomasyeon.jpg
       bio:            "PCLL Candidate (HKU)'2020 and Public Law Notes Editor of the LSE Law Review Summer Board 2019"
       email:          yeonky1997@gmail.com
-      category:       editor
+      category:       contributor
 
     thomas howard:
       name:           "Thomas Howard"
@@ -137,7 +142,7 @@ authors:
       name:           "Claudia-Skye Lee Xin"
       bio:            "LLB (London School of Economics and Political Science) '22"
       email:          c.lee-xin@lse.ac.uk
-      category:       contributor
+      category:       editor
  
     simon:
       name:           "Simon Witney"
