@@ -17,7 +17,7 @@ However, such a blanket rule has its drawbacks. Under this rule, if a rogue dire
 
 In the course of determining whether the guarantor had any defences against the bank's claim, Lord Steyn set out the following principle in relation to whether the bank in fact owed a duty of care to the corporate borrower not to pay out the money on the chairman's instructions:<a class="inline-reference" id="inline4" href="#4">4</a>
 
-A banker must refrain from executing an order if and for as long as the banker is 'put on inquiry' in the sense that he has reasonable grounds (although not necessarily proof) for believing that the order is an attempt to misappropriate the funds of the company ... And, the external standard of the likely perception of an ordinary prudent banker is the governing one.
+"A banker must refrain from executing an order if and for as long as the banker is 'put on inquiry' in the sense that he has reasonable grounds (although not necessarily proof) for believing that the order is an attempt to misappropriate the funds of the company ... And, the external standard of the likely perception of an ordinary prudent banker is the governing one."
 
 On the facts of the case, the defence failed on the basis that the bank's conduct did not meet the threshold.
 
