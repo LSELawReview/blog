@@ -3,7 +3,6 @@ layout: post
 title:  "Material contribution: bridging the evidentiary gap"
 author: ching
 categories: [ "Private Law" ]
-tags: [ "featured" ]
 ---
 To right a private wrong, causation is generally established between the tortfeasor's negligent act and claimant's injury. However, on occasion, the evidence will be such that a causal link is difficult or even impossible to prove by the traditional approach. Material contribution has emerged in tort law to attempt to impose liability where causation is hard to prove in the usual manner, or where applying traditional causation would lead to an undesirable outcome. It is needed to protect vulnerable claimants who should not be barred from seeking remedy merely because their particular circumstances make it harder for them to obtain damages. A comparison of traditional factual causation with material contribution shows how the underlying principles of protecting the claimant are compatible without direct causation. Despite not being a traditional test of causation, material contribution in the law of tort is still needed to solve the problem of an evidentiary gap when the but-for test is insufficient to impose liability where it is desirable. Moreover, it may still be possible to show some level of causal link between the defendant's negligence and the claimant's injury.
 
