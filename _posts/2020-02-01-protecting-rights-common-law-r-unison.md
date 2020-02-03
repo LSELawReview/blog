@@ -120,10 +120,10 @@ Lord Cooke of Thorndon, 'The Road Ahead for the Common Law' (2004) 53 ICLQ 273.
 Roger Masterman and Se-shauna Wheatle, 'A Common Law Resurgence in Rights Protection?' (2015) 1 EHRLR 57, 59.
 
 <a class="reference" id="26" href="#inline26">[26]</a>
-*Smith and Grady v UK,* no. 33985/96, ECHR[138]
+*Smith and Grady v UK,* no. 33985/96, ECHR[138].
 
 <a class="reference" id="27" href="#inline27">[27]</a>
-*Osborn v Parole Board* [2013] UKSC 61
+*Osborn v Parole Board* [2013] UKSC 61.
 
 <a class="reference" id="28" href="#inline28">[28]</a>
-*Kennedy v The Charity Commission* [2014] UKSC 20
+*Kennedy v The Charity Commission* [2014] UKSC 20.
