@@ -1,21 +1,21 @@
 ---
 layout: post 
 title:  "Preliminary Analysis of Article XXI: Why the National Security Exception is an Implausible Justification for US Steel and Aluminium Tariffs on China" 
-author: YY  
+author: naina  
 categories: [ "International Law" ]
 ---
 
-#####ABSTRACT
+##### ABSTRACT
 
 US protectionist measures in modern history reached a new apex in 2018 when tariffs against steel and aluminium imports were announced, which particularly affected China**, the state posing a sharp political and economic contrast to US**. Not only did this trigger retaliatory measures but it also made the US a target of further W**orld Trade Organisation (WTO) complaints from 9 Member States in relation to violations of the GATT articles, which promote trade liberalism. The US sought to defend itself using Article XXI's national security exception. This article, however, purports to show that the US would not be successful in availing itself of Article XXI. The developments in the WTO Panel's position regarding the reviewability of a nation's measures invite greater scrutiny, posing a challenge to  US's claim. The tariffs on steel and aluminium may be associated with a stronger national defence, hence showing an 'essential security interest'. Furthermore, it is improbable that demonstrating a belief in the nexus between the tariffs and national defence will be a hurdle due to the low threshold of good faith. Instead, the demise of the US justification using Article XXI may be brought due to the inability of establishing that the circumstances were an 'emergency in international relations' and necessitated the tariffs.
 
-#####I) INTRODUCTION
+##### I) INTRODUCTION
 
 In the context of a rapidly globalising world, the increase in protectionist measures, including trade barriers, by nations acting independently is a step backwards and indeed "the last thing the global economy needs".[^^[1]^^](#_ftn1) The current era is marked distinctly by economic competition between the two largest economies of the world, the US and China. The anti-multilateral trade policy actions became evident right after President Trump took office and announced the withdrawal of the US from the Trans-Pacific Partnership (TPP).[^^[2]^^](#_ftn2)  However, the most blatantly protectionist measure, the subject of this article, were the tariffs on steel and aluminium imports. In 2018, Trump announced that a 25% tariff on steel and a 10% tariff on aluminium would be implemented on imports from various nations including China. This was enacted using an obscure provision in US domestic law, and the breach of the international prohibition on trade restricting measures was justified on grounds of national security.[^^[3]^^](#_ftn3) The American claim was that the strategic importance of steel and aluminium rendered the enforcing of tariffs crucial so that the domestic production losses were minimised and capability for supporting national industry of the metals was adequately developed for national defence and military purposes.[^^[4]^^](#_ftn4)
 
 US tariffs against China caused turbulence in international trade law due to breaching the Most Favoured Nation principle of GATT Article I, according to which countries are not permitted to discriminate between their trading partners.[^^[5]^^](#_ftn5) As the US and China are party to the World Trade Organisation (WTO), a lower or higher tariff must be applied to imports originating from all Member States without differentiation. Therefore, in order to enact a tariff, the Trump administration invoked the strict, seldom-used national security exception of Article XXI and asserted that the context was a time of 'emergency in international relations'.[^^[6]^^](#_ftn6) This gave rise to the question of whether the national security exception could be utilised by the US, where the crisis does not occur in the context of a conventional military conflict.[^^[7]^^](#_ftn7) This article seeks to demonstrate the difficulty of applying the national security exception to defend US tariffs on China within the WTO ambit of rules. The article begins by exploring the text of Article XXI and observing the impact of the Russia-Ukraine dispute on the reviewability of the US-China assertions in subjecting the dispute to greater scrutiny. It contends that although the national security exception is narrow and largely within Member State discretion, it allows for non-military, economic situations to fulfil the 'essential security interest' requirement. Establishing a connection between the rationale behind the measure and the essential security interest is a grey area of ascertaining the true state intention, but this problem is swiftly overcome by the low threshold of only requiring good faith action by the Member. The specific case of the US steel and aluminium tariffs may, however, fall short of demonstrating the seriousness of tensions and thus, a real 'emergency'. Hence, it would not be covered by Article XXI, leading either to a lose-lose decision by the WTO Panel, which weakens the WTO regime, or an unrewarding settlement.
 
-#####II) TEXT OF ARTICLE XXI AND REVIEWABILITY
+##### II) TEXT OF ARTICLE XXI AND REVIEWABILITY
 
 Article XXI of GATT reads as follows:
 
@@ -43,7 +43,7 @@ The rejection of the Russian and the US position on (un)reviewability could enda
 
 As the national security exception would be closely reviewed, Article XXI(b)(iii) is no longer a wildcard that could be used by nations to circumvent trade law obligations. The next part of the paper seeks to analyse if US tariffs would survive WTO's extensive review and whether their measure could tenably be justified on the ground of national security.
 
-#####II) APPLYING THE NATIONAL SECURITY EXCEPTION
+##### II) APPLYING THE NATIONAL SECURITY EXCEPTION
 
 ###### <u>A) 'Essential Security Interest'</u>
 
