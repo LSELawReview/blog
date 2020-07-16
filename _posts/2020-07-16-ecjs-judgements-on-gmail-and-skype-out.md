@@ -7,7 +7,7 @@ categories: [ "International Law" ]
 
 ##### Abstract:
 
-*The Over-the-Top (OTT) services have successfully competed with "traditional" telecommunications services and disrupted the market for short messages, phone and video calls. While WhatsApp alone processed an average of over 65 billion messages per day in May 2018, this is true for "only" 22.7 billion messages sent via SMS. The stunning success of OTT services like Gmail, Viber, Skype etc. is also due to the different regulation frameworks that apply to telecommunications services and OTT services. With its judgments on *Gmail* and *Skype Out* in June 2019 the ECJ finally clarified the legal situation,  subjecting  *Skype Out* under telecommunications law, but not *Gmail*. This essay shall give a short overview on the key findings of the ECJ's judgments, critically evaluating the argumentation of the court.*
+*The Over-the-Top (OTT) services have successfully competed with "traditional" telecommunications services and disrupted the market for short messages, phone and video calls. While WhatsApp alone processed an average of over 65 billion messages per day in May 2018, this is true for "only" 22.7 billion messages sent via SMS. The stunning success of OTT services like Gmail, Viber, Skype etc. is also due to the different regulation frameworks that apply to telecommunications services and OTT services. With its judgments on* Gmail *and* Skype Out *in June 2019 the ECJ finally clarified the legal situation,  subjecting* Skype Out *under telecommunications law, but not* Gmail. *This essay shall give a short overview on the key findings of the ECJ's judgments, critically evaluating the argumentation of the court.*
 
 
 ##### I. Introduction
