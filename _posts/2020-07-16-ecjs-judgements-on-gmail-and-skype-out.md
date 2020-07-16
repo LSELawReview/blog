@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The ECJ's Judgements on 'Gmail' and 'Skype Out': A Critical Review"
-author: Andreas Daum
+author: Andreas
 categories: [ "International Law" ]
 ---
 
