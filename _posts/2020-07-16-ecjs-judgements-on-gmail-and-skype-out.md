@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "The ECJ's Judgements on "Gmail" and "Skype Out": A Critical Review"
+title: "The ECJ's Judgements on 'Gmail' and 'Skype Out': A Critical Review"
 author: Andreas Daum
 categories: [ "International Law" ]
 ---
+
 ##### Abstract:
 
 The Over-the-Top (OTT) services have successfully competed with "traditional" telecommunications services and disrupted the market for short messages, phone and video calls. While WhatsApp alone processed an average of over 65 billion messages per day in May 2018, this is true for "only" 22.7 billion messages sent via SMS. The stunning success of OTT services like Gmail, Viber, Skype etc. is also due to the different regulation frameworks that apply to telecommunications services and OTT services. With its judgments on *Gmail* and *Skype Out* in June 2019 the ECJ finally clarified the legal situation,  subjecting  *Skype Out* under telecommunications law, but not *Gmail*. This essay shall give a short overview on the key findings of the ECJ's judgments, critically evaluating the argumentation of the court.
 
 
-###### I. Introduction
+##### I. Introduction
 
 The rise of the Web 2.0, the widespread distribution of smart phones, and the development of new digital platforms have shaken many economic branches and turned a great number of business models upside down. This is especially true for the telecommunication sector where so-called "Over the Top" (OTT) services have successfully competed with "traditional" telecommunications services and disrupted the market for short messages, phone and video calls. <a class="inline-reference" id="inline1" href="#1">1</a> The stunning success of OTT-services like *Gmail*, *WhatsApp*, *Skype* etc. is due to many factors. Yet, it cannot be overlooked that the market is no "level playing field", especially regarding  European regulation.               
 
@@ -27,7 +28,7 @@ The services *Gmail* and *Skype Out* differ mostly in their technical structure.
 
 Skype Communications offers the *Skype Out* service as an additional feature of the communication software *Skype.*  This allows users to make calls from a terminal, where the software is installed, to a fixed or mobile telephone line using the Internet Protocol. The signal is first conveyed by an internet access provider, over the open internet, to a gateway where the further transmission is carried out by a telecommunications service provider via the PSTN <a class="inline-reference" id="inline12" href="#12">12</a>. For this purpose, Skype Communications has concluded an agreement with the telecommunications service provider which is also remunerated for its services <a class="inline-reference" id="inline13" href="#13">13</a>
 
-###### III. The legal classification by the ECJ
+##### III. The legal classification by the ECJ
 
 The key issue in both judgements of the ECJ is whether the service delivered by the OTT service providers "[...] consists wholly or mainly in the conveyance of signals on electronic communications networks"<a class="inline-reference" id="inline14" href="#14">14</a>.
 
