@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "The ECJ's Judgements on 'Gmail' and 'Skype Out': A Critical Review"
-author: Andreas
+author: andreas
 categories: [ "International Law" ]
 ---
 
 ##### Abstract:
 
-The Over-the-Top (OTT) services have successfully competed with "traditional" telecommunications services and disrupted the market for short messages, phone and video calls. While WhatsApp alone processed an average of over 65 billion messages per day in May 2018, this is true for "only" 22.7 billion messages sent via SMS. The stunning success of OTT services like Gmail, Viber, Skype etc. is also due to the different regulation frameworks that apply to telecommunications services and OTT services. With its judgments on *Gmail* and *Skype Out* in June 2019 the ECJ finally clarified the legal situation,  subjecting  *Skype Out* under telecommunications law, but not *Gmail*. This essay shall give a short overview on the key findings of the ECJ's judgments, critically evaluating the argumentation of the court.
+*The Over-the-Top (OTT) services have successfully competed with "traditional" telecommunications services and disrupted the market for short messages, phone and video calls. While WhatsApp alone processed an average of over 65 billion messages per day in May 2018, this is true for "only" 22.7 billion messages sent via SMS. The stunning success of OTT services like Gmail, Viber, Skype etc. is also due to the different regulation frameworks that apply to telecommunications services and OTT services. With its judgments on *Gmail* and *Skype Out* in June 2019 the ECJ finally clarified the legal situation,  subjecting  *Skype Out* under telecommunications law, but not *Gmail*. This essay shall give a short overview on the key findings of the ECJ's judgments, critically evaluating the argumentation of the court.*
 
 
 ##### I. Introduction
@@ -52,7 +52,7 @@ The Administrative Court of Cologne, in the lower instance, had focused on wheth
 As Art. 2 lit. a Directive 2000/31/EC (E-Commerce Directive) names content services.
 
 <a class="inline-reference" id="inline3" href="#3">[3]</a>
-Peng, S. (2019). The Rule of Law in Times of Technological Uncertainty: Is International Economic Law Ready For Emerging Supervisory Trends? *Journal of International Economic Law*, 22(1), p. 6
+Peng, S. (2019). The Rule of Law in Times of Technological Uncertainty: Is International Economic Law Ready For Emerging Supervisory Trends? *Journal of International Economic Law*, 22(1), p. 6.
 
 <a class="inline-reference" id="inline4" href="#4">4</a>
 European Commission, A Digital Single Market Strategy for Europe, COM(2015) 192 final, p. 3-4.
