@@ -106,7 +106,7 @@ Mythili Mishra
 
 <a class="reference" id="24" href="#inline24">[24]</a> Palmer (n 25). 
 
-<a class="reference" id="25" href="#inline25">[25]</a> See generally Oddný Mjöll Arnardottir*, Equality and Non-Discrimination under the European Convention on Human Rights* (Kluwer 2002).
+<a class="reference" id="25" href="#inline25">[25]</a> See generally Oddný Mjöll Arnardottir, *Equality and Non-Discrimination under the European Convention on Human Rights* (Kluwer 2002).
 
 <a class="reference" id="26" href="#inline26">[26]</a> Palmer (n 25). 
 
