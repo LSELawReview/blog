@@ -4,13 +4,16 @@ title: "A Tale of Two Communities: Inequalities and the Right to Water in Hudoro
 author: mythili 
 categories: [ "International Law" ]
 ---
-**Introduction**
+
+##### A case note on *Hudorovič and Others v Slovenia*
+
+##### Introduction
 
 *Hudorovič and Others v Slovenia*<a class="inline-reference" id="inline1" href="#1">1</a> is a case concerning Roma communities living in informal settlements who did not have adequate access to safe drinking water and sanitation. This case was fought in the context of Slovenia making the right to drinking water a constitutional right.<a class="inline-reference" id="inline2" href="#2">2</a> This, however, did not become pertinent,<a class="inline-reference" id="inline3" href="#3">3</a> and the European Court of Human Rights (ECtHR) found no violation of Article 8<a class="inline-reference" id="inline4" href="#4">4</a> by a 5:2 majority in the first application, and unanimously found no violations under the other Articles and for the second application. This case note critically analyses three themes in the judgment. First, it evaluates the Court's assessment of the right to water, contrasting it with Indian constitutional jurisprudence, and the framework proposed by the dissenting judges. It further proposes a qualified right to water in European human rights law. Second, it argues that the majority decontextualized the position of the applicants in determining socio-economic issues. They ignored the history of social exclusion and inequality faced by the Roma people and the role of the state in addressing this, contrary to the concepts of substantive equality and positive obligations. This makes this case a 'tale of two communities'. Finally, it notes the overarching theme of socio-economic rights in the European Convention on Human Rights (ECHR), examining how the nature of the application in *Hudorovič* is difficult to fit within traditional European human rights law, and explains the tensions that emerge as a result. 
 
 Before delving into the analysis, a brief summary of the facts is helpful. The first applicant and his son (the second applicant) in the first application lived in the informal Roma settlement of Goriča vas. Their hut had no access to water, sewage and sanitation because permits and documents could not be acquired to obtain access to public infrastructure, due to the irregular manner of establishing settlement. In the second application, a family of fourteen lived in an illegally built hut in an informal Roma settlement at Dobruška without access to water, sanitation or electricity. The applicants in both applications received monthly social assistance from the government. The applications were joined by the Court in light of the facts and substantive questions they raised. They argued violations of Articles 3<a class="inline-reference" id="inline5" href="#5">5</a>, 8 and 14<a class="inline-reference" id="inline6" href="#6">6</a> of the Convention, alleging that their homes did not have access to basic public utilities and that they had been subjected to a negative and discriminatory attitude by local authorities. The opinion of the majority and the dissenting judges will be examined in the sections below. 
 
-**Human right to water?**
+##### Human right to water?
 
 The first issue this piece discusses is whether there is a 'right to water' in European human rights law. It is submitted that the Court unduly limited the right, if recognising it at all. The majority opined that there must be a threshold of severity in assessing whether a lack of access to water and sanitation can constitute an interference with Article 8. Consequently, it held that 'access to safe drinking water is not, as such, a right',<a class="inline-reference" id="inline7" href="#7">7</a> but that a 'persistent and long-standing lack of access to safe drinking water can ... have adverse consequences for health and human dignity effectively eroding the core of private life and the enjoyment of a home within the meaning of Article 8'.<a class="inline-reference" id="inline8" href="#8">8</a>
 
@@ -20,7 +23,7 @@ Contrast the majority's approach with Indian jurisprudence, which has taken a di
 
 The partially dissenting opinion (Judge Pavli joined by Judge Kūris) proposed a middle ground between the majority's standard and the one proposed above, under which it would be sufficient to prove adverse consequences stemming from lack of access for an extended period. However, this leads to the issues highlighted above, related to proving consequences and their graveness, since the applicant would have to prove that there were harmful effects on their dignity, for instance, and that these were caused by a lack of access to water for an extended period. This second limb not only requires proving causation, but also the temporal aspect of the persistence of the deprivation. Due to these difficulties, the prima facie right model is a better framework, as it would require a presumption of the adverse consequences and the state would then have to justify these. The dissenting opinion did allude to this subsequently, noting that '[s]uch a right cannot, of course, be absolute'<a class="inline-reference" id="inline11" href="#11">11</a>, and consequently noted that this predicament 'adversely affects core private life interests and basic human dignity,'<a class="inline-reference" id="inline12" href="#12">12</a> by definition closer to the prima facie right model explained above. Thus, the model of starting with a qualified right to water and then addressing situations in which it may be limited is better suited to tackling these issues, which the majority's opinion fails to acknowledge, but one reading of the minority opinion hints at. 
 
-**Social exclusion and inequality**
+##### Social exclusion and inequality
 
 The second theme in the judgment is a lack of sensitivity to context i.e. the social position of the Roma community, generally and in this particular case. The Court had earlier acknowledged in *Winterstein and Others v France*<a class="inline-reference" id="inline13" href="#13">13</a> that the Roma constitute a vulnerable minority, and that states ought to pay special consideration towards their needs. In spite of this, the majority in *Hudorovič* used the wide margin of appreciation in socio-economic matters to decontextualize their plight. Thus, once it was satisfied that Slovenia had made *some* efforts to realise its positive obligations, it did not ask whether this framework for providing access to utilities reached the marginalised. This is not to say that the Court should not defer to policy judgements of elected national representatives, but that it should assess the differential impact that a policy may have and whether the state is taking effective steps to mitigate that. 
 
@@ -32,7 +35,7 @@ Finally, also noteworthy in the judgment is the lack of attention paid to the bi
 
 The minority also explicitly acknowledged the acts of 'less-than-friendly' local authorities.<a class="inline-reference" id="inline20" href="#20">20</a> This alludes to direct discrimination, a claim made by the applicants themselves, who argued that the state had failed to consider their needs as members of a disadvantaged group, indicated by discriminatory attitudes, prejudice and stereotypes of local authorities.<a class="inline-reference" id="inline21" href="#21">21</a> Thus, it is important to focus on the historical *context* to closely scrutinise the applicants' claims, but in the majority opinion it seemed as though the role of the state in discrimination against Roma communities was not only ignored, but also inadvertently legitimised by focusing on formalism and uncritically accepting any policy effort. 
 
-**Socio-economic rights and the Convention**
+##### Socio-economic rights and the Convention
 
 The ECHR, a product of the post-war period, 'focuses almost entirely on the traditional canon of civil and political rights,'<a class="inline-reference" id="inline22" href="#22">22</a> even purposefully omitting socio-economic rights.<a class="inline-reference" id="inline23" href="#23">23</a> However, the Court's case law has laid down the foundation for socio-economic rights as complementing the Convention.<a class="inline-reference" id="inline24" href="#24">24</a> Contrary to being unfaithful to the text, this is a means of ensuring that the Convention remains dynamic and evolves with changing times, such as the inclusion of rights based on sexual orientation and gender identity, which found no mention in the original text.
 
@@ -48,13 +51,13 @@ One may argue that remaining faithful to the original text is more important tha
 
 "The finding of no violation by the majority ... will contribute little, I fear, to alleviating the plight of inequality and disadvantage that many European Roma continue to face."<a class="inline-reference" id="inline32" href="#32">32</a>
 
-**Concluding remarks**
+##### Concluding remarks
 
 This case note has examined the tensions in the case of *Hudorovič and Others v Slovenia* under the umbrella of the relationship between socio-economic rights and the ECHR. It has critiqued the judgment for its failure to protect, or sufficiently protect, the right to water. It has also contextualised this right in a historically unequal society, noting that the Court did not pay adequate attention to this factual background. Finally, it located this case and others like it within a larger debate about whether and how non-traditional rights are to be enforced in European human rights law, concluding that while the jurisprudence may have its shortcomings, the cost of not recognising these rights is far too high. Since human rights law is constantly evolving and recognising new rights and rights-bearers, one can hope that the status quo would change some day. 
 
 I would like to thank Dr Sarah Trotter for her valuable comments and suggestions.
 
-Mythili Mishra
+**Mythili Mishra**
 
 * * * * *
 
