@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Tale of Two Communities: Inequalities and the Right to Water in Hudorovič and Others v Slovenia"
+title: "A Tale of Two Communities: Inequality and the Right to Water in Hudorovič and Others v Slovenia"
 author: mythili 
 categories: [ "International Law" ]
 ---
