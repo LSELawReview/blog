@@ -94,7 +94,7 @@ Yeon's suggestion that Mann J's approach in the High Court in *Fearn* is "corre
 
 <a class="reference" id="20" href="#inline20">[20]</a> *Douglas v Hello! Ltd (No 1)*[2001] Q.B. 967
 
-<a class="reference" id="21" href="#inline21">[21]</a> See *von Hannover v Germany*(2006) 43 E.H.R.R. 7 as one of many examples
+<a class="reference" id="21" href="#inline21">[21]</a> See *von Hannover v Germany*[2006] 43 E.H.R.R. 7 as one of many examples
 
 <a class="reference" id="22" href="#inline22">[22]</a> [2012] UKSC 30
 
