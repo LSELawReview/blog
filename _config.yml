@@ -180,10 +180,10 @@ authors:
        email:          m.mishra1@lse.ac.uk
        
   
-   daniel: 
-   name:               "Daniel Henderson"
-   bio:                "LLM (London School of Econonomics and Political Science) '20"
-   email:              d.j.henderson@lse.ac.uk 
+    daniel: 
+      name:               "Daniel Henderson"
+      bio:                "LLM (London School of Econonomics and Political Science) '20"
+      email:              d.j.henderson@lse.ac.uk 
    
        
   
