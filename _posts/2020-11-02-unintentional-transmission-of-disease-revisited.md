@@ -61,7 +61,7 @@ This article has explored the potential of using the tort of negligence to estab
 
 * * * * *
 
-[[1]](applewebdata://3EA391C5-E9B6-454F-A224-0F1E1F9312CB#_ftnref1) LLB in Laws ('22), London School of Economics and Political Science. I am grateful for the feedback provided by Dr. Jo Braithwaite and Prof. Emmanuel Voyiakis from the London School of Economics and Political Science, and the anonymous editors of the LSE Law Review, on the early drafts of this article.<a class="reference" id="1" href="#inline1">[1]</a>
+<a class="reference" id="1" href="#inline1">[1]</a>(applewebdata://3EA391C5-E9B6-454F-A224-0F1E1F9312CB#_ftnref1) LLB in Laws ('22), London School of Economics and Political Science. I am grateful for the feedback provided by Dr. Jo Braithwaite and Prof. Emmanuel Voyiakis from the London School of Economics and Political Science, and the anonymous editors of the LSE Law Review, on the early drafts of this article.
 
 [[2]](applewebdata://3EA391C5-E9B6-454F-A224-0F1E1F9312CB#_ftnref2) Either to be used as an effective deterrence or in fact be used in negligence claims by COVID-19 victims, particularly in wrongful death claims. 
 
