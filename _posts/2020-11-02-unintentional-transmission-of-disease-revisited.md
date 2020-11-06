@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unintentional Transmission of Disease Revisited – a Tort Law Perspective on COVID-19"
-author: Julius Chen Ma
+author: julius
 categories: ["private law"]
 ---
 **Unintentional Transmission of Disease Revisited -- a Tort Law Perspective on COVID-19**
