@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unintentional Transmission of Disease Revisited – a Tort Law Perspective on COVID-19"
-author: Julius C. Ma
+author: Julius Chen Ma
 categories: ["private law"]
 ---
 **Unintentional Transmission of Disease Revisited -- a Tort Law Perspective on COVID-19**
@@ -93,7 +93,7 @@ This article has explored the potential of using the tort of negligence to estab
 
 <a class="reference" id="16" href="#inline16">[16]</a> Section 2(2) of Coronavirus Act. 
 
-<a class="reference" id="17" href="#inline17">[17]</a> Accurate as of 30^th^ September 2020. 
+<a class="reference" id="17" href="#inline17">[17]</a> Accurate as of 30th September 2020. 
 
 <a class="reference" id="18" href="#inline18">[18]</a> *Caparo Industries plc v Dickman*, [1990] UKHL 2. The House of Lords in Caparo (ibid) identified a three-part test which has to be satisfied if a negligence claim is to succeed, namely (a) damage must be reasonably foreseeable as a result of the defendant's conduct, (b) the parties must be in a relationship of proximity or neighbourhood, and (c) it must be fair, just and reasonable to impose liability on the defendant (Lord Neuberger, 'Reflections on the ICLR Top Fifteen Cases: A Talk to Commemorate the ICLR's 150th Anniversary', 06 October 2015).
 
