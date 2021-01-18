@@ -7,7 +7,6 @@ categories: ["International"]
 
 ##### Abstract
 
-**
 
 *The economic fallout from the novel coronavirus is being felt worldwide. As a consequence, the international market chain has experienced imminent delays in performance of contractual obligations. An existing uniform international regime which can provide for effective enforceability and renegotiation of asset-based contracts is UNIDROIT: its Principles on Commercial Contracts, the Cape Town Convention, and related protocols.*
 
@@ -33,19 +32,19 @@ On the other hand, estimates on the railway sector suggest that the fallout from
 
 Statistics from both sectors put into perspective the scale of the financial blowback being experienced by operators, investors and financial institutions. This situation has a direct impact on leasing agreements as well, as lessors will look to prematurely terminate agreements due to factors like non-payment. During these tumultuous times, the interests of various stakeholders in the concerned industry must be protected. This is where UNIDROIT's instruments offer effective solutions.
 
-##### **3.AIRLINES**
+##### **3. AIRLINES**
 
-##### <u>**3.1.Flying and Non-Performance**<u>
+##### **<u>3.1.Flying and Non-Performance<u>**
 
 COVID-19 has caused the termination of contractual relations, mainly due to the breach of obligations and pulling-out by major global investors from industries that were once the benchmark for stock-market performance. Primarily, the virus has devastated airlines, giving creditors or investor-firms like Berkshire Hathaway no incentive to hold on to their airline stakes.<a class="inline-reference" id="inline10" href="#10">10</a> Firms have sold shares as they anticipated a huge risk sending the entire industry into a competitive spiral that could potentially damage profits, sales, and investor returns.
 
 We argue that nations must therefore collectively reinstate investor optimism to help airline shares take-off. Hence, we aim to begin the discussion by **i)** highlighting the main UNIDROIT principles and providing our perspectives on the frustration of payment obligations by airlines, **ii)** elaborating on the legal protections and remedies that the UNIDROIT Convention on the International Interests in Mobile Equipment provides to affected parties.
 
-##### <u>**i) Airline Payment Obligations and UNIDROIT**</u>
+##### **<u>i) Airline Payment Obligations and UNIDROIT</u>**
 
 Aeroplanes require high-maintenance, a process that runs up millions of dollars  in costs.<a class="inline-reference" id="inline11" href="#11">11</a> Periodic maintenance is not cheap either; it demands investment in building and maintaining terminals at large airports.<a class="inline-reference" id="inline12" href="#12">12</a> Airlines pay fees to airports to rent their gates and slots, which binds them to long-term contracts with operators. They are also locked into third party contractor agreements to hedge jet fuel prices.<a class="inline-reference" id="inline13" href="#13">13</a> Yet, the impossibility of performing their part of such contracts is not rare for airline companies. Therefore, UNIDROIT Principles ("Principles") of International Commercial Contracts may take effect in suitable scenarios, and attempt to prevent global economies from periodic busts, protecting airlines' legal rights.
 
-##### <u>***a)Applicable Principles: Hardship v. Force Majeure***</u>
+##### ***<u>a)Applicable Principles: Hardship v. Force Majeure</u>***
 
 A plain reading of the document reveals that the text of these Principles must serve as a model for national legislators. To that end, a comprehensive textual understanding is needed.
 
@@ -59,7 +58,7 @@ However, in a factual situation where both 'hardship' and *force majeure* occur,
 
 Therefore, if airlines invoke 'hardship' under the Principles as the rationale behind breach, they can expect not only that their non-performance be excused, but also that the terms of such long-term contracts be renegotiated for the purpose of keeping the contract alive, albeit on revised terms. These relaxations would allow them short-term benefits like improved cash-flow, as well as achieving long-term goals such as general restructuring.
 
-##### <u>**ii) Suggestions for a New Lease of Life**</u>
+##### **<u>ii) Suggestions for a New Lease of Life</u>**
 
 This section details the protections and remedies that may be sought by airline debtors and lessors.
 
@@ -75,7 +74,7 @@ Fourthlyand finally, the carrier organisations may consider approaching their le
 
 While the lessors might be qualified to make decay demands for such concessions on rent commitments, the Convention would prevent them from doing so and would also give the lessee some leeway in these unprecedented times.Therefore, it will be advantageous to consider the alleviation bundle or concessions which a carrier organisation looks for from the lessors and which must incorporate a concurred period, with a specific amount of reimbursement to recover the unpaid rents. Such patience on occasion of default can therefore come at an expense, like delayed repayment, but also be highly beneficial to the lessees.
 
-##### <u>**3.2.The Road Ahead**<u>
+##### **<u>3.2.The Road Ahead<u>**
 
 For the industry to get back on track, states must ensure the provision of credit-financing for aviation assets to alleviate the circumstances that the increasingly bankrupt airline industry faces. Secondly, the borrowing costs must be revised and decreased in accordance with the Principles to enable economic regrowth. Thirdly, the continuous cooperation of states will ensure that consumer demand for commercial aircraft increases, thereby effectuating increased transnational air travel.
 
@@ -83,11 +82,11 @@ In the context of the judiciary and their interference in commercial contract ma
 
 ##### **4. RAILWAYS**
 
-##### <u>**4.1.Addressing financial concerns in the Railway sector**<u>
+##### **<u>4.1.Addressing financial concerns in the Railway sector<u>**
 
 The railway sector plays a pivotal role in keeping the gears of the global economy turning. It is estimated that by 2025, the global rolling stock market size will reach USD 75 billion (equivalent to GBP 57.1 billion).<a class="inline-reference" id="inline28" href="#28">28</a> These numbers illustrate the sheer scale on which railways operate and, more importantly, they highlight the need for adequate safeguards for investments. This section is devoted to three aspects in this regard: i) highlighting the scope of the Luxembourg Protocol, ii) enumerating the liquidity crisis among operators, and iii) addressing the remedies it provides on insolvency. 
 
-##### <u>**4.2.Scope of the Luxembourg Protocol**<u>
+##### *<u>4.2.Scope of the Luxembourg Protocol<u>**
 
 The Luxembourg Rail Protocol (Protocol) was ratified in 2007, using The Cape Town Convention as a broad framework, while taking into account the specific requirements of the rail industry.
 
@@ -95,13 +94,13 @@ The objective of the Protocol has been interpreted as follows: '*It seeks to fac
 
 Broadly speaking, the Protocol addresses two immediate concerns in the rail sector, namely default remedies and registry provisions. Under the former, it enumerates remedies on insolvency, insolvency assistance, and provisions for debtors. The latter concern, on the other hand, encapsulates: the authority of the registrar, designation of entry points, identification of rolling stock, and notices of sale. With a wide scope in terms of its application, the Protocol has an important role to play in combating the damage caused by the COVID-19 pandemic.
 
-##### <u>**i) Mitigating the liquidity crisis**</u>
+##### **<u>i) Mitigating the liquidity crisis</u>**
 
 During this crisis, certain issues have taken precedence. Low foot and freight traffic have prompted a liquidity crisis and pushed operators towards a staggering loss of revenue.<a class="inline-reference" id="inline30" href="#30">30</a> States have been actively involved in assisting their railways over the past few years, and more so since the beginning of COVID-19.<a class="inline-reference" id="inline31" href="#31">31</a> The French government absorbed EUR 35 million (GBP 31 billions) of debt from SNCF in 2018,<a class="inline-reference" id="inline32" href="#32">32</a> and will help out the national operator again this financial year<a class="inline-reference" id="inline33" href="#33">33</a>. According to the Office of National Statistics of the UK, British train companies have effectively been re-nationalised temporarily to survive,<a class="inline-reference" id="inline34" href="#34">34</a>and Angela Merkel and the Bundestag have sought to raise the debt ceiling of the German Deutsche Bahn to cope with the crisis.<a class="inline-reference" id="inline35" href="#35">35</a>
 
 While state-owned firms have more leeway, private entities are left to fend for themselves. Union Pacific has reported its worst quarter since the 2008 Financial Crisis,<a class="inline-reference" id="inline36" href="#36">36</a> while both Canadian National and CSX experienced 18.9 and 26% drops in revenue respectively.<a class="inline-reference" id="inline37" href="#37">37</a>,<a class="inline-reference" id="inline38" href="#38">38</a>,<a class="inline-reference" id="inline39" href="#39">39</a> Amtrak saw a mammoth 95% drop in ridership,<a class="inline-reference" id="inline40" href="#40">40</a> pushing an already loss-saturated entity into restructuring its operations. Amidst the chaos, states and operators are looking for any sort of relief from incessant financial pressure.
 
-##### <u>**4.3 Remedies on insolvency and their applications during the pandemic**<u>
+##### **<u>4.3 Remedies on insolvency and their applications during the pandemic<u>**
 
 The Protocol presents three different alternatives for creditors and debtors in situations where insolvency may occur.
 
@@ -115,7 +114,7 @@ It is important to keep in mind that each contract is unique and therefore a sin
 
 However, a gradual pickup of traffic seems likely. Debtors can, therefore, likely transfer their risk to the creditors, with assurances that the situation will improve. Should a reasonable cure period be negotiated, it would ensure that debtors have adequate time to cure their obligations without sacrificing the creditors' stakes in the operation.
 
-##### <u>**4.4 Using the Protocol efficiently to manage the crisis: A Suggestion**<u>
+##### **<u>4.4 Using the Protocol efficiently to manage the crisis: A Suggestion<u>*
 
 Ultimately, the aforementioned statistics are just a small insight into the magnitude of COVID-19's impact. Even the most optimistic estimates do not suggest a strong pickup of economic growth before the second half of 2021,<a class="inline-reference" id="inline44" href="#44">44</a> and railways across the globe will continue to face contractions before a gruelling recovery.
 
