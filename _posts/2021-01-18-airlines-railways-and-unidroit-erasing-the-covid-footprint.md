@@ -74,7 +74,7 @@ Fourthlyand finally, the carrier organisations may consider approaching their le
 
 While the lessors might be qualified to make decay demands for such concessions on rent commitments, the Convention would prevent them from doing so and would also give the lessee some leeway in these unprecedented times.Therefore, it will be advantageous to consider the alleviation bundle or concessions which a carrier organisation looks for from the lessors and which must incorporate a concurred period, with a specific amount of reimbursement to recover the unpaid rents. Such patience on occasion of default can therefore come at an expense, like delayed repayment, but also be highly beneficial to the lessees.
 
-##### **<u>3.2.The Road Ahead<u>**
+##### <u>3.2.The Road Ahead<u>
 
 For the industry to get back on track, states must ensure the provision of credit-financing for aviation assets to alleviate the circumstances that the increasingly bankrupt airline industry faces. Secondly, the borrowing costs must be revised and decreased in accordance with the Principles to enable economic regrowth. Thirdly, the continuous cooperation of states will ensure that consumer demand for commercial aircraft increases, thereby effectuating increased transnational air travel.
 
@@ -82,11 +82,11 @@ In the context of the judiciary and their interference in commercial contract ma
 
 ##### **4. RAILWAYS**
 
-##### **<u>4.1.Addressing financial concerns in the Railway sector<u>**
+##### <u>4.1.Addressing financial concerns in the Railway sector<u>
 
 The railway sector plays a pivotal role in keeping the gears of the global economy turning. It is estimated that by 2025, the global rolling stock market size will reach USD 75 billion (equivalent to GBP 57.1 billion).<a class="inline-reference" id="inline28" href="#28">28</a> These numbers illustrate the sheer scale on which railways operate and, more importantly, they highlight the need for adequate safeguards for investments. This section is devoted to three aspects in this regard: i) highlighting the scope of the Luxembourg Protocol, ii) enumerating the liquidity crisis among operators, and iii) addressing the remedies it provides on insolvency. 
 
-##### *<u>4.2.Scope of the Luxembourg Protocol<u>**
+##### <u>4.2.Scope of the Luxembourg Protocol<u>
 
 The Luxembourg Rail Protocol (Protocol) was ratified in 2007, using The Cape Town Convention as a broad framework, while taking into account the specific requirements of the rail industry.
 
@@ -100,7 +100,7 @@ During this crisis, certain issues have taken precedence. Low foot and freight t
 
 While state-owned firms have more leeway, private entities are left to fend for themselves. Union Pacific has reported its worst quarter since the 2008 Financial Crisis,<a class="inline-reference" id="inline36" href="#36">36</a> while both Canadian National and CSX experienced 18.9 and 26% drops in revenue respectively.<a class="inline-reference" id="inline37" href="#37">37</a>,<a class="inline-reference" id="inline38" href="#38">38</a>,<a class="inline-reference" id="inline39" href="#39">39</a> Amtrak saw a mammoth 95% drop in ridership,<a class="inline-reference" id="inline40" href="#40">40</a> pushing an already loss-saturated entity into restructuring its operations. Amidst the chaos, states and operators are looking for any sort of relief from incessant financial pressure.
 
-##### **<u>4.3 Remedies on insolvency and their applications during the pandemic<u>**
+##### <u>4.3 Remedies on insolvency and their applications during the pandemic<u>
 
 The Protocol presents three different alternatives for creditors and debtors in situations where insolvency may occur.
 
@@ -114,7 +114,7 @@ It is important to keep in mind that each contract is unique and therefore a sin
 
 However, a gradual pickup of traffic seems likely. Debtors can, therefore, likely transfer their risk to the creditors, with assurances that the situation will improve. Should a reasonable cure period be negotiated, it would ensure that debtors have adequate time to cure their obligations without sacrificing the creditors' stakes in the operation.
 
-##### **<u>4.4 Using the Protocol efficiently to manage the crisis: A Suggestion<u>*
+##### <u>4.4 Using the Protocol efficiently to manage the crisis: A Suggestion<u>
 
 Ultimately, the aforementioned statistics are just a small insight into the magnitude of COVID-19's impact. Even the most optimistic estimates do not suggest a strong pickup of economic growth before the second half of 2021,<a class="inline-reference" id="inline44" href="#44">44</a> and railways across the globe will continue to face contractions before a gruelling recovery.
 
