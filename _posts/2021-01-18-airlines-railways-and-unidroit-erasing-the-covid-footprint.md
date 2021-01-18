@@ -40,11 +40,11 @@ COVID-19 has caused the termination of contractual relations, mainly due to the 
 
 We argue that nations must therefore collectively reinstate investor optimism to help airline shares take-off. Hence, we aim to begin the discussion by **i)** highlighting the main UNIDROIT principles and providing our perspectives on the frustration of payment obligations by airlines, **ii)** elaborating on the legal protections and remedies that the UNIDROIT Convention on the International Interests in Mobile Equipment provides to affected parties.
 
-##### **<u>i) Airline Payment Obligations and UNIDROIT</u>**
+##### <u>i) Airline Payment Obligations and UNIDROIT</u>
 
 Aeroplanes require high-maintenance, a process that runs up millions of dollars  in costs.<a class="inline-reference" id="inline11" href="#11">11</a> Periodic maintenance is not cheap either; it demands investment in building and maintaining terminals at large airports.<a class="inline-reference" id="inline12" href="#12">12</a> Airlines pay fees to airports to rent their gates and slots, which binds them to long-term contracts with operators. They are also locked into third party contractor agreements to hedge jet fuel prices.<a class="inline-reference" id="inline13" href="#13">13</a> Yet, the impossibility of performing their part of such contracts is not rare for airline companies. Therefore, UNIDROIT Principles ("Principles") of International Commercial Contracts may take effect in suitable scenarios, and attempt to prevent global economies from periodic busts, protecting airlines' legal rights.
 
-##### ***<u>a)Applicable Principles: Hardship v. Force Majeure</u>***
+##### <u>a)</u>***<u>Applicable Principles: Hardship v. Force Majeure</u>***
 
 A plain reading of the document reveals that the text of these Principles must serve as a model for national legislators. To that end, a comprehensive textual understanding is needed.
 
@@ -58,7 +58,7 @@ However, in a factual situation where both 'hardship' and *force majeure* occur,
 
 Therefore, if airlines invoke 'hardship' under the Principles as the rationale behind breach, they can expect not only that their non-performance be excused, but also that the terms of such long-term contracts be renegotiated for the purpose of keeping the contract alive, albeit on revised terms. These relaxations would allow them short-term benefits like improved cash-flow, as well as achieving long-term goals such as general restructuring.
 
-##### **<u>ii) Suggestions for a New Lease of Life</u>**
+##### <u>ii) Suggestions for a New Lease of Life</u>
 
 This section details the protections and remedies that may be sought by airline debtors and lessors.
 
@@ -94,7 +94,7 @@ The objective of the Protocol has been interpreted as follows: '*It seeks to fac
 
 Broadly speaking, the Protocol addresses two immediate concerns in the rail sector, namely default remedies and registry provisions. Under the former, it enumerates remedies on insolvency, insolvency assistance, and provisions for debtors. The latter concern, on the other hand, encapsulates: the authority of the registrar, designation of entry points, identification of rolling stock, and notices of sale. With a wide scope in terms of its application, the Protocol has an important role to play in combating the damage caused by the COVID-19 pandemic.
 
-##### **<u>i) Mitigating the liquidity crisis</u>**
+##### <u>i) Mitigating the liquidity crisis</u>
 
 During this crisis, certain issues have taken precedence. Low foot and freight traffic have prompted a liquidity crisis and pushed operators towards a staggering loss of revenue.<a class="inline-reference" id="inline30" href="#30">30</a> States have been actively involved in assisting their railways over the past few years, and more so since the beginning of COVID-19.<a class="inline-reference" id="inline31" href="#31">31</a> The French government absorbed EUR 35 million (GBP 31 billions) of debt from SNCF in 2018,<a class="inline-reference" id="inline32" href="#32">32</a> and will help out the national operator again this financial year<a class="inline-reference" id="inline33" href="#33">33</a>. According to the Office of National Statistics of the UK, British train companies have effectively been re-nationalised temporarily to survive,<a class="inline-reference" id="inline34" href="#34">34</a>and Angela Merkel and the Bundestag have sought to raise the debt ceiling of the German Deutsche Bahn to cope with the crisis.<a class="inline-reference" id="inline35" href="#35">35</a>
 
