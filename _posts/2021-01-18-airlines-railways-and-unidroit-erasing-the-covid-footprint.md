@@ -40,7 +40,7 @@ COVID-19 has caused the termination of contractual relations, mainly due to the 
 
 We argue that nations must therefore collectively reinstate investor optimism to help airline shares take-off. Hence, we aim to begin the discussion by **i)** highlighting the main UNIDROIT principles and providing our perspectives on the frustration of payment obligations by airlines, **ii)** elaborating on the legal protections and remedies that the UNIDROIT Convention on the International Interests in Mobile Equipment provides to affected parties.
 
-##### <u>i) Airline Payment Obligations and UNIDROIT</u>
+##### <u>i) **Airline Payment Obligations and UNIDROIT**</u>
 
 Aeroplanes require high-maintenance, a process that runs up millions of dollars  in costs.<a class="inline-reference" id="inline11" href="#11">11</a> Periodic maintenance is not cheap either; it demands investment in building and maintaining terminals at large airports.<a class="inline-reference" id="inline12" href="#12">12</a> Airlines pay fees to airports to rent their gates and slots, which binds them to long-term contracts with operators. They are also locked into third party contractor agreements to hedge jet fuel prices.<a class="inline-reference" id="inline13" href="#13">13</a> Yet, the impossibility of performing their part of such contracts is not rare for airline companies. Therefore, UNIDROIT Principles ("Principles") of International Commercial Contracts may take effect in suitable scenarios, and attempt to prevent global economies from periodic busts, protecting airlines' legal rights.
 
