@@ -34,7 +34,7 @@ Statistics from both sectors put into perspective the scale of the financial blo
 
 ##### **3. AIRLINES**
 
-##### <u>3.1.Flying and Non-Performance<u>
+##### <u>3.1. Flying and Non-Performance<u>
 
 COVID-19 has caused the termination of contractual relations, mainly due to the breach of obligations and pulling-out by major global investors from industries that were once the benchmark for stock-market performance. Primarily, the virus has devastated airlines, giving creditors or investor-firms like Berkshire Hathaway no incentive to hold on to their airline stakes.<a class="inline-reference" id="inline10" href="#10">10</a> Firms have sold shares as they anticipated a huge risk sending the entire industry into a competitive spiral that could potentially damage profits, sales, and investor returns.
 
@@ -74,7 +74,7 @@ Fourthlyand finally, the carrier organisations may consider approaching their le
 
 While the lessors might be qualified to make decay demands for such concessions on rent commitments, the Convention would prevent them from doing so and would also give the lessee some leeway in these unprecedented times. Therefore, it will be advantageous to consider the alleviation bundle or concessions which a carrier organisation looks for from the lessors and which must incorporate a concurred period, with a specific amount of reimbursement to recover the unpaid rents. Such patience on occasion of default can therefore come at an expense, like delayed repayment, but also be highly beneficial to the lessees.
 
-##### <u>3.2.The Road Ahead<u>
+##### <u>3.2. The Road Ahead<u>
 
 For the industry to get back on track, states must ensure the provision of credit-financing for aviation assets to alleviate the circumstances that the increasingly bankrupt airline industry faces. Secondly, the borrowing costs must be revised and decreased in accordance with the Principles to enable economic regrowth. Thirdly, the continuous cooperation of states will ensure that consumer demand for commercial aircraft increases, thereby effectuating increased transnational air travel.
 
@@ -82,11 +82,11 @@ In the context of the judiciary and their interference in commercial contract ma
 
 ##### **4. RAILWAYS**
 
-##### <u>4.1.Addressing financial concerns in the Railway sector<u>
+##### <u>4.1. Addressing financial concerns in the Railway sector<u>
 
 The railway sector plays a pivotal role in keeping the gears of the global economy turning. It is estimated that by 2025, the global rolling stock market size will reach USD 75 billion (equivalent to GBP 57.1 billion).<a class="inline-reference" id="inline28" href="#28">28</a> These numbers illustrate the sheer scale on which railways operate and, more importantly, they highlight the need for adequate safeguards for investments. This section is devoted to three aspects in this regard: i) highlighting the scope of the Luxembourg Protocol, ii) enumerating the liquidity crisis among operators, and iii) addressing the remedies it provides on insolvency. 
 
-##### <u>4.2.Scope of the Luxembourg Protocol<u>
+##### <u> 4.2.Scope of the Luxembourg Protocol<u>
 
 The Luxembourg Rail Protocol (Protocol) was ratified in 2007, using The Cape Town Convention as a broad framework, while taking into account the specific requirements of the rail industry.
 
