@@ -34,7 +34,7 @@ Statistics from both sectors put into perspective the scale of the financial blo
 
 ##### **3. AIRLINES**
 
-##### **<u>3.1.Flying and Non-Performance<u>**
+##### <u>3.1.Flying and Non-Performance<u>
 
 COVID-19 has caused the termination of contractual relations, mainly due to the breach of obligations and pulling-out by major global investors from industries that were once the benchmark for stock-market performance. Primarily, the virus has devastated airlines, giving creditors or investor-firms like Berkshire Hathaway no incentive to hold on to their airline stakes.<a class="inline-reference" id="inline10" href="#10">10</a> Firms have sold shares as they anticipated a huge risk sending the entire industry into a competitive spiral that could potentially damage profits, sales, and investor returns.
 
