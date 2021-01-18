@@ -16,17 +16,17 @@ categories: [ "International" ]
 
 #####**1. UNIDROIT: An Overview of the Existing Norms**
 
-UNIDROIT's Principles of International Commercial Contracts establish a legal framework to articulate the principles underlying asset-based financing and leasing, and protect other such related interests.[^^[1]^^](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftn1)
+UNIDROIT's Principles of International Commercial Contracts establish a legal framework to articulate the principles underlying asset-based financing and leasing, and protect other such related interests.<a class="inline-reference" id="inline1" href="#1">1</a>
 
-Similarly, the Cape Town Convention and its Protocols are standardised rules to be followed while engaging in transnational business transactions. Specific to mobile equipment, the Convention lays down certain objectives to facilitate asset-based financing and leasing, protect the interests of all parties, and create a legal framework for international interests. The most significant aspect of the Cape Town Convention is the trifurcation between air, railway, and space assets, creating a comprehensive yet definite framework for each.[^^[2]^^](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftn2)
+Similarly, the Cape Town Convention and its Protocols are standardised rules to be followed while engaging in transnational business transactions. Specific to mobile equipment, the Convention lays down certain objectives to facilitate asset-based financing and leasing, protect the interests of all parties, and create a legal framework for international interests. The most significant aspect of the Cape Town Convention is the trifurcation between air, railway, and space assets, creating a comprehensive yet definite framework for each.<a class="inline-reference" id="inline1" href="#2">2</a>
 
 The Luxembourg Protocol utilizes the Cape Town Convention as a baseline while accommodating the specific requirements of the railway industry, integrating these elements in a vital transnational instrument. 
 
 #####**2. The Impact Factor**
 
-The recent COVID-19 health crisis has had a profound impact on all forms of travel and transportation. Both the aviation and railway sectors have been significant casualties of the worldwide shutdowns of domestic and cross-border trade and travel.[^^[3]^^](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftn3)
+The recent COVID-19 health crisis has had a profound impact on all forms of travel and transportation. Both the aviation and railway sectors have been significant casualties of the worldwide shutdowns of domestic and cross-border trade and travel.<a class="inline-reference" id="inline1" href="#3">3</a>
 
-The most significant impact on airline companies has been due to a slump in demand among travellers as a result of the multiple travel restrictions. Several airlines have declared bankruptcy,[^^[4]^^](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftn4) many have ceased operations, while other airlines reported a reduction in flights after a decade of expansion.[^^[5]^^](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftn5) Statistics show that, on an average, 10% of flights around the world   were cancelled in early March 2020, in stark contrast to 2019.[^^[6]^^](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftn6) As the pandemic gained traction in late March, the recorded flight movements reduced almost 40--60% with international flights being affected the most. Unfortunately, research also shows that global recovery of passenger demand to pre-COVID-19 levels is estimated to take almost two years, with the most optimistic loss estimate being a whopping USD 84 billion (GBP 63.23 billion).[^^[7]^^](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftn7)
+The most significant impact on airline companies has been due to a slump in demand among travellers as a result of the multiple travel restrictions. Several airlines have declared bankruptcy,<a class="inline-reference" id="inline1" href="#4">4</a> many have ceased operations, while other airlines reported a reduction in flights after a decade of expansion.<a class="inline-reference" id="inline1" href="#5">5</a>) Statistics show that, on an average, 10% of flights around the world   were cancelled in early March 2020, in stark contrast to 2019.<a class="inline-reference" id="inline1" href="#6">6</a> As the pandemic gained traction in late March, the recorded flight movements reduced almost 40--60% with international flights being affected the most. Unfortunately, research also shows that global recovery of passenger demand to pre-COVID-19 levels is estimated to take almost two years, with the most optimistic loss estimate being a whopping USD 84 billion (GBP 63.23 billion).<a class="inline-reference" id="inline1" href="#7">7</a>
 
 On the other hand, estimates on the railway sector suggest that the fallout from the health crisis will cause global rail passenger revenue losses to the tune of USD 60 billion (GBP 45 billion) in 2020 and further seep into 2021.[^^[8]^^](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftn8) The freight sector alone is expected to lose approximately USD 26 billion (GBP 19.5 billion) this year.[^^[9]^^](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftn9)
 
@@ -134,9 +134,9 @@ It would also be prudent to encourage a greater number of states to ratify the C
 
 * * * * *
 
-[[1]](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftnref1)  Preamble, UNIDROIT Principles, 2016.
+<a class="reference" id="1" href="#inline1">[1]</a>  Preamble, UNIDROIT Principles, 2016.
 
-[[2]](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftnref2)  Preamble, Convention on International Interests in Mobile Equipment, UNIDROIT, 2001.
+<a class="reference" id="2" href="#inline1">[2]</a>  Preamble, Convention on International Interests in Mobile Equipment, UNIDROIT, 2001.
 
 [[3]](file:///C:/Users/Bennett/Downloads/UNIDROIT%20&amp;%20COVID%20FINAL%20MANUSCRIPT%20(1).docx#_ftnref3) Jeremy Sung, Yannick Manshauer, 'Changes in transport behaviour during the Covid-19 crisis' (IEA, 27 May 2020) <<https://www.iea.org/articles/changes-in-transport-behaviour-during-the-covid-19-crisis>> last accessed on 20 August 2020.
 
