@@ -9,7 +9,7 @@ categories: ["International"]
 
 **
 
-*The economic fallout from the novel coronavirus is being felt worldwide. As a consequence, the international market chain has experienced imminent delays in performance of contractual obligations. An existing uniform international regime which can provide for effective enforceability and renegotiation of asset-based contracts is UNIDROIT:* *its Principles on Commercial Contracts, the Cape Town Convention, and related protocols. *
+*The economic fallout from the novel coronavirus is being felt worldwide. As a consequence, the international market chain has experienced imminent delays in performance of contractual obligations. An existing uniform international regime which can provide for effective enforceability and renegotiation of asset-based contracts is UNIDROIT: its Principles on Commercial Contracts, the Cape Town Convention, and related protocols.*
 
 *In this context, we argue the case for the majority, the underrepresented and the most affected in this scenario: the debtors/lessors in the transport sector. We contend that the current financial crisis can be improved by adopting the alternatives that UNIDROIT instruments provide.*
 
