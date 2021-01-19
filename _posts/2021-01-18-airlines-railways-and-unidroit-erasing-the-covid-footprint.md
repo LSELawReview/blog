@@ -12,7 +12,7 @@ categories: ["International"]
 
 *In this context, we argue the case for the majority, the underrepresented and the most affected in this scenario: the debtors/lessors in the transport sector. We contend that the current financial crisis can be improved by adopting the alternatives that UNIDROIT instruments provide.*
 
-*In furtherance, the three parts of our article purport to provide: i) a contextual overview of the economic impact of COVID-19 on Airlines and Railways; ii) an analysis of the condition ofthe Airlines and the Railway industries using the UNIDROIT documents which govern the legal aspects of this issue; and finally iii) plausible solutions to reduce this economic burden.*
+*In furtherance, the three parts of our article purport to provide: i) a contextual overview of the economic impact of COVID-19 on Airlines and Railways; ii) an analysis of the condition of the Airlines and the Railway industries using the UNIDROIT documents which govern the legal aspects of this issue; and finally iii) plausible solutions to reduce this economic burden.*
 
 ##### **1. UNIDROIT: An Overview of the Existing Norms**
 
@@ -70,7 +70,7 @@ Thirdly, it is normal that post-COVID-19 and after the lifting of lockdown order
 
 It could be contended that impermanent terminations post-COVID-19 would establish said cessation of business.<a class="inline-reference" id="inline24" href="#24">24</a> Subsequently, it would be judicious for nations to introduce policies aligned with the Cape Town Convention, to allow aircraft organisations to audit their facility agreements, while considering COVID-19 related measures and the effect such measures may have on their financing plans.
 
-Fourthlyand finally, the carrier organisations may consider approaching their lessors for concessions according to their respective rent commitments (by virtue of the liquidity crunch resulting in falling ticket demand).<a class="inline-reference" id="inline25" href="#25">25</a> For instance, the largest domestic airline in India InterGlobe Aviation Limited, which operates IndiGo's fleet, has received 50% relief on supplementary rent, generally used to cover maintenance costs, as the greater part of IndiGo's fleet remains grounded due to COVD-19.<a class="inline-reference" id="inline26" href="#26">26</a>
+Fourthly and finally, the carrier organisations may consider approaching their lessors for concessions according to their respective rent commitments (by virtue of the liquidity crunch resulting in falling ticket demand).<a class="inline-reference" id="inline25" href="#25">25</a> For instance, the largest domestic airline in India InterGlobe Aviation Limited, which operates IndiGo's fleet, has received 50% relief on supplementary rent, generally used to cover maintenance costs, as the greater part of IndiGo's fleet remains grounded due to COVD-19.<a class="inline-reference" id="inline26" href="#26">26</a>
 
 While the lessors might be qualified to make decay demands for such concessions on rent commitments, the Convention would prevent them from doing so and would also give the lessee some leeway in these unprecedented times. Therefore, it will be advantageous to consider the alleviation bundle or concessions which a carrier organisation looks for from the lessors and which must incorporate a concurred period, with a specific amount of reimbursement to recover the unpaid rents. Such patience on occasion of default can therefore come at an expense, like delayed repayment, but also be highly beneficial to the lessees.
 
