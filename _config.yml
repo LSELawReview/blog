@@ -196,7 +196,10 @@ authors:
       bio:                "National University of Advanced Legal Studies, India '23"
       email:              mahathi.ukj@gmail.com
   
-   
+    mathias: 
+      name:               "Mathias Baudena"
+      bio:                "LLB (London School of Econonomics and Political Science) '21"
+      email:              M.H.Baudena@lse.ac.uk
 
 # Defaults
 defaults:
