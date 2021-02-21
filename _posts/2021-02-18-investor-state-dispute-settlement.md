@@ -231,7 +231,7 @@ Mathias Baudena
 
 <a class="reference" id="64" href="#inline64">[64]</a> ibid
 
-<a class="reference" id="65" href="#inline65">[65]</a> The Thirteenth Amendment to the Atomic Energy Act
+<a class="reference" id="65" href="#inline65">[65]</a> The Thirteenth Amendment to the Atomic Energy Act (n 28)
 
 <a class="reference" id="66" href="#inline66">[66]</a> ibid
 
