@@ -115,7 +115,7 @@ Mathias Baudena
 
 <a class="reference" id="6" href="#inline6">[6]</a> ibid
 
-<a class="reference" id="7" href="#inline7">[7]</a> *Kelsey* (n 3) 15
+<a class="reference" id="7" href="#inline7">[7]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 15
 
 <a class="reference" id="8" href="#inline8">[8]</a> UNCITRAL Secretariat, 'A Guide To UNCITRAL: Basic Facts About the United Nations Commission on International Trade Law' (United Nations 2013).
 
@@ -143,7 +143,7 @@ Mathias Baudena
 
 <a class="reference" id="20" href="#inline20">[20]</a> ibid
 
-<a class="reference" id="21" href="#inline21">[21]</a> *Kelsey* (n 3) 12
+<a class="reference" id="21" href="#inline21">[21]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 12
 
 <a class="reference" id="22" href="#inline22">[22]</a> R. Moloo and J. Jacinto, 'Environmental and Health Regulation: Assessing Liability Under Investment Treaties' (2011) 1-65 Berkeley Journal of International Law, 43
 
@@ -161,7 +161,7 @@ Mathias Baudena
 
 <a class="reference" id="29" href="#inline29">[29]</a> ibid
 
-<a class="reference" id="30" href="#inline30">[30]</a> *Kelsey* (n 3) 11
+<a class="reference" id="30" href="#inline30">[30]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 11
 
 <a class="reference" id="31" href="#inline31">[31]</a> See L. Poulsen and E. Aisbett, 'When the Claim Hits: Bilateral Investment Treaties and Bounded Rational Learning' (2013) 65 *World Politics *273.
 
@@ -181,13 +181,13 @@ Mathias Baudena
 
 <a class="reference" id="39" href="#inline39">[39]</a> S.H. Ng, 'What is the future of the Energy Charter Treaty following the termination of intra-EU BITs in a post-*Achmea *era?' (*Working Paper*) 6
 
-<a class="reference" id="40" href="#inline40">[40]</a> G.M. Alvarez, 'Redefining the Relationship Between the Energy Charter Treaty and the Treaty of Functioning of the European Union: From a Normative Conflict to Policy Tension' (2018) 33 I.C.S.I.D. REV. 560, 562 (2018).
+<a class="reference" id="40" href="#inline40">[40]</a> G.M. Alvarez, 'Redefining the Relationship Between the Energy Charter Treaty and the Treaty of Functioning of the European Union: From a Normative Conflict to Policy Tension' (2018) 33 I.C.S.I.D. REV. 560, 562 (2018)
 
-<a class="reference" id="41" href="#inline41">[41]</a> Case C-284/16, *Slowakische Republik v Achmea BV*, 19 September 2017 (case not yet reported, ECLI:EU:C:2017:699), Opinion of Advocate General Wathelet.
+<a class="reference" id="41" href="#inline41">[41]</a> Case C-284/16, *Slowakische Republik v Achmea BV*, 19 September 2017 (case not yet reported, ECLI:EU:C:2017:699), Opinion of Advocate General Wathelet
 
 <a class="reference" id="42" href="#inline42">[42]</a> Treaty on the Functioning of the European Union, art. 344
 
-<a class="reference" id="43" href="#inline43">[43]</a> *Kelsey* (n 3) 561
+<a class="reference" id="43" href="#inline43">[43]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 561
 
 <a class="reference" id="44" href="#inline44">[44]</a> ibid 562.
 
@@ -199,7 +199,7 @@ Mathias Baudena
 
 <a class="reference" id="48" href="#inline48">[48]</a> J. Kleinheisterkamp, 'Investment Treaty Law And The Fear For Sovereignty: Transnational Challenges And Solutions' (2015) 78(5) The Modern Law Review 793, 797
 
-<a class="reference" id="49" href="#inline49">[49]</a> *Kelsey* (n 3) 8
+<a class="reference" id="49" href="#inline49">[49]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 8
 
 <a class="reference" id="50" href="#inline50">[50]</a> C. Riffel, 'Does Investor-State Dispute Settlement Discriminate Against Nationals?' (2020) 21 German Law Journal 197
 
@@ -223,21 +223,21 @@ Mathias Baudena
 
 <a class="reference" id="60" href="#inline60">[60]</a> V. Lowe, 'Changing Dimensions of International Investment Law' (2007) Oxford Legal Studies Research Paper No. 4/2007, 49
 
-<a class="reference" id="61" href="#inline61">[61]</a> *Kelsey* (n 3) 8
+<a class="reference" id="61" href="#inline61">[61]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 8
 
 <a class="reference" id="62" href="#inline62">[62]</a> See M. Paparinskis, 'Investors' Remedies Under EU Law and International Investment Law' (2016), 17 J. World Inv. & Trade 919, 940--41 (denying the commensurability of remedies under domestic and international investment law). 
 
-<a class="reference" id="63" href="#inline63">[63]</a> n. 42, 212
+<a class="reference" id="63" href="#inline63">[63]</a> *Slowakische Republik* (n 41) 212
 
 <a class="reference" id="64" href="#inline64">[64]</a> ibid
 
-<a class="reference" id="65" href="#inline65">[65]</a> n. 28
+<a class="reference" id="65" href="#inline65">[65]</a> The Thirteenth Amendment to the Atomic Energy Act
 
 <a class="reference" id="66" href="#inline66">[66]</a> ibid
 
 <a class="reference" id="67" href="#inline67">[67]</a> *Masdar Solar & Wind Cooperatief U.A. v. The Kingdom of Spain*. ICSID Case No. ARB/14/1
 
-<a class="reference" id="68" href="#inline68">[68]</a> See Scope and Definition 9--10 (2011), UNCTAD, http://unctad.org/en/Docs/diaeia20102_en.pdf (arguing for greater precision in the definition of investment). 
+<a class="reference" id="68" href="#inline68">[68]</a> See Scope and Definition 9-10 (2011), UNCTAD, http://unctad.org/en/Docs/diaeia20102_en.pdf (arguing for greater precision in the definition of investment). 
 
 <a class="reference" id="69" href="#inline69">[69]</a> T. Samples, 'Winning and Losing In Investor-State Dispute Settlement' (2019) 56 American Business Law Journal 138
 
@@ -255,6 +255,6 @@ Mathias Baudena
 
 <a class="reference" id="76" href="#inline76">[76]</a> See *ExxonMobil Investments Canada Inc. and Murphy Oil Corporation v. Canada*, ICSID Case No. ARB(AF)/07/4, Award (February 20, 2015)
 
-<a class="reference" id="77" href="#inline77">[77]</a> n.19.,1C
+<a class="reference" id="77" href="#inline77">[77]</a> Dawson and De Witte (n 18) 1C
 
-<a class="reference" id="78" href="#inline78">[78]</a> *Slovak Republic v Achmea BV* (C-284/16)
+<a class="reference" id="78" href="#inline78">[78]</a> C-284/16 *Slovak Republic v Achmea BV* 
