@@ -3,7 +3,6 @@ layout: post
 title:  "Darnley v Croydon Health Service NHS Trust: delineating duty and breach"
 author: william
 categories: [ "Private Law" ]
-tags: [ "featured" ]
 ---
 
 **Case Note: *Darnley v Croydon Health Service NHS Trust [2018] UKSC 50, [2018] 3 WLR 1153***
