@@ -3,6 +3,7 @@ layout: post
 title: " 'Keep the Powder Dry': The Court of Appeal in Fearn v Tate Gallery"
 author: daniel
 categories: [ "Public Law" ]
+tags: [ "featured" ]
 ---
 
 
