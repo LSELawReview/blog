@@ -3,7 +3,6 @@ layout: post
 title:  "The Grossly Undefined Threshold for Establishing Medical Manslaughter"
 author: skye
 categories: [ "Criminal Law" ]
-tags: [ "featured" ]
 ---
 
 ##### Abstract:<a class="inline-reference" id="inline1" href="#1">1</a>
