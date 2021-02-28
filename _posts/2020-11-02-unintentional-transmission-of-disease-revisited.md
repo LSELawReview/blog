@@ -2,7 +2,7 @@
 layout: post
 title: "Unintentional Transmission of Disease Revisited – a Tort Law Perspective on COVID-19"
 author: julius 
-categories: ["private law"]
+categories: ["Private Law"]
 tags: [ "featured" ]
 ---
 
