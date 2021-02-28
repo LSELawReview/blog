@@ -103,158 +103,158 @@ Mathias Baudena
 
 * * * * *
 
-<a class="reference" id="1" href="#inline1">[1]</a> T. Dietz, M. Dotzauer and E. Cohen, 'The Legitimacy Crisis of Investor-State Arbitration and The New EU Investment Court System' (2019) 26 Review of International Political Economy 749, 759
+<a class="reference" id="1" href="#inline1">[1]</a> T. Dietz, M. Dotzauer and E. Cohen, 'The Legitimacy Crisis of Investor-State Arbitration and The New EU Investment Court System' (2019) 26 Review of International Political Economy 749, 759.
 
 <a class="reference" id="2" href="#inline2">[2]</a> UNCITRAL, 'Possible future work in the field of dispute settlement: Reforms of investor-State dispute settlement (ISDS): Note by the Secretariat' (20 April 2017) A/CN.9/917 (UNCITRAL Secretariat Note, A/CN.9/917), para. 12. See also UNCITRAL Working Group III 'Possible reform of investor-State dispute settlement (ISDS): Note by the Secretariat' (18 September 2017) A/CN.9/WG.III/WP.142 (Note by the Secretariat, WP.142), paras. 45-47. 
 
-<a class="reference" id="3" href="#inline3">[3]</a> J. Kelsey, D. Schneiderman and G. Van Harten, 'Phase 2 Of The UNCITRAL ISDS Review: Why 'Other Matters' Really Matter' (2019) SSRN Electronic Journal 1, 1
+<a class="reference" id="3" href="#inline3">[3]</a> J. Kelsey, D. Schneiderman and G. Van Harten, 'Phase 2 Of The UNCITRAL ISDS Review: Why 'Other Matters' Really Matter' (2019) SSRN Electronic Journal 1, 1.
 
-<a class="reference" id="4" href="#inline4">[4]</a> ibid
+<a class="reference" id="4" href="#inline4">[4]</a> ibid.
 
-<a class="reference" id="5" href="#inline5">[5]</a> UNCITRAL, 'Possible future work in the field of dispute settlement: Reforms of investor-State dispute settlement (ISDS): Note by the Secretariat' (20 April 2017) 
+<a class="reference" id="5" href="#inline5">[5]</a> UNCITRAL, 'Possible future work in the field of dispute settlement: Reforms of investor-State dispute settlement (ISDS): Note by the Secretariat' (20 April 2017). 
 
-<a class="reference" id="6" href="#inline6">[6]</a> ibid
+<a class="reference" id="6" href="#inline6">[6]</a> ibid.
 
-<a class="reference" id="7" href="#inline7">[7]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 15
+<a class="reference" id="7" href="#inline7">[7]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 15.
 
 <a class="reference" id="8" href="#inline8">[8]</a> UNCITRAL Secretariat, 'A Guide To UNCITRAL: Basic Facts About the United Nations Commission on International Trade Law' (United Nations 2013).
 
-<a class="reference" id="9" href="#inline9">[9]</a> S. Jandhyala, W. Henisz, and E. Mansfield, 'Three Waves of Bits' (2011) 55 Journal of Conflict Resolution 1047, 1049
+<a class="reference" id="9" href="#inline9">[9]</a> S. Jandhyala, W. Henisz, and E. Mansfield, 'Three Waves of Bits' (2011) 55 Journal of Conflict Resolution 1047, 1049.
 
 <a class="reference" id="10" href="#inline10">[10]</a> ibid 1048.
 
-<a class="reference" id="11" href="#inline11">[11]</a> See E. Neumayer, 'Self-Interest, Foreign Need, and Good Governance: Are Bilateral Investment Treaty Programs Similar to Aid Allocation?' (2006) 2 Foreign Policy Analysis 245, 247; J.W. Salacuse and N.P. Sullivan 'Do BITs Really Work?: An Evaluation of Bilateral Investment Treaties and Their Grand Bargain' (2005) 46 Harvard International Law Journal 67, 73
+<a class="reference" id="11" href="#inline11">[11]</a> See E. Neumayer, 'Self-Interest, Foreign Need, and Good Governance: Are Bilateral Investment Treaty Programs Similar to Aid Allocation?' (2006) 2 Foreign Policy Analysis 245, 247; J.W. Salacuse and N.P. Sullivan 'Do BITs Really Work?: An Evaluation of Bilateral Investment Treaties and Their Grand Bargain' (2005) 46 Harvard International Law Journal 67, 73.
 
-<a class="reference" id="12" href="#inline12">[12]</a> F. A. Mann, 'British Treaties for the Promotion and Protection of Investments' [1981] *British Year Book of  International Law* 241
+<a class="reference" id="12" href="#inline12">[12]</a> F. A. Mann, 'British Treaties for the Promotion and Protection of Investments' [1981] *British Year Book of  International Law* 241.
 
-<a class="reference" id="13" href="#inline13">[13]</a> Energy Charter Treaty, Dec. 17, 1994, 2080 U.N.T.S. 95 
+<a class="reference" id="13" href="#inline13">[13]</a> Energy Charter Treaty, Dec. 17, 1994, 2080 U.N.T.S. 95. 
 
-<a class="reference" id="14" href="#inline14">[14]</a> M. Waibel, A. Kaushal, K. Chung & C. Balchin, "The Backlash Against Investment Arbitration: Perceptions and Reality" in M. Waibel, A. Kaushal, K. Chung & C. Balchin (eds), *The Backlash Against Investment Arbitration* (London: Kluwer Law International 2010), 3
+<a class="reference" id="14" href="#inline14">[14]</a> M. Waibel, A. Kaushal, K. Chung & C. Balchin, "The Backlash Against Investment Arbitration: Perceptions and Reality" in M. Waibel, A. Kaushal, K. Chung & C. Balchin (eds), *The Backlash Against Investment Arbitration* (London: Kluwer Law International 2010), 3.
 
-<a class="reference" id="15" href="#inline15">[15]</a> M. Bronckers, 'Is Investor--State Dispute Settlement (ISDS) Superior to Litigation Before Domestic Courts? An EU View on Bilateral Trade Agreements' (2015) 18 J. INT'L ECON. L. 655, 672--74, 677
+<a class="reference" id="15" href="#inline15">[15]</a> M. Bronckers, 'Is Investor--State Dispute Settlement (ISDS) Superior to Litigation Before Domestic Courts? An EU View on Bilateral Trade Agreements' (2015) 18 J. INT'L ECON. L. 655, 672--74, 677.
 
-<a class="reference" id="16" href="#inline16">[16]</a> See J. Kelsey, D. Schneiderman and G. Van Harten, 'Phase 2 Of The UNCITRAL ISDS Review: Why 'Other Matters' Really Matter' [2019] SSRN Electronic Journal 1, 1;; L. Johnson & Brooke Guven, *The Settlement of Investment Disputes: A Discussion of Democratic Accountability and the Public Interest*, (2017); International Institute for Sustainable Development, 'Assessing The Impacts Of Investment Treaties: Overview Of The Evidence' (2017)
+<a class="reference" id="16" href="#inline16">[16]</a> See J. Kelsey, D. Schneiderman and G. Van Harten, 'Phase 2 Of The UNCITRAL ISDS Review: Why 'Other Matters' Really Matter' [2019] SSRN Electronic Journal 1, 1;; L. Johnson & Brooke Guven, *The Settlement of Investment Disputes: A Discussion of Democratic Accountability and the Public Interest*, (2017); International Institute for Sustainable Development, 'Assessing The Impacts Of Investment Treaties: Overview Of The Evidence' (2017).
 
 <a class="reference" id="17" href="#inline17">[17]</a> M. Halberstam, *Totalitarianism and the Modern Conception of Politics *(New Haven, CT, Yale Univeristy Press 1999) 17. 
 
-<a class="reference" id="18" href="#inline18">[18]</a> M. Dawson and F. de Witte, 'Constitutional Balance In The EU After The Euro-Crisis' (2013) 76 The Modern Law Review 817, 819
+<a class="reference" id="18" href="#inline18">[18]</a> M. Dawson and F. de Witte, 'Constitutional Balance In The EU After The Euro-Crisis' (2013) 76 The Modern Law Review 817, 819.
 
-<a class="reference" id="19" href="#inline19">[19]</a> ibid
+<a class="reference" id="19" href="#inline19">[19]</a> ibid.
 
-<a class="reference" id="20" href="#inline20">[20]</a> ibid
+<a class="reference" id="20" href="#inline20">[20]</a> ibid.
 
-<a class="reference" id="21" href="#inline21">[21]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 12
+<a class="reference" id="21" href="#inline21">[21]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 12.
 
-<a class="reference" id="22" href="#inline22">[22]</a> R. Moloo and J. Jacinto, 'Environmental and Health Regulation: Assessing Liability Under Investment Treaties' (2011) 1-65 Berkeley Journal of International Law, 43
+<a class="reference" id="22" href="#inline22">[22]</a> R. Moloo and J. Jacinto, 'Environmental and Health Regulation: Assessing Liability Under Investment Treaties' (2011) 1-65 Berkeley Journal of International Law, 43.
 
-<a class="reference" id="23" href="#inline23">[23]</a> UNCITRAL, 'Possible future work in the field of dispute settlement (ISDS): Submission from the Government of South Africa: Note by the Secretariat' (17 July 2019) A/CN.9/WG.III/WP.176, para 7
+<a class="reference" id="23" href="#inline23">[23]</a> UNCITRAL, 'Possible future work in the field of dispute settlement (ISDS): Submission from the Government of South Africa: Note by the Secretariat' (17 July 2019) A/CN.9/WG.III/WP.176, para 7.
 
 <a class="reference" id="24" href="#inline24">[24]</a> ibid para 11.
 
-<a class="reference" id="25" href="#inline25">[25]</a> See UNCITRAL, 'Possible future work in the field of dispute settlement (ISDS): Submission from the Government of Brazil: Note by the Secretariat' (28 March 2019) A/CN.9/WG.III/WP.171; UNCITRAL 'Possible future work in the field of dispute settlement (ISDS): Submission from the Government of Indonesia: Note by the Secretariat' (29 October 2018) A/CN.9/WG.III/WP.156 
+<a class="reference" id="25" href="#inline25">[25]</a> See UNCITRAL, 'Possible future work in the field of dispute settlement (ISDS): Submission from the Government of Brazil: Note by the Secretariat' (28 March 2019) A/CN.9/WG.III/WP.171; UNCITRAL 'Possible future work in the field of dispute settlement (ISDS): Submission from the Government of Indonesia: Note by the Secretariat' (29 October 2018) A/CN.9/WG.III/WP.156. 
 
-<a class="reference" id="26" href="#inline26">[26]</a> *Vattenfall* *AB* *and others v. Germany*. ICSID Case No. ARB/12/12
+<a class="reference" id="26" href="#inline26">[26]</a> *Vattenfall* *AB* *and others v. Germany*. ICSID Case No. ARB/12/12.
 
 <a class="reference" id="27" href="#inline27">[27]</a> The Thirteenth Amendment to the Atomic Energy Act (13. AtGÄndG v. 31.07.2011, BGBl I S. 1704 (No. 43)) came into effect on August 6, 2011. 
 
-<a class="reference" id="28" href="#inline28">[28]</a> Bernasconi-Osterwalder N, and Tamara Hoffmann R, 'The German Nuclear Phase-Out Put To The Test In International Investment Arbitration? Background To The New Dispute Vattenfall V. Germany (II)' (2012) The International Institute for Sustainable Development 1, 2
+<a class="reference" id="28" href="#inline28">[28]</a> Bernasconi-Osterwalder N, and Tamara Hoffmann R, 'The German Nuclear Phase-Out Put To The Test In International Investment Arbitration? Background To The New Dispute Vattenfall V. Germany (II)' (2012) The International Institute for Sustainable Development 1, 2.
 
-<a class="reference" id="29" href="#inline29">[29]</a> ibid
+<a class="reference" id="29" href="#inline29">[29]</a> ibid.
 
-<a class="reference" id="30" href="#inline30">[30]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 11
+<a class="reference" id="30" href="#inline30">[30]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 11.
 
 <a class="reference" id="31" href="#inline31">[31]</a> See L. Poulsen and E. Aisbett, 'When the Claim Hits: Bilateral Investment Treaties and Bounded Rational Learning' (2013) 65 *World Politics *273.
 
-<a class="reference" id="32" href="#inline32">[32]</a> J. Kleinheisterkamp, 'No Greater Rights' <https://youtu.be/Drv0NmytvRU> accessed 15 July 2020
+<a class="reference" id="32" href="#inline32">[32]</a> J. Kleinheisterkamp, 'No Greater Rights' <https://youtu.be/Drv0NmytvRU> accessed 15 July 2020.
 
 <a class="reference" id="33" href="#inline33">[33]</a> UNCTAD, 'World Investment Report 2011, Non-Equity Modes Of International Production And Development' (UNITED NATIONS PUBLICATION 2010) <https://unctad.org/system/files/official-document/wir2011_en.pdf> accessed 15 January 2021. FDI distributions by developed and developing countries, in US$ Billion, and % participation.
 
-<a class="reference" id="34" href="#inline34">[34]</a> UNCTAD, 'World Investment Report 2020, Non-Equity Modes Of International Production And Development' (UNITED NATIONS PUBLICATION 2020)
+<a class="reference" id="34" href="#inline34">[34]</a> UNCTAD, 'World Investment Report 2020, Non-Equity Modes Of International Production And Development' (UNITED NATIONS PUBLICATION 2020).
 
-<a class="reference" id="35" href="#inline35">[35]</a> UNCTAD, 'Fact Sheet on Investor-State Dispute Settlement Cases in 2018' (May 2019) *IIA Issues Note*
+<a class="reference" id="35" href="#inline35">[35]</a> UNCTAD, 'Fact Sheet on Investor-State Dispute Settlement Cases in 2018' (May 2019) *IIA Issues Note*.
 
-<a class="reference" id="36" href="#inline36">[36]</a> UNCTAD, 'Latest Developments in Investor-State Dispute Settlement' (April 2012) *IIA Issues Note*
+<a class="reference" id="36" href="#inline36">[36]</a> UNCTAD, 'Latest Developments in Investor-State Dispute Settlement' (April 2012) *IIA Issues Note*.
 
-<a class="reference" id="37" href="#inline37">[37]</a> Peter Wise, 'Portugal appeals to Angola for funds' *Financial Times* (Lisbon, 17 November 2011) <https://www.ft.com/content/9c1f123e-1132-11e1-ad22-00144feabdc0> accessed 20 February 2021 
+<a class="reference" id="37" href="#inline37">[37]</a> Peter Wise, 'Portugal appeals to Angola for funds' *Financial Times* (Lisbon, 17 November 2011) <https://www.ft.com/content/9c1f123e-1132-11e1-ad22-00144feabdc0> accessed 20 February 2021 .
 
 <a class="reference" id="38" href="#inline38">[38]</a> Energy Charter Treaty (opened for signature 17 December 1994, entered into force 16 April 1998) (ECT).
 
-<a class="reference" id="39" href="#inline39">[39]</a> S.H. Ng, 'What is the future of the Energy Charter Treaty following the termination of intra-EU BITs in a post-*Achmea *era?' (*Working Paper*) 6
+<a class="reference" id="39" href="#inline39">[39]</a> S.H. Ng, 'What is the future of the Energy Charter Treaty following the termination of intra-EU BITs in a post-*Achmea *era?' (*Working Paper*) 6.
 
-<a class="reference" id="40" href="#inline40">[40]</a> G.M. Alvarez, 'Redefining the Relationship Between the Energy Charter Treaty and the Treaty of Functioning of the European Union: From a Normative Conflict to Policy Tension' (2018) 33 I.C.S.I.D. REV. 560, 562 (2018)
+<a class="reference" id="40" href="#inline40">[40]</a> G.M. Alvarez, 'Redefining the Relationship Between the Energy Charter Treaty and the Treaty of Functioning of the European Union: From a Normative Conflict to Policy Tension' (2018) 33 I.C.S.I.D. REV. 560, 562 (2018).
 
-<a class="reference" id="41" href="#inline41">[41]</a> Case C-284/16, *Slowakische Republik v Achmea BV*, 19 September 2017 (case not yet reported, ECLI:EU:C:2017:699), Opinion of Advocate General Wathelet
+<a class="reference" id="41" href="#inline41">[41]</a> Case C-284/16, *Slowakische Republik v Achmea BV*, 19 September 2017 (case not yet reported, ECLI:EU:C:2017:699), Opinion of Advocate General Wathelet.
 
-<a class="reference" id="42" href="#inline42">[42]</a> Treaty on the Functioning of the European Union, art. 344
+<a class="reference" id="42" href="#inline42">[42]</a> Treaty on the Functioning of the European Union, art. 344.
 
-<a class="reference" id="43" href="#inline43">[43]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 561
+<a class="reference" id="43" href="#inline43">[43]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 561.
 
 <a class="reference" id="44" href="#inline44">[44]</a> ibid 562.
 
 <a class="reference" id="45" href="#inline45">[45]</a> United Nations Conference on Trade & Dev., *Investor-State Dispute Settlement: Review of Developments in 2017*, *in *2 INT'L INV. AGREEMENTS ISSUES NOTE 1, 2 (2018), https://unctad.org/en/PublicationsLibrary/diaepcbinf 2018d2_en.pdf. 
 
-<a class="reference" id="46" href="#inline46">[46]</a> A. Lacson, 'What Happens Now? The Future of Intra-EU Investor-State Dispute Settlement Under the Energy Charter Treaty' (2019) 51 N.Y.U. J. Int'l L. & Pol. 1327, 1331
+<a class="reference" id="46" href="#inline46">[46]</a> A. Lacson, 'What Happens Now? The Future of Intra-EU Investor-State Dispute Settlement Under the Energy Charter Treaty' (2019) 51 N.Y.U. J. Int'l L. & Pol. 1327, 1331.
 
-<a class="reference" id="47" href="#inline47">[47]</a> ibid
+<a class="reference" id="47" href="#inline47">[47]</a> ibid.
 
-<a class="reference" id="48" href="#inline48">[48]</a> J. Kleinheisterkamp, 'Investment Treaty Law And The Fear For Sovereignty: Transnational Challenges And Solutions' (2015) 78(5) The Modern Law Review 793, 797
+<a class="reference" id="48" href="#inline48">[48]</a> J. Kleinheisterkamp, 'Investment Treaty Law And The Fear For Sovereignty: Transnational Challenges And Solutions' (2015) 78(5) The Modern Law Review 793, 797.
 
-<a class="reference" id="49" href="#inline49">[49]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 8
+<a class="reference" id="49" href="#inline49">[49]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 8.
 
-<a class="reference" id="50" href="#inline50">[50]</a> C. Riffel, 'Does Investor-State Dispute Settlement Discriminate Against Nationals?' (2020) 21 German Law Journal 197
+<a class="reference" id="50" href="#inline50">[50]</a> C. Riffel, 'Does Investor-State Dispute Settlement Discriminate Against Nationals?' (2020) 21 German Law Journal 197.
 
 <a class="reference" id="51" href="#inline51">[51]</a> ibid 217.
 
-<a class="reference" id="52" href="#inline52">[52]</a> Enterprise Act 2002
+<a class="reference" id="52" href="#inline52">[52]</a> Enterprise Act 2002.
 
-<a class="reference" id="53" href="#inline53">[53]</a> S. W. Schill, *International Investment Law and Comparative Public Law *(Oxford: OUP, 2010) (*ILL and Comparative Public Law*), 28
+<a class="reference" id="53" href="#inline53">[53]</a> S. W. Schill, *International Investment Law and Comparative Public Law *(Oxford: OUP, 2010) (*ILL and Comparative Public Law*), 28.
 
-<a class="reference" id="54" href="#inline54">[54]</a> J. Kleinheisterkamp, 'Investment Treaty Law and the Fear for Sovereignty: Transnational Challenges and Solutions'(2015) 78(5) MLR 793, 811
+<a class="reference" id="54" href="#inline54">[54]</a> J. Kleinheisterkamp, 'Investment Treaty Law and the Fear for Sovereignty: Transnational Challenges and Solutions'(2015) 78(5) MLR 793, 811.
 
-<a class="reference" id="55" href="#inline55">[55]</a> J. Kleinheisterkamp, 'Investment Treaty Law and the Fear for Sovereignty: Transnational Challenges and Solutions'(2015) 78(5) MLR 793, 820
+<a class="reference" id="55" href="#inline55">[55]</a> J. Kleinheisterkamp, 'Investment Treaty Law and the Fear for Sovereignty: Transnational Challenges and Solutions'(2015) 78(5) MLR 793, 820.
 
-<a class="reference" id="56" href="#inline56">[56]</a> *Suez, Sociedad General de Aguas de Barcelona SA and InterAguas Servicios Integrales del Agua SA *v *Argentine Republic *ICSID Case No ARB/03/17, Decision on Liability of 30 July 2010 at [196]. See also *Saluka Investments BV *v *Czech Republic *(UNCITRAL), Partial Award of 17 March 2006 at [297]
+<a class="reference" id="56" href="#inline56">[56]</a> *Suez, Sociedad General de Aguas de Barcelona SA and InterAguas Servicios Integrales del Agua SA *v *Argentine Republic *ICSID Case No ARB/03/17, Decision on Liability of 30 July 2010 at [196]. See also *Saluka Investments BV *v *Czech Republic *(UNCITRAL), Partial Award of 17 March 2006 at [297].
 
-<a class="reference" id="57" href="#inline57">[57]</a> *Vattenfall* *AB* *and others v. Germany*. ICSID Case No. ARB/12/12
+<a class="reference" id="57" href="#inline57">[57]</a> *Vattenfall* *AB* *and others v. Germany*. ICSID Case No. ARB/12/12.
 
-<a class="reference" id="58" href="#inline58">[58]</a> *Masdar Solar & Wind Cooperatief U.A. v. The Kingdom of Spain*. ICSID Case No. ARB/14/1
+<a class="reference" id="58" href="#inline58">[58]</a> *Masdar Solar & Wind Cooperatief U.A. v. The Kingdom of Spain*. ICSID Case No. ARB/14/1.
 
-<a class="reference" id="59" href="#inline59">[59]</a> *Occidental Petroleum Corporation and Occidental Exploration and Production Company v. The Republic of Ecuador*. ICSID Case No. ARB/06/11 
+<a class="reference" id="59" href="#inline59">[59]</a> *Occidental Petroleum Corporation and Occidental Exploration and Production Company v. The Republic of Ecuador*. ICSID Case No. ARB/06/11. 
 
-<a class="reference" id="60" href="#inline60">[60]</a> V. Lowe, 'Changing Dimensions of International Investment Law' (2007) Oxford Legal Studies Research Paper No. 4/2007, 49
+<a class="reference" id="60" href="#inline60">[60]</a> V. Lowe, 'Changing Dimensions of International Investment Law' (2007) Oxford Legal Studies Research Paper No. 4/2007, 49.
 
-<a class="reference" id="61" href="#inline61">[61]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 8
+<a class="reference" id="61" href="#inline61">[61]</a> UNCITRAL, 'Possible future work in the field of dispute settlement' (n 2) 8.
 
 <a class="reference" id="62" href="#inline62">[62]</a> See M. Paparinskis, 'Investors' Remedies Under EU Law and International Investment Law' (2016), 17 J. World Inv. & Trade 919, 940--41 (denying the commensurability of remedies under domestic and international investment law). 
 
-<a class="reference" id="63" href="#inline63">[63]</a> *Slowakische Republik* (n 41) 212
+<a class="reference" id="63" href="#inline63">[63]</a> *Slowakische Republik* (n 41) 212.
 
-<a class="reference" id="64" href="#inline64">[64]</a> ibid
+<a class="reference" id="64" href="#inline64">[64]</a> ibid.
 
-<a class="reference" id="65" href="#inline65">[65]</a> The Thirteenth Amendment to the Atomic Energy Act (n 28)
+<a class="reference" id="65" href="#inline65">[65]</a> The Thirteenth Amendment to the Atomic Energy Act (n 28).
 
-<a class="reference" id="66" href="#inline66">[66]</a> ibid
+<a class="reference" id="66" href="#inline66">[66]</a> ibid.
 
-<a class="reference" id="67" href="#inline67">[67]</a> *Masdar Solar & Wind Cooperatief U.A. v. The Kingdom of Spain*. ICSID Case No. ARB/14/1
+<a class="reference" id="67" href="#inline67">[67]</a> *Masdar Solar & Wind Cooperatief U.A. v. The Kingdom of Spain*. ICSID Case No. ARB/14/1.
 
 <a class="reference" id="68" href="#inline68">[68]</a> See Scope and Definition 9-10 (2011), UNCTAD, http://unctad.org/en/Docs/diaeia20102_en.pdf (arguing for greater precision in the definition of investment). 
 
-<a class="reference" id="69" href="#inline69">[69]</a> T. Samples, 'Winning and Losing In Investor-State Dispute Settlement' (2019) 56 American Business Law Journal 138
+<a class="reference" id="69" href="#inline69">[69]</a> T. Samples, 'Winning and Losing In Investor-State Dispute Settlement' (2019) 56 American Business Law Journal 138.
 
-<a class="reference" id="70" href="#inline70">[70]</a> L. Wells, 'The Emerging Global Regime for Investment: A Response', (2010) 52 Harvard International Law Journal Online 42, 52 
+<a class="reference" id="70" href="#inline70">[70]</a> L. Wells, 'The Emerging Global Regime for Investment: A Response', (2010) 52 Harvard International Law Journal Online 42, 52.
 
-<a class="reference" id="71" href="#inline71">[71]</a> *Methanex Corporation v United States*, Final Award on Jurisdiction and Merits, (2005) 44 ILM 1345, Inside US Trade, 19 August 2005, 12, IIC 167 (2005), 3rd August 2005, Ad Hoc Tribunal (UNCITRAL)
+<a class="reference" id="71" href="#inline71">[71]</a> *Methanex Corporation v United States*, Final Award on Jurisdiction and Merits, (2005) 44 ILM 1345, Inside US Trade, 19 August 2005, 12, IIC 167 (2005), 3rd August 2005, Ad Hoc Tribunal (UNCITRAL).
 
-<a class="reference" id="72" href="#inline72">[72]</a> B. Legum, 'Nafta Chatper Eleven Arbitral Tribunal: Methanex Corporation v United States of America, Final Awar on Jurisdiction and Merits', (2005) 44(6) International Legal Materials 1343 
+<a class="reference" id="72" href="#inline72">[72]</a> B. Legum, 'Nafta Chatper Eleven Arbitral Tribunal: Methanex Corporation v United States of America, Final Awar on Jurisdiction and Merits', (2005) 44(6) International Legal Materials 1343.
 
-<a class="reference" id="73" href="#inline73">[73]</a> See *Abengoa S.A. y COFIDES S.A. v. United Mexican States*, ICSID Case No. ARB(AF)/09/2, Award (April 18, 2013); *William Ralph Clayton, William Richard Clayton, Douglas Clayton, Daniel Clayton and Bilcon of Delaware, Inc. v. Canada, Award on Jurisdiction and Liability*, Ad hoc---UNCITRAL Arbitration Rules (2015)  
+<a class="reference" id="73" href="#inline73">[73]</a> See *Abengoa S.A. y COFIDES S.A. v. United Mexican States*, ICSID Case No. ARB(AF)/09/2, Award (April 18, 2013); *William Ralph Clayton, William Richard Clayton, Douglas Clayton, Daniel Clayton and Bilcon of Delaware, Inc. v. Canada, Award on Jurisdiction and Liability*, Ad hoc---UNCITRAL Arbitration Rules (2015).  
 
-<a class="reference" id="74" href="#inline74">[74]</a> See *Azurix Corp. v. The Argentine Republic*, ICSID Case No. ARB/01/12, Award (July 14, 2006); *Railroad Development Corporation v. Republic of Guatemala*, ICSID Case No. ARB/07/23, Award (June 29, 2012) 
+<a class="reference" id="74" href="#inline74">[74]</a> See *Azurix Corp. v. The Argentine Republic*, ICSID Case No. ARB/01/12, Award (July 14, 2006); *Railroad Development Corporation v. Republic of Guatemala*, ICSID Case No. ARB/07/23, Award (June 29, 2012). 
 
-<a class="reference" id="75" href="#inline75">[75]</a> See *Saluka Investments B.V. v. The Czech Republic, Partial Award*, Ad hoc---UNCITRAL Arbitration Rules (2006); *CMS Gas Transmission Company v. The Republic of Argentina*, ICSID Case No. ARB/01/8, Award (May 12, 2005) 
+<a class="reference" id="75" href="#inline75">[75]</a> See *Saluka Investments B.V. v. The Czech Republic, Partial Award*, Ad hoc---UNCITRAL Arbitration Rules (2006); *CMS Gas Transmission Company v. The Republic of Argentina*, ICSID Case No. ARB/01/8, Award (May 12, 2005). 
 
-<a class="reference" id="76" href="#inline76">[76]</a> See *ExxonMobil Investments Canada Inc. and Murphy Oil Corporation v. Canada*, ICSID Case No. ARB(AF)/07/4, Award (February 20, 2015)
+<a class="reference" id="76" href="#inline76">[76]</a> See *ExxonMobil Investments Canada Inc. and Murphy Oil Corporation v. Canada*, ICSID Case No. ARB(AF)/07/4, Award (February 20, 2015).
 
-<a class="reference" id="77" href="#inline77">[77]</a> Dawson and De Witte (n 18) 1C
+<a class="reference" id="77" href="#inline77">[77]</a> Dawson and De Witte (n 18) 1C.
 
-<a class="reference" id="78" href="#inline78">[78]</a> C-284/16 *Slovak Republic v Achmea BV* 
+<a class="reference" id="78" href="#inline78">[78]</a> C-284/16 *Slovak Republic v Achmea BV*. 
