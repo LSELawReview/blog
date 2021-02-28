@@ -3,7 +3,6 @@ layout: post
 title: "Treaties, Peremptory Norms and International Courts: Is the Hierarchy Theory Treading Water?" 
 author: madeleine lusted
 categories: [ "International Law" ] 
-tags: [ "featured" ]
 ---
 ##### Introduction:
 
