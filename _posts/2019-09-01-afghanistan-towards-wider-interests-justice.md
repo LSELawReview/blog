@@ -3,7 +3,6 @@ layout: post
 title:  "Afghanistan: Towards wider interests of justice?"
 author: samantha
 categories: [ "International Law" ]
-tags: [ "featured" ]
 ---
 
 The Pre-Trial Chamber ("PTC") II of the International Criminal Court ("ICC") handed down its much-awaited decision on the request for authorisation of an investigation into the situation in Afghanistan<a class="inline-reference" id="inline1" href="#1">1</a> earlier this year. The escalating conflict in Afghanistan has generated thousands of civilian casualties, many of whom were also victims of acts potentially constituting war crimes within the ICC's jurisdiction.<a class="inline-reference" id="inline2" href="#2">2</a> The decision that the investigation would not be in the interests of justice to pursue thus came as a surprise to the legal community, given the presumed dormancy of the provision -- many had thought that any admissible case would *ipso facto* be in the interests of justice to pursue. Indeed, it was widely assumed that the decision would only be subject to review by the PTC where the Office of the Prosecutor ("OTP") had decided *not* to pursue an investigation solely in the interests of justice.<a class="inline-reference" id="inline3" href="#3">3</a> This case note will analyse the role of state cooperation in the PTC's interests of justice determination in light of the principle of complementarity, which holds that the ICC should only intervene where a State Party was "unwilling or unable"<a class="inline-reference" id="inline4" href="#4">4</a> to investigate a crime falling under the ICC's jurisdiction. The objectives of domestic institution-building that the principle was conceived of to foster will be considered, before concluding that the PTC's overt focus on prosecutorial success is misguided.
@@ -147,7 +146,7 @@ Rome Statute, art 27(2).
 Will Colish, ‘The International Criminal Court in Guinea: A Case Study of Complementarity’ (2013) Revue québécoise de droit international 23.
 
 <a class="reference" id="30" href="#inline30">[30]</a>
-Frédéric Mégret and Marika Giles Samson, ‘Holding the Line on Complementarity in Libya: the Case for Tolerating Flawed Domestic Trials’ (2013) 11 Journal of International Criminal Justice 571.
+Frédéric Mégret and Marika Giles Samson, ‘Holding the Line on Complementarity in Libya: the Case for Tolerating Flawed Domestic Trials’ (2013) 11 Journal of International Criminal Justice 571.
 
 <a class="reference" id="31" href="#inline31">[31]</a>
 Such as in Guinea. Colish (n 24).
