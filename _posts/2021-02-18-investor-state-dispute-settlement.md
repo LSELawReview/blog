@@ -97,9 +97,9 @@ The second reason is that a number of landmark cases in the last few decades hav
 
 The ISDS system's substantive legitimacy crisis is caused by the inherent logic of the system itself -- for this reason, it simply cannot become legitimate. Threatening to increasingly undermine constitutional commitments at the national level, it is urgent for the regime as a whole to be repealed. Only through such drastic measures will the substantive challenges posed by ISDS be addressed. The EU has started to realise the extent of the problem posed by reverse discrimination. Following the ECJ ruling in *Achmea*,<a class="inline-reference" id="inline78" href="#78">78</a> where it was declared that Intra-EU BITs were contrary to EU law, 23 EU Member states (all except Austria, Ireland, Finland and Sweden) have signed on 5 May 2020 the 'Agreement for the Termination of Bilateral Investment Treaties between the Member States of the European Union'. What such an agreement will reap is uncertain, but its existence certainly does signal a formal recognition of the substantive challenges contained in the ISDS regime.
 
-I would like to extend my thanks to the LSE Law Review editorial board for their comments on an earlier draft. All errors remain my own.
-
 Mathias Baudena
+
+I would like to extend my thanks to the LSE Law Review editorial board for their comments on an earlier draft. All errors remain my own.
 
 * * * * *
 
