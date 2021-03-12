@@ -200,6 +200,11 @@ authors:
       name:               "Mathias Baudena"
       bio:                "LLB (London School of Econonomics and Political Science) '21"
       email:              M.H.Baudena@lse.ac.uk
+      
+    karen viktoria:
+      name:               "Karen Viktoria Akerø-Stueland"
+      bio:                "MSc in Human Rights (London School of Economics and Political Science) '21"
+      email:              viktoria.stueland@gmail.com
 
 # Defaults
 defaults:
