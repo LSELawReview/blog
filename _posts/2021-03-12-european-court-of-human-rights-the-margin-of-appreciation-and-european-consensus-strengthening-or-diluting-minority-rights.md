@@ -138,9 +138,9 @@ The string of cases regarding transgender rights is glaring proof of the Court's
 
 <a class="reference" id="34" href="#inline34">[34]</a> (#_ftnref34) X v the Former Yugoslav Republic of Macedonia App no 29683/16 (ECtHR, 17 January 2019) (X v FYROM); Mariam Gaiparashvili and Sarah Schoentjes, 'X V. FYROM: A Circumspect Compromise On Trans* Rights?' (Strasbourg Observers 2019) <https://strasbourgobservers.com/2019/04/02/x-v-fyrom-a-circumspect-compromise-about-trans-rights/> accessed 13 December 2019.
 
-<a class="reference" id="35" href="#inline35">[35]</a> (#_ftnref35) *X v FYROM*  (n 34) [8].
+<a class="reference" id="35" href="#inline35">[35]</a> *X v FYROM*  (n 34) [8].
 
-<a class="reference" id="36" href="#inline36">[36]</a> (#_ftnref36) Gaiparashvili and Schoentjes (n 33).
+<a class="reference" id="36" href="#inline36">[36]</a> Gaiparashvili and Schoentjes (n 33).
 
 <a class="reference" id="37" href="#inline37">[37]</a> *Goodwin* (n 24) [74].
 
@@ -160,7 +160,7 @@ The string of cases regarding transgender rights is glaring proof of the Court's
 
 <a class="reference" id="45" href="#inline45">[45]</a> Dzehtsiarou (n 40) 125.
 
-<a class="reference" id="46" href="#inline46">[46]</a> * S.A.S. v. France* Application no 43835/11 (ECtHR, 1 July 2014) (*SAS*).
+<a class="reference" id="46" href="#inline46">[46]</a> *S.A.S. v. France* Application no 43835/11 (ECtHR, 1 July 2014) (*SAS*).
 
 <a class="reference" id="47" href="#inline47">[47]</a> ibid [145].
 
