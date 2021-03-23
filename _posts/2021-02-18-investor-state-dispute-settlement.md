@@ -3,6 +3,7 @@ layout: post
 title: "Investor-State Dispute Settlement: Understanding the System's Legitimacy Crisis in Constitutional Terms"
 author: mathias 
 categories: ["International Law"]
+tags: [ "featured" ]
 ---
 
 #### Abstract:
