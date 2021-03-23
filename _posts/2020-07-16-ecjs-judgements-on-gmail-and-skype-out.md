@@ -3,7 +3,6 @@ layout: post
 title: "The ECJ's Judgements on 'Gmail' and 'Skype Out': A Critical Review"
 author: andreas
 categories: [ "International Law" ]
-tags: [ "featured" ]
 ---
 
 ##### A critical review of the ECJ's Judgments on 'Gmail' and 'Skype Out'
