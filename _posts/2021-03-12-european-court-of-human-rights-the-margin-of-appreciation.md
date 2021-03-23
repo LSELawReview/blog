@@ -3,6 +3,7 @@ layout: post
 title: "The European Court of Human Rights, the Margin of Appreciation and European Consensus: Strengthening or Diluting Minority Rights?"
 author: karen viktoria
 categories: ["International Law"]
+tags: [ "featured" ]
 ---
 
 #### Abstract: 
