@@ -4,7 +4,7 @@ title: "The European Court of Human Rights, the Margin of Appreciation and Europ
 author: karen viktoria
 categories: ["International Law"]
 tags: [ "featured" ]
----
+--- 
 
 #### Abstract:
 
