@@ -3,6 +3,7 @@ layout: post
 title: "Schrems II - Implications for Data Flows Post Brexit"
 author: Osama
 categories: ["International Law"]
+tags: [ "featured" ]
 ---
 
 ##### Introduction 
