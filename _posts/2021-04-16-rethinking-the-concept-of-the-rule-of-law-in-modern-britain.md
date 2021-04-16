@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RETHINKING THE CONCEPT OF THE RULE OF LAW IN MODERN BRITAIN"
-author:Tevz
+author: Tevz
 categories: ["Public Law"]
 tags: [ "featured" ]
 ---
