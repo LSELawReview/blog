@@ -12,7 +12,7 @@ In *Elgizouli v Secretary of State for the Home Department*, the Supreme Court c
 
 The article will situate *Elgizouli* within existing jurisprudence on common law constitutional rights. In doing so, it will argue that the Court has revealed a more restrictive approach to such rights. Finally, this article will discuss how *Elgizouli* demonstrates that the scope of common law constitutional rights seems to be limited to procedural rights (as opposed to substantive rights).
 
-#### Background of *Elgizouli
+#### Background of *Elgizouli*
 
 In *Elgizouli*, the applicant's son was suspected of involvement in a terrorist group which committed serious crimes, including the beheading of 27 men in Syria.<a class="inline-reference" id="inline2" href="#2">2</a> In 2015, the US requested MLA -- which enables the US and UK governments to share information for the purposes of criminal proceedings -- with respect to an investigation into that terrorist group.<a class="inline-reference" id="inline3" href="#3">3</a> While the Home Secretary requested the US guarantee that information provided would not be used in a prosecution that could lead to the imposition of the death penalty, the US did not provide such an assurance. Despite the lack of this assurance from the US, the Home Secretary agreed to the MLA request and supplied relevant information to US authorities.<a class="inline-reference" id="inline4" href="#4">4</a> While witness statements had already been transferred to US authorities before the case was brought to the courts, the Supreme Court nonetheless emphasised the importance of determining the legality of the Home Secretary's actions as "[f]urther material may be sought" <a class="inline-reference" id="inline5" href="#5">5</a> by US authorities.
 
