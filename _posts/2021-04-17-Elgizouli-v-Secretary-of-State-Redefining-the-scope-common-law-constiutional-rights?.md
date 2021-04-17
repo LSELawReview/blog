@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elgizouli v Secretary of State for the Home Department*: Redefining the scope of common law constitutional rights?"
-author: Allison
+author: Allison 
 categories: ["Public Law"]
 tags: [ "featured" ]
 ---
