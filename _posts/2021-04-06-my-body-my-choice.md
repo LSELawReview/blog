@@ -15,7 +15,7 @@ While this article recognises that abortion is an ethically-charged issue, it do
 ##### II. The Offence of Child Destruction
 
 Section 1(1) of the Infant Life (Preservation) Act 1929 
-vides that:
+provides that:
 
 > "Any person who, with intent to destroy the life of a child capable of being born alive, by any wilful act causes a child to die before it has an existence independent of its mother, shall be guilty... of child destruction."
 
