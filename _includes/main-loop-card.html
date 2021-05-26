@@ -13,9 +13,14 @@
 		{% endfor %}
 		</span>
 	</small>
-	<<small class="d-block text-muted">
-		{{ post.authors[author].name}}
-	</small> /
+	<<small class="text-muted">
+		<span class="authorlist">
+		{% if post.author %}<a href="{{site.baseurl}}/authors#{{ post.author }}"> {{ site.authors[post.author].name }}</a>{% endif %}
+		{% if page.authors %}
+		{% for author in post.authors %}
+		<a href="{{site.baseurl}}/authors#{{ author }}"> {{ site.authors[author].name }}</a><span class="sep"> &</span>
+		{% endfor %}
+	</small> ||
 	<small class="text-muted">
 		{{ post.date | date: '%b %d, %Y' }}
 	</small>
