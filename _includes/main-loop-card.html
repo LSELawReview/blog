@@ -15,11 +15,11 @@
 	</small>
 	<<small class="text-muted">
 		<span class="authorlist">
-		{% for author in post.authors %}
-		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/authors#{{ author | slugify }}"> {{ author }}</a><span class="sep">, </span>
+		{% for author.name in post.authors %}
+		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/authors#{{ author.name | slugify }}"> {{ author }}</a><span class="sep">, </span>
 		{% endfor %}
 		</span>
-	</small> ::
+	</small> :|?
 	<small class="text-muted">
 		{{ post.date | date: '%b %d, %Y' }}
 	</small>
