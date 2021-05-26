@@ -14,7 +14,10 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		{{ post.author.name | post.date | date: '%b %d, %Y' }}
+		{{ post.author}}
+	</small>
+	<small class="text-muted">
+		{{ post.date | date: '%b %d, %Y' }}
 	</small>
 </div>
 <!-- Hide post images everywhere
