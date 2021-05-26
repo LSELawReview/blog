@@ -18,9 +18,9 @@
 		{% if post.author %}<a href="{{site.baseurl}}/authors#{{ post.author }}"> {{ site.authors[post.author].name }}</a>{% endif %}
 		{% if page.authors %}
 		{% for author in post.authors %}
-		<a href="{{site.baseurl}}/authors#{{ author }}"> {{ site.authors[author].name }}</a><span class="sep"> &</span>
+		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/authors#{{ author | slugify }}"> {{ author }}</a><span class="sep"> &</span>
 		{% endfor %}
-	</small> ||
+	</small> ::
 	<small class="text-muted">
 		{{ post.date | date: '%b %d, %Y' }}
 	</small>
