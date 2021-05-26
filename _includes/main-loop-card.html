@@ -13,11 +13,8 @@
 		{% endfor %}
 		</span>
 	</small>
-	<<small class="text-muted">
-		{{ post.author.name }}
-	</small> :|!!
 	<small class="text-muted">
-		{{ post.date | date: '%b %d, %Y' }}
+		{{ post.author.name | post.date | date: '%b %d, %Y' }}
 	</small>
 </div>
 <!-- Hide post images everywhere
