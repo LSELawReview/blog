@@ -15,7 +15,7 @@
 	</small>
 	<<small class="text-muted">
 		<span class="authorlist">
-		{% for author.name in post.authors %}
+		{% for author in post.authors %}
 		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/authors#{{ author.name | slugify }}"> {{ author }}</a><span class="sep">, </span>
 		{% endfor %}
 		</span>
