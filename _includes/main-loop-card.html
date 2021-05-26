@@ -14,8 +14,8 @@
 		</span>
 	</small>
 	<<small class="text-muted">
-		{{ post.author}}
-	</small>
+		{{ post.authors[author].name}}
+	</small> |
 	<small class="text-muted">
 		{{ post.date | date: '%b %d, %Y' }}
 	</small>
