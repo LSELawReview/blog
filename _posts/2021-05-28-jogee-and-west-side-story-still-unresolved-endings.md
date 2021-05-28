@@ -6,7 +6,7 @@ categories: ["Criminal Law"]
 tags: [ "featured" ]
 ---
 
-### Abstract
+### Abstract 
 
 *Have you ever wondered how 'West Side Story' might have been resolved in the English courts? In such cases of gang violence, the area of complicity governs the typical situation where the accused (the 'Accessory') did not commit the crime but assisted or encouraged the principal offender to do so. This note analyses the impact of R v Jogee, arguably the most seminal case in this area of law,by tracing the legal and social aftermath of the decision. It begins by questioning how Jogee was initially lauded for its reversion back to principle, and the extent to which it truly righted a 'wrong turn' in the law by navigating the academic literature on the disputed issue of intention in the Jogee judgement. In discussing the perceived advantages and disadvantages of the current law on accomplice liability, this note ultimately still finds the law wanting of necessary clarifications. Moreover, a holistic approach to reform is required, including ensuring the integrity of prosecution charging decisions by removing the inaccurate racialised gang narrative permeating this area of law. This work was inspired by LSE's Criminal Law syllabus on the topic of Complicity. I declare that it has not been submitted elsewhere.*
 
