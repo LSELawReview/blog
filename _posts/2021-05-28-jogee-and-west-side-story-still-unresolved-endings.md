@@ -144,7 +144,7 @@ Theoretically, *Jogee* on paper is a much-needed reversion back to principle, al
 
 <a class="reference" id="29" href="#inline29">[29]</a> Findlay Stark, 'The Taming of Jogee?' [2017] The Cambridge Law Journal, Volume 76, Issue 1, 4-7.
 
-<a class="reference" id="30" href="#inline30">[30]</a> *Chan Kam Shing*[2016] HKCFA 87.
+<a class="reference" id="30" href="#inline30">[30]</a> *Chan Kam Shing* [2016] HKCFA 87.
 
 <a class="reference" id="31" href="#inline31">[31]</a> *R v Anwar (Umar) and others* [2016] EWCA Crim 551, [2016] 4 WLR 127.
 
@@ -154,7 +154,7 @@ Theoretically, *Jogee* on paper is a much-needed reversion back to principle, al
 
 <a class="reference" id="34" href="#inline34">[34]</a> Andrew Ashworth, Principles, Pragmatism and the Law Commission's Recommendations on Homicide Law Reform [2007] Crim. L.R. 333.
 
-<a class="reference" id="35" href="#inline35">[35]</a> *R v Moloney*[1985] AC 905, 907D.
+<a class="reference" id="35" href="#inline35">[35]</a> *R v Moloney* [1985] AC 905, 907D.
 
 <a class="reference" id="36" href="#inline36">[36]</a> Ormerod and Laird (n 23).
 
@@ -192,9 +192,9 @@ Theoretically, *Jogee* on paper is a much-needed reversion back to principle, al
 
 <a class="reference" id="53" href="#inline53">[53]</a> Mohamed Elewa Badar, ''Just Convict Everyone!' -- Joint Perpetration: From Tadić To Stakić And Back Again' (2006) 6 International Criminal Law Review.
 
-<a class="reference" id="54" href="#inline54">[54]</a> Will McMahon and Rebecca Roberts, 'Truth And Lies About 'Race' And 'Crime' | Centre For Crime And Justice Studies' (Centre for Crime and Justice Studies, 8 March 2011) <https://www.crimeandjustice.org.uk/publications/cjm/article/truth-and-lies-about-race-and-crime> accessed 24 January 2021.
+<a class="reference" id="54" href="#inline54">[54]</a> Will McMahon and Rebecca Roberts,'Truth And Lies About 'Race' And 'Crime'(Centre for Crime and Justice Studies, 8 March 2011) <https://www.crimeandjustice.org.uk/publications/cjm/article/truth-and-lies-about-race-and-crime> accessed 24 January 2021.
 
-<a class="reference" id="55" href="#inline55">[55]</a> Crime Prosecution Service, 'Secondary Liability: Charging Decisions On Principals And Accessories | The Crown Prosecution Service' (*CPS*, 4 February 2019) <https://www.cps.gov.uk/legal-guidance/secondary-liability-charging-decisions-principals-and-accessories> accessed 24 January 2021.
+<a class="reference" id="55" href="#inline55">[55]</a> Crime Prosecution Service, 'Secondary Liability: Charging Decisions On Principals And Accessories (*CPS*, 4 February 2019) <https://www.cps.gov.uk/legal-guidance/secondary-liability-charging-decisions-principals-and-accessories> accessed 24 January 2021.
 
 <a class="reference" id="56" href="#inline56">[56]</a> ibid.
 
