@@ -13,6 +13,9 @@
 		{% endfor %}
 		</span>
 	</small>
+	<small class="d-block text-muted">
+		By {{ post.author}}
+	</small>
 	<small class="text-muted">
 		{{ post.date | date: '%b %d, %Y' }}
 	</small>
