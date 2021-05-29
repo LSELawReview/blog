@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building the Conscience of Humankind: An Analysis of the Use of Selective Imagery on the 75th Anniversary of International Criminal Justice"
-author: Kevin
+author: Kevin Gerenni
 categories: ["International Law"]
 tags: [ "featured" ]
 ---
