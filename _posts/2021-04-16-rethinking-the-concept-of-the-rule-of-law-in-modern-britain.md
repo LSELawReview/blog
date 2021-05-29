@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rethinking the concept of the Rule of Law in Modern Britain"
-author: Tevž
+author: Tevž Sitar
 categories: ["Public Law"]
 tags: [ "featured" ]
 ---
