@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Darnley v Croydon Health Service NHS Trust: delineating duty and breach"
-author: william
+author: William Wong
 categories: [ "Private Law" ]
 ---
 
