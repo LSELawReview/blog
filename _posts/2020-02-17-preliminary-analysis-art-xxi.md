@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  "Preliminary Analysis of Article XXI: Why the National Security Exception is an Implausible Justification for US Steel and Aluminium Tariffs on China" 
-author: naina  
+author: Naina Gupta  
 categories: [ "International Law" ]
 ---
 
