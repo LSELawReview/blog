@@ -235,7 +235,11 @@ authors:
       name:               "Tai Shen Wong"
       bio:                "LLB (London School of Econonomics and Political Science) '22"
       email:              t.s.wong1@lse.ac.uk
-
+    
+    Vasiliki Poula:
+      name:               "Vasiliki Poula"
+      bio:                "LLB (London School of Econonomics and Political Science) '21"
+      
 # Defaults
 defaults:
 
