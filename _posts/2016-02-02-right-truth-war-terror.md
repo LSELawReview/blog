@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Right to 'Truth' on the War on Terror"
-author: narjis
+author: Narjis Khan
 categories: [ "International Law" ]
 ---
 
