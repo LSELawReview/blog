@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Employees or Independent Contractors: What Defines a “Worker”?"
-author: josias
+author: Josiah Senu
 categories: [ "Private Law"]
 ---
 
