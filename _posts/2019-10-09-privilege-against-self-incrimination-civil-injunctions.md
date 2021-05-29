@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Privilege against Self-Incrimination in Civil Injunctions: the Double-Edged Sword of Themis?"
-author: jason
+author: Jason Lin
 categories: [ "Criminal Law" ]
 ---
 In general, the privilege against self-incrimination ("**PSI**") protects a defendant from being compelled to provide (potentially) incriminating statement or information. PSI may be asserted by a defendant in a civil proceeding in opposition to a disclosure order. Like the double-edged sword of Themis, PSI cuts both ways. Upholding a defendant's assertion of PSI may damage the interest of a claimant. Abrogating PSI may benefit the claimant at the cost of a defendant's right to trial.  This article argues that the respective approaches of courts in Australia and England & Wales are both unsatisfactory. The main aim of this article is to persuade readers that this area of common law must be replaced by a statutory abrogation of PSI and corresponding prohibition against the use of information obtained in such disclosure order against the defendant in a subsequent criminal prosecution.  
