@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A tale of two systems: separation or separability of Hong Kong common law and Chinese socialist legal system?"
-author: thomas
+author: Thomas Yeon
 categories: [ "Public Law"]
 ---
 
