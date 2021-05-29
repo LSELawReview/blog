@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UK/EU Referendum: Are there alternatives to Membership?"
-author: floris
+author: Dr. Floris de Witte
 categories: [ "Public Law"]
 ---
 
