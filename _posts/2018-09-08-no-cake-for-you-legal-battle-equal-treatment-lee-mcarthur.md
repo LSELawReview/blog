@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No Cake for You: The Legal Battle for Equal Treatment in Lee v McArthur & Ors"
-author: austin
+author: Austin Chan
 categories: [ "Public Law" ]
 ---
 
