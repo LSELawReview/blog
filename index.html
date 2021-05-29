@@ -52,6 +52,9 @@ enabled: true
                 <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories#{{ category | slugify }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
               </span>
+              <small class="d-block text-muted">
+		            By {{ post.author}}
+	            </small>
             </span>
             <span class="text-muted">
               {{ latest_post.date | date: '%b %d, %Y' }}
