@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jogee and ‘West Side Story’- Still Unresolved Endings? "
-author: skye 
+author: Claudia-Skye Lee Xin 
 categories: ["Criminal Law"]
 tags: [ "featured" ]
 ---
