@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Individualisation in Contractual Interpretation"
-author: tai shen 
+author: Tai Shen Wong
 categories: ["Private Law"]
 tags: [ "featured" ]
 ---
