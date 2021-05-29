@@ -166,7 +166,7 @@ authors:
       avatar:         /assets/images/williamwong.jpg
       bio:            "LLB (London School of Economics and Political Science) '20 and Private Law Notes Editor of the LSE Law Review 2018-2019"
       email:          williamwuilong@gmail.com
-      category:       contributor
+      category:       editor
 
     Andreas Daum:
       name:           "Andreas Daum"
@@ -178,68 +178,81 @@ authors:
        name:          "Mythili Mishra"
        bio:           "LLB (London School of Economics and Political Science) '21"
        email:          m.mishra1@lse.ac.uk
-       
+       category:       editor
   
     Daniel Henderson: 
       name:               "Daniel Henderson"
       bio:                "LLM (London School of Econonomics and Political Science) '20"
       email:              d.j.henderson@lse.ac.uk 
-   
+      category:           editor
    
     Julius Chen Ma: 
       name:               "Julius Chen Ma"
       bio:                "LLB (London School of Econonomics and Political Science) '22"
       email:              j.c.ma@lse.ac.uk
+      category:           editor
 
     Mahathi Utham Kumar and Hrishikesh Anand: 
       name:               "Mahathi Utham Kumar and Hrishikesh Anand"
       bio:                "National University of Advanced Legal Studies, India '23"
       email:              mahathi.ukj@gmail.com
+      category:           contributor
   
     Mathias Baudena: 
       name:               "Mathias Baudena"
       bio:                "LLB (London School of Econonomics and Political Science) '21"
       email:              M.H.Baudena@lse.ac.uk
-      
+      category:           contributor
+    
     Karen Viktoria Akerø-Stueland:
       name:               "Karen Viktoria Akerø-Stueland"
       bio:                "MSc in Human Rights (London School of Economics and Political Science) '21"
       email:              viktoria.stueland@gmail.com
+      category:           contributor
 
     Kevin Gerenni:
       name:               "Kevin Gerenni"
       bio:                "LLM in Public International Law (London School of Economics and Political Science) '21"
       email:              K.Y.Gerenni@lse.ac.uk
+      category:           editor
       
     James Brown:
       name:               "James Brown"
       bio:                "LLB (University of Huddersfield) '20"
       email:              jamesbrown070699@gmail.com
+      category:           contributor
 
     Osama Shaaban:
       name:               "Osama Shaaban"
       bio:                "LLB (Hons.) Oxford Brookes University '21"
       email:              osama.shaaban2001@gmail.com
+      category:           contributor
 
     Tevž Sitar:
       name:               "Tevž Sitar"
       bio:                "LLB (London School of Econonomics and Political Science) '23"
       email:              t.sitar@lse.ac.uk 
+      category:           editor
       
     Allison Wu:
       name:               "Allison Wu"
       bio:                "LLB (London School of Econonomics and Political Science) '22"
       email:              a.i.wu@lse.ac.uk
+      category:           editor
     
     Tai Shen Wong:
       name:               "Tai Shen Wong"
       bio:                "LLB (London School of Econonomics and Political Science) '22"
       email:              t.s.wong1@lse.ac.uk
+      category:           editor
     
     Vasiliki Poula:
       name:               "Vasiliki Poula"
       bio:                "LLB (London School of Econonomics and Political Science) '21"
+      category:           editor
       
+## Note from Edward to Publications Editor: please write the authors' full names for the author tag you put in each post. It's just to make the coding easier for me for other pages. 
+
 # Defaults
 defaults:
 
