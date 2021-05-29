@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Medical exceptionalism: Best Interests From a Human Rights Perspective"
-author: thomas
+author: Thomas Yeon
 categories: [ "Public Law"]
 ---
 
