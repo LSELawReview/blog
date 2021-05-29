@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hoffmann vs Sumption – Reconciling the battle on contractual interpretation?"
-author: william
+author: William Wong
 categories: ["Private Law"]
 ---
 
