@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Public sneaking into private horizontally: the development of private law as supported by the Human Rights Act 1998"
-author: thomas
+author: Thomas Yeon
 categories: [ "Public Law" ]
 ---
 
