@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  "Airlines, Railways and UNIDROIT: Erasing the COVID Footprint" 
-author: mahathi
+author: Mahathi Utham Kumar and Hrishikesh Anand
 categories: ["International Law"]
 tags: [ "featured" ]
 ---
