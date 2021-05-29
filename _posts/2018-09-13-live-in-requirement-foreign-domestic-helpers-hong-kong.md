@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The 'Live-in Requirement' for Foreign Domestic Helpers in Hong Kong: Fundamental Rights at Risk?"
-author: gloria
+author: Gloria Schiavo
 categories: [ "Public Law"]
 ---
 
