@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Body, My Choice: How Might Artificial Wombs Endanger the Viability Doctrine? Limits to Abortion, Criminalisation and Reconciling the Maternal/Fetal Balance"
-author: James
+author: James Brown
 categories: ["Public Law"]
 tags: [ "featured" ]
 ---
