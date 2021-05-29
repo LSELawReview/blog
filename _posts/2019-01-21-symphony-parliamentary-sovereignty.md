@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A symphony of parliamentary sovereignty"
-author: thomas
+author: Thomas Yeon
 categories: [ "Public Law" ]
 ---
 
