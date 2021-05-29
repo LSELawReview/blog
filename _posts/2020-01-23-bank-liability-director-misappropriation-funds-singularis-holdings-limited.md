@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Bank’s Liability for a Director’s Misappropriation of Funds: Singularis Holdings Limited (in liq) v Daiwa Capital Markets Europe Ltd"
-author: himmy
+author: Himmy Lui
 categories: [ "Private Law" ]
 ---
 
