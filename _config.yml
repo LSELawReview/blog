@@ -230,8 +230,11 @@ authors:
       name:               "Allison Wu"
       bio:                "LLB (London School of Econonomics and Political Science) '22"
       email:              a.i.wu@lse.ac.uk
-       
-
+    
+    tai shen:
+      name:               "Tai Shen Wong"
+      bio:                "LLB (London School of Econonomics and Political Science) '22"
+      email:              t.s.wong1@lse.ac.uk
 
 # Defaults
 defaults:
