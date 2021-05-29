@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "“I felt cheated”[1]: a lost opportunity for upholding a right to terminate life with dignity"
-author: thomas
+author: Thomas Yeon
 categories: [ "Public Law"]
 ---
 
