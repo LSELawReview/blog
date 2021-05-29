@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Undisclosed Principal: Limiting Liability for Negligent Misrepresentations"
-author: isabel
+author: Isabel Hahn
 categories: [ "Private Law"]
 ---
 
