@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Protecting Rights under the Common Law: R(UNISON) v Lord Chancellor"
-author: austin
+author: Austin Chan
 categories: [ "Public Law" ]
 ---
 
