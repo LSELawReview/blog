@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coherence and consistency: the need to avoid judicial confusion and its consequences under the Human Rights Act 1998"
-author: thomas
+author: Thomas Yeon
 categories: [ "Public Law"]
 ---
 
