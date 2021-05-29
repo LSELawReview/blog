@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Private law protection of human rights from corporate abuses: deep and meaningful?"
-author: thomas
+author: Thomas Yeon
 categories: [ "Public Law" ]
 ---
 **Commentary on *Lungowe and others v Vedanta Resources plc and Kokola Copper Mines plc* [2019] UKSC 20<a class="inline-reference" id="inline1" href="#1">1</a>**
