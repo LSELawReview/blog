@@ -37,201 +37,201 @@ authorcategories:
 
 authors:
 
-    austin:
+    Austin Chan:
       name:           "Austin Chan"
       avatar:         /assets/images/austinchan.jpg
       bio:            "LLB (London School of Economics and Political Science) '20 and Notes Editor of the LSE Law Review 2019-2020"
       email:          h.chan21@lse.ac.uk
       category:       editor
       
-    ann-marie:
+    Ann-Marie Sous:
       name:           "Ann-Marie Sous"      
       bio:            "LLB (London School of Economics and Political Science) '20 and Notes Editor (Criminal) at the LSE Law Review 2019-2020"
       category:       editor
 
-    claudia:
+    Claudia Tam:
       name:           "Claudia Tam"
       bio:            "LLB (University of Hong Kong) '19"
       category:       contributor
 
-    ching:
+    Ching Suen:
       name:           "Ching Suen"
       bio:            "LLB (London School of Economics and Political Science) '21 and Private Notes Editor of the LSE Law Review Summer Board 2019"
       category:       contributor
 
-    floris:
+    Dr. Floris de Witte:
       name:           "Dr. Floris de Witte"
       bio:            "Assistant Professor of Law at the London School of Economics and Political Science"
       email:          f.e.de-witte@lse.ac.uk
       category:       contributor
 
-    gloria:
+    Gloria Schiavo:
       name:           "Gloria Schiavo"
       avatar:         /assets/images/gloriaschiavo.jpg
       bio:            "LLB (London School of Economics and Political Science) '20 and Editor-in-Chief of the LSE Law Review 2019-2020"
       email:          g.schiavo@lse.ac.uk
       category:       contributor
       
-    himmy:
+    Himmy Lui:
       name:           "Himmy Lui"
       bio:            "LLM (London School of Economics and Political Science) '20 and Notes Editor of the LSE Law Review 2019-2020"
       category:       editor
       
-    isabel:
+    Isabel Hahn:
       name:           "Isabel Hahn"
       avatar:         /assets/images/isabelhahn.jpg
       bio:            "LLB (London School of Economics and Political Science) '20 and Articles Editor of the LSE Law Review Summer Board 2018"
       email:          i.hahn@lse.ac.uk
       category:       contributor
 
-    jason:
+    Jason Lin:
       name:           "Jason Lin"
       bio:            "LLB (London School of Economics and Political Science) '21 and Criminal Law Notes Editor of the LSE Law Review Summer Board 2019"
       category:       contributor
 
-    josias:
-      name:           "Josias Senu"
+    Josiah Senu:
+      name:           "Josiah Senu"
       bio:            "LLB (London School of Economics and Political Science) '19 and Articles Editor of the LSE Law Review Summer Board 2018"
       email:          josiah_senu@yahoo.com
       category:       contributor
 
-    jonathan:
+    Jonathan Fisher QC:
       name:           "Jonathan Fisher QC"
       bio:            "Visiting Professor in Practice at the London School of Economics and Political Science"
       email:          j.s.fisher@lse.ac.uk
       category:       contributor
 
-    lora:
+    Lora Izvorova:
       name:           "Lora Izvorova"
       avatar:         /assets/images/loraizvorova.jpg
       bio:            "LLM (University of Cambridge) '19 and Management Editor at the LSE Law Review 2017-2018"
       email:          lora.izvorova@gmail.com
       category:       contributor
 
-    mahmoud:
+    Mahmoud Serewel:
       name:           "Mahmoud Serewel"
       bio:            "LLB (London School of Economics and Political Science) '19 and International Law Notes Editor of the LSE Law Review 2018-2019"
       email:          m.s.serewel@lse.ac.uk
       category:       contributor
       
-    naina:
+    Naina Gupta:
       name:           "Naina Gupta"
       bio:            "LLM (Public International Law) (London School of Economics and Political Science) ‘20"
       email:          ngupta.nl@gmail.com
       category:       contributor
       
-    narjis:
+    Narjis Khan:
       name:           "Narjis Khan"
       bio:            "LLM (Public International Law) (London School of Economics and Political Science) ‘16"
       category:       contributor
 
-    thomas:
+    Thomas Yeon:
       name:           "Thomas Yeon"
       avatar:         /assets/images/thomasyeon.jpg
       bio:            "PCLL Candidate (HKU)'2020 and Public Law Notes Editor of the LSE Law Review Summer Board 2019"
       email:          yeonky1997@gmail.com
       category:       contributor
 
-    thomas howard:
+    Thomas Howard:
       name:           "Thomas Howard"
       avatar:         
       bio:            
       email:          
       category:       editor
  
-    madeleine lusted:
+    Madeleine Lusted:
       name:           "Madeleine Lusted"
       bio:            "LLB University of Bristol ('20)"
       category:       contributor
 
-    samantha:
+    Samantha Goh:
       name:           "Samantha Goh"
       bio:            "LLM (International Law) (London School of Economics and Political Science) ‘20 and International Law Notes Editor of LSE Law Review Editorial Board 2019/20"
       category:       editor
 
-    skye:
+    Claudia-Skye Lee Xin:
       name:           "Claudia-Skye Lee Xin"
       bio:            "LLB (London School of Economics and Political Science) '22"
       email:          c.lee-xin@lse.ac.uk
       category:       editor
  
-    simon:
+    Simon Witney:
       name:           "Simon Witney"
       bio:            "PhD Candidate at the London School of Economics and Political Science"
       email:          s.r.witney@lse.ac.uk
       category:       contributor
 
-    william:
+    William Wong:
       name:           "William Wong"
       avatar:         /assets/images/williamwong.jpg
       bio:            "LLB (London School of Economics and Political Science) '20 and Private Law Notes Editor of the LSE Law Review 2018-2019"
       email:          williamwuilong@gmail.com
       category:       contributor
 
-    andreas:
+    Andreas Daum:
       name:           "Andreas Daum"
       bio:            "LLM (London School of Economics and Political Science) '20"
       email:          Andreas.daum.landsberg@gmail.com
       category:       contributor
       
-    mythili: 
+    Mythili Mishra: 
        name:          "Mythili Mishra"
        bio:           "LLB (London School of Economics and Political Science) '21"
        email:          m.mishra1@lse.ac.uk
        
   
-    daniel: 
+    Daniel Henderson: 
       name:               "Daniel Henderson"
       bio:                "LLM (London School of Econonomics and Political Science) '20"
       email:              d.j.henderson@lse.ac.uk 
    
    
-    julius: 
+    Julius Chen Ma: 
       name:               "Julius Chen Ma"
       bio:                "LLB (London School of Econonomics and Political Science) '22"
       email:              j.c.ma@lse.ac.uk
 
-    mahathi: 
+    Mahathi Utham Kumar and Hrishikesh Anand: 
       name:               "Mahathi Utham Kumar and Hrishikesh Anand"
       bio:                "National University of Advanced Legal Studies, India '23"
       email:              mahathi.ukj@gmail.com
   
-    mathias: 
+    Mathias Baudena: 
       name:               "Mathias Baudena"
       bio:                "LLB (London School of Econonomics and Political Science) '21"
       email:              M.H.Baudena@lse.ac.uk
       
-    karen viktoria:
+    Karen Viktoria Akerø-Stueland:
       name:               "Karen Viktoria Akerø-Stueland"
       bio:                "MSc in Human Rights (London School of Economics and Political Science) '21"
       email:              viktoria.stueland@gmail.com
 
-    Kevin:
+    Kevin Gerenni:
       name:               "Kevin Gerenni"
       bio:                "LLM in Public International Law (London School of Economics and Political Science) '21"
       email:              K.Y.Gerenni@lse.ac.uk
       
-    James:
+    James Brown:
       name:               "James Brown"
       bio:                "LLB (University of Huddersfield) '20"
       email:              jamesbrown070699@gmail.com
 
-    Osama:
+    Osama Shaaban:
       name:               "Osama Shaaban"
       bio:                "LLB (Hons.) Oxford Brookes University '21"
       email:              osama.shaaban2001@gmail.com
 
-    Tevž:
+    Tevž Sitar:
       name:               "Tevž Sitar"
       bio:                "LLB (London School of Econonomics and Political Science) '23"
       email:              t.sitar@lse.ac.uk 
       
-    Allison:
+    Allison Wu:
       name:               "Allison Wu"
       bio:                "LLB (London School of Econonomics and Political Science) '22"
       email:              a.i.wu@lse.ac.uk
     
-    tai shen:
+    Tai Shen Wong:
       name:               "Tai Shen Wong"
       bio:                "LLB (London School of Econonomics and Political Science) '22"
       email:              t.s.wong1@lse.ac.uk
