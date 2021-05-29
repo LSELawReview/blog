@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Would becoming a republic be so simple?"
-author: thomas howard
+author: Thomas Howard
 categories: [ "Public Law" ]
 ---
 **Would becoming a republic be so simple?**
