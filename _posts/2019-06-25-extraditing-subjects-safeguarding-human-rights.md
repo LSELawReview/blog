@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Extraditing suspects and safeguarding human rights - a tangled tale"
-authors: [ thomas, claudia ]
+authors: [ Thomas Yeon, Claudia Tam ]
 categories: [ "Public Law"]
 ---
 
