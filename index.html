@@ -53,11 +53,11 @@ enabled: true
                 {% endfor %}
 	       </span>
             </span>
-	    By <span class="text-muted">
-		{{ latest_post.author }}
-            </span> | 
+	    <span class="text-muted">
+		By {{ latest_post.author }}
+            </span>  
             <span class="text-muted">
-              {{ latest_post.date | date: '%b %d, %Y' }}
+              | {{ latest_post.date | date: '%b %d, %Y' }}
             </span>
           </div>
         </div>
