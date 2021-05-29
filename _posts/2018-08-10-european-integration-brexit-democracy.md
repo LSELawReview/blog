@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "European Integration, Brexit and Democracy: What do we do now?"
-author: josias
+author: Josiah Senu
 categories: [ "Public Law" ]
 ---
 
