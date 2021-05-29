@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Grossly Undefined Threshold for Establishing Medical Manslaughter"
-author: skye
+author: Claudia-Skye Lee Xin
 categories: [ "Criminal Law" ]
 ---
 
