@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Afghanistan: Towards wider interests of justice?"
-author: samantha
+author: Samantha Goh
 categories: [ "International Law" ]
 ---
 
