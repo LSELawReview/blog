@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Privacy International: a constitutional barometer"
+title: "Privacy International: a constitutional barometer"
 author: Vasiliki Poula
-categories: [ "Public Law"]
+categories: [ "International Law" ]
 ---
 
 In the 1960s, there was talk of a 'Fairness Revolution' in English judicial review.<a class="inline-reference" id="inline1" href="#1">1</a> One of the most pertinent cases exemplifying such a movement is  Anisminic.<a class="inline-reference" id="inline2" href="#2">2</a> In that case, an administrative statutory body, the Foreign Compensation Commission, was given the job of deciding whether compensation should be awarded for property sequestrated as a result of the 1956 Suez crisis. This was empowered by section 4(4) of  the Foreign Compensation Act 1950,<a class="inline-reference" id="inline3" href="#3">3</a> which provided that:
