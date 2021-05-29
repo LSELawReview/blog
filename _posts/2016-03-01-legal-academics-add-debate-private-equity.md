@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What can legal academics add to the debate about private equity?"
-author: simon
+author: Simon Witney
 categories: [ "Private Law"]
 ---
 
