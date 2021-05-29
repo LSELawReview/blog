@@ -125,6 +125,7 @@ authors:
       bio:            "LLM (Public International Law) (LSE) ‘16"
       category:       contributor
 
+    
     Thomas Yeon:
       name:           "Thomas Yeon"
       avatar:         /assets/images/thomasyeon.jpg
@@ -134,8 +135,7 @@ authors:
 
     Thomas Howard:
       name:           "Thomas Howard"
-      bio:            "BA Jurisprudence with European Law (Oxford)'20
-      email:          
+      bio:            "BA Jurisprudence with European Law (Oxford)'20"   
       category:       contributor
  
     Madeleine Lusted:
