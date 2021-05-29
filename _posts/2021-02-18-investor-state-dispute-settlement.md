@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Investor-State Dispute Settlement: Understanding the System's Legitimacy Crisis in Constitutional Terms"
-author: mathias 
+author: Mathias Baudena 
 categories: ["International Law"]
 tags: [ "featured" ]
 ---
