@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The illegality of Russian intervention in Syria"
-author: mahmoud
+author: Mahmoud Serewel
 categories: [ "International Law" ]
 ---
 
