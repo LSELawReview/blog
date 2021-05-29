@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Standard Bank Plc Deferred Prosecution Agreement"
-author: jonathan
+author: Jonathan Fisher QC
 categories: [ "Criminal Law"]
 ---
 
