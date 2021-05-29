@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "English Choice of Law in Contract Under the Rome I Regime: Is Flexibility Giving Way to Predictability?"
-author: lora
+author: Lora Izvorova
 categories: [ "Private Law" ]
 ---
 
