@@ -15,7 +15,16 @@
                     </span>
                 </span>
                 <small class="d-block text-muted">
-		By {{ post.author}}
+		By {% if post.author %}
+		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/authors#{{ post.author | slugify }}">{{ post.author }}</a>
+		{% endif %}
+		{% if post.authors %}
+		<span class="authorlist">
+			{% for author in post.authors %}
+			<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/authors#{{ author | slugify }}"> {{ site.authors[author].name }}</a><span class="sep"> &</span>
+			{% endfor %}
+		</span>
+		{% endif %}
                 </small>
             </span>
             </li>

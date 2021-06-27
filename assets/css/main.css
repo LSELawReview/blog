@@ -8460,3 +8460,9 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+@media (min-width:991.98px) {
+  .temp-fix {
+    padding-top: 20px !important;
+  }
+}

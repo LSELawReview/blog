@@ -63,9 +63,9 @@ permalink: "/authors"
         {% assign posts = "" | split: "" %}
 
         {% for post in site.posts %}
-        {% if post.author == author[0] or post.authors contains author[0] %}
-        {% assign posts = posts | push: post %}
-        {% endif %}
+          {% if post.author == author[0] or post.authors contains author[0] %}
+          {% assign posts = posts | push: post %}
+          {% endif %}
         {% endfor %}
 
         {% for post in posts %}

@@ -19,11 +19,11 @@ layout: default
 					<span class="authorlist">
 						By
 
-						{% if page.author %}<a href="{{site.baseurl}}/authors#{{ page.author }}"> {{ site.authors[page.author].name }}</a>{% endif %}
+						{% if page.author %}<a href="{{site.baseurl}}/authors#{{ page.author | slugify }}"> {{ site.authors[page.author].name }}</a>{% endif %}
 
 						{% if page.authors %}
 						{% for author in page.authors %}
-						<a href="{{site.baseurl}}/authors#{{ author }}"> {{ site.authors[author].name }}</a><span class="sep"> &</span>
+						<a href="{{site.baseurl}}/authors#{{ author | slugify }}"> {{ site.authors[author].name }}</a><span class="sep"> &</span>
 						{% endfor %}
 						{% endif %}
 					</span>
