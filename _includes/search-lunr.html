@@ -1,4 +1,5 @@
-<script src="{{site.baseurl}}/assets/js/lunr.js"></script>
+<script src="{{site.baseurl}}/assets/js/jss.js"></script>
+<script src="{{site.baseurl}}/assets/js/purify.js"></script>
 
 <script>
 //     (function() {
@@ -32,8 +33,8 @@ var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or p
     "body": "{{ page.date | date: "%Y/%m/%d" }} - {{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
     }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}];
 
-
-var idx;
+var search;
+// var idx;
 
 function lunr_search(term) {
     $('#lunrsearchresults').show( 1000 );
@@ -45,14 +46,16 @@ function lunr_search(term) {
     if(term) {
         document.getElementById('modtit').innerHTML = "<h5 class='modal-title'>Search results for '" + term + "'</h5>" + document.getElementById('modtit').innerHTML;
         //put results on the screen.
-        var results = idx.search(term);
+        // var results = idx.search(term);
+        var results = search.search(term);
+        results.sort((a,b) => a.id>b.id ? 1 : -1);
         // console.log(results);
         if(results.length>0){
             //console.log(idx.search(term));
             //if results
             for (var i = 0; i < results.length; i++) {
                 // more statements
-                var ref = results[i]['ref'];
+                var ref = results[i]['id'];
                 var url = documents[ref]['url'];
                 var title = documents[ref]['title'];
                 var body = documents[ref]['body'].substring(0,160)+'...';
@@ -80,20 +83,32 @@ function lunr_search(term) {
 <script>
     document.querySelector("#search-form").addEventListener("submit", function (event) {
         event.preventDefault();
-        if(idx === undefined) {
-            idx = lunr(function () {
-            this.ref('id')
-            this.field('title')
-            this.field('body')
+        if(search === undefined) {
+            search = new JsSearch.Search('id');
+            search.indexStrategy = new JsSearch.AllSubstringsIndexStrategy();
+            search.addIndex('title');
+            search.addIndex('body');
+            search.addDocuments(documents);
+            // idx = lunr(function () {
+            // this.ref('id')
+            // this.field('title')
+            // this.field('body')
 
-            documents.forEach(function (doc) {
-                // let time = Date.now()
-                this.add(doc)
-                // console.log({doc, time: Date.now()-time})
-                // console.log(this)
-            }, this)
-            });
+            // documents.forEach(function (doc) {
+            //     // let time = Date.now()
+            //     this.add(doc)
+            //     // console.log({doc, time: Date.now()-time})
+            //     // console.log(this)
+            // }, this)
+            // });
         }
-        return lunr_search(document.getElementById('lunrsearch').value);
+        var sanitized = filterXSS(document.getElementById('lunrsearch').value,{
+            whiteList:          [],        // empty, means filter out all tags
+            stripIgnoreTag:     true,      // filter out all HTML not in the whilelist
+            stripIgnoreTagBody: ['script'] // the script tag is a special case, we need
+                                            // to filter out its content
+        })
+        sanitized = !sanitized ? '?' : sanitized
+        return lunr_search(sanitized);
     })
 </script>
