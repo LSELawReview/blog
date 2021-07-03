@@ -2,12 +2,6 @@
 <script src="{{site.baseurl}}/assets/js/purify.js"></script>
 
 <script>
-//     (function() {
-//     document.querySelector("#lunrsearchresults").addEventListener('click', '#btnx', function () {
-//         document.querySelector('#lunrsearchresults').style.display = 'none';
-//         document.querySelector("body").classList.remove("modal-open");
-//     })();
-// });
 $(function() {
     $("#lunrsearchresults").on('click', '#btnx', function () {
         $('#lunrsearchresults').hide( 1000 );
@@ -19,16 +13,19 @@ $(function() {
 var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' %}{% else %}{
     "id": {{ counter }},
     "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
+    "author": "",
     "title": "{{ page.title }}",
     "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
     }, {% endif %}{% endfor %}{% for page in site.without-plugin %}{
     "id": {{ counter }},
     "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
+    "author": "",
     "title": "{{ page.title }}",
     "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
     }, {% endfor %}{% for page in site.posts %}{
     "id": {{ counter }},
     "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
+    "author": {% if page.author %} "{{ page.author }}" {% endif %} {% if page.authors %} "{{ page.authors }}" {% endif %},
     "title": "{{ page.title }}",
     "body": "{{ page.date | date: "%Y/%m/%d" }} - {{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
     }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}];
@@ -38,9 +35,7 @@ var search;
 
 function lunr_search(term) {
     $('#lunrsearchresults').show( 1000 );
-    // document.querySelector('#lunrsearchresults').style.display = 'block';
     $( "body" ).addClass( "modal-open" );
-    // document.querySelector( "body" ).classList.add( "modal-open" );
 
     document.getElementById('lunrsearchresults').innerHTML = '<div id="resultsmodal" class="modal fade show d-block"  tabindex="-1" role="dialog" aria-labelledby="resultsmodal"> <div class="modal-dialog shadow-lg" role="document"> <div class="modal-content"> <div class="modal-header" id="modtit"> <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button> </div> <div class="modal-body"> <ul class="mb-0"> </ul>    </div> <div class="modal-footer"><button id="btnx" type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Close</button></div></div> </div></div>';
     if(term) {
@@ -49,9 +44,7 @@ function lunr_search(term) {
         // var results = idx.search(term);
         var results = search.search(term);
         results.sort((a,b) => a.id>b.id ? 1 : -1);
-        // console.log(results);
         if(results.length>0){
-            //console.log(idx.search(term));
             //if results
             for (var i = 0; i < results.length; i++) {
                 // more statements
@@ -88,6 +81,7 @@ function lunr_search(term) {
             search.indexStrategy = new JsSearch.AllSubstringsIndexStrategy();
             search.addIndex('title');
             search.addIndex('body');
+            search.addIndex('author');
             search.addDocuments(documents);
             // idx = lunr(function () {
             // this.ref('id')

@@ -8461,8 +8461,28 @@ html {
   .align-self-xl-stretch {
     align-self: stretch !important; } }
 
+
+.sponsor {
+  height: 200px;
+  margin: 5px 0 10px 0;
+}
+
+.cambridge {
+  width: 800px;
+}
+
 @media (min-width:991.98px) {
   .temp-fix {
     padding-top: 20px !important;
+  }
+}
+
+@media (max-width:992px) {
+  .sponsor {
+    height: 150px;
+  }
+
+  .cambridge {
+    width: 550px;
   }
 }
